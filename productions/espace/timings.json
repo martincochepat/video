@@ -1,0 +1,39 @@
+{
+  "basis": "editorial-not-measured",
+  "scenes": [
+    {
+      "id": "attract",
+      "startSeconds": 0,
+      "endSeconds": 4
+    },
+    {
+      "id": "switch",
+      "startSeconds": 4,
+      "endSeconds": 8
+    },
+    {
+      "id": "run",
+      "startSeconds": 8,
+      "endSeconds": 12
+    },
+    {
+      "id": "resolve",
+      "startSeconds": 12,
+      "endSeconds": 15
+    }
+  ],
+  "events": [
+    {
+      "atSeconds": 2.2,
+      "meaning": "révélation du couloir"
+    },
+    {
+      "atSeconds": 4.6,
+      "meaning": "passe latérale"
+    },
+    {
+      "atSeconds": 9,
+      "meaning": "passe dans la course"
+    }
+  ]
+}

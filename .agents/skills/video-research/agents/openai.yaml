@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-research"
+  short_description: "Atelier vidéo : research"
+  default_prompt: "Utilise $video-research pour cette production vidéo."

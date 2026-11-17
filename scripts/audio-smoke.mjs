@@ -1,0 +1,25 @@
+// Test d’intégration sans service externe : une sonde sonore, pas une fausse voix.
+import fs from 'node:fs';
+import path from 'node:path';
+import {execFileSync} from 'node:child_process';
+import {root,read,write,hash} from './atelier-lib.mjs';
+const id='voice-smoke',dir=path.join(root,'productions',id);
+fs.mkdirSync(dir,{recursive:true});
+const p=read(path.join(root,'productions/espace/manifest.json'));
+p.id=id;p.subtitles.enabled=true;
+write(path.join(dir,'manifest.json'),p);
+for(const name of ['brief.md','script.md','storyboard.md','art-direction.md','sources.json','media.json','timings.json'])fs.copyFileSync(path.join(root,'productions/espace',name),path.join(dir,name));
+fs.writeFileSync(path.join(dir,'brief.md'),'Sonde audio de 4 s : test technique local, ni voix ni narration. Repères de fixture connus.\n');
+const audio=path.join(dir,'tone.wav');
+execFileSync('ffmpeg',['-y','-v','error','-f','lavfi','-i','sine=frequency=440:duration=4','-af','volume=0.03',audio]);
+const segments=['attract','switch','run','resolve'].map((sceneId,i)=>({sceneId,text:`Sonde audio ${i+1}`,startSeconds:i+.05,endSeconds:i+.85}));
+write(path.join(dir,'segments.json'),segments);
+const run=(...args)=>execFileSync(process.execPath,['scripts/atelier.mjs',...args],{cwd:root,stdio:'inherit'});
+run('voice',id,audio,'--timings',path.join(dir,'segments.json'));
+const voice=read(path.join(dir,'manifest.json')).voice;
+run('voice',id,audio,'--timings',path.join(dir,'segments.json'));
+if(read(path.join(dir,'manifest.json')).voice.sha256!==voice.sha256)throw new Error('Cache audio non déterministe');
+run('render',id);run('inspect',id);
+const record=path.join(dir,'exports/preview.json'),before=hash(fs.readFileSync(record));run('render',id);
+if(hash(fs.readFileSync(record))!==before)throw new Error('Rendu identique régénéré inutilement');
+console.log('Import, cache SHA-256, scènes recalées, sous-titres et AAC testés sans service payant.');

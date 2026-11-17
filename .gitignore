@@ -2,3 +2,8 @@ node_modules/
 out/
 .remotion/
 *.log
+productions/*/exports/
+productions/*/quality/
+productions/*/cache/
+productions/voice-smoke/
+public/productions/voice-smoke/

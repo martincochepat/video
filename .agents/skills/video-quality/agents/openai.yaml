@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-quality"
+  short_description: "Atelier vidéo : quality"
+  default_prompt: "Utilise $video-quality pour cette production vidéo."

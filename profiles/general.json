@@ -1,0 +1,21 @@
+{
+  "name": "Général",
+  "language": "fr",
+  "background": "#101c23",
+  "foreground": "#f8f3e8",
+  "accent": "#f1ae55",
+  "muted": "#b5c3c8",
+  "direction": "Choisir une palette et une grammaire selon le sujet ; ces couleurs ne sont qu’un départ.",
+  "safeArea": {
+    "top": 150,
+    "right": 100,
+    "bottom": 260,
+    "left": 100
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 48,
+    "maxChars": 48
+  },
+  "aiImages": false
+}

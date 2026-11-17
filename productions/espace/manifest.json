@@ -1,0 +1,70 @@
+{
+  "id": "espace",
+  "status": "ready",
+  "component": "space",
+  "profile": "ligue-onze",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationSeconds": 15,
+  "safeArea": {
+    "top": 150,
+    "right": 100,
+    "bottom": 280,
+    "left": 100
+  },
+  "palette": {
+    "background": "#151020",
+    "foreground": "#faf6ff",
+    "accent": "#bf9aff",
+    "muted": "#c2b6d2"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 48,
+    "maxChars": 48
+  },
+  "voice": null,
+  "captions": [],
+  "scenes": [
+    {
+      "id": "attract",
+      "startSeconds": 0,
+      "endSeconds": 4
+    },
+    {
+      "id": "switch",
+      "startSeconds": 4,
+      "endSeconds": 8
+    },
+    {
+      "id": "run",
+      "startSeconds": 8,
+      "endSeconds": 12
+    },
+    {
+      "id": "resolve",
+      "startSeconds": 12,
+      "endSeconds": 15
+    }
+  ],
+  "keyframesSeconds": [
+    0,
+    1,
+    3.5,
+    4.8,
+    6,
+    7.5,
+    9.3,
+    10.5,
+    11.7,
+    13,
+    14.8
+  ],
+  "transitionSeconds": [
+    4,
+    8,
+    12
+  ],
+  "assets": []
+}

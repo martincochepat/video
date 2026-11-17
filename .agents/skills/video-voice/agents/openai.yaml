@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-voice"
+  short_description: "Atelier vidéo : voice"
+  default_prompt: "Utilise $video-voice pour cette production vidéo."

@@ -1,0 +1,11 @@
+{
+  "status": "reviewed",
+  "claims": [],
+  "notes": "Illustration tactique originale et simplifiée, pas une analyse de match, une règle de jeu ou une promesse de résultat. Aucun chiffre, classement, logo, capture ni fait d’actualité utilisé. Pas de recherche externe nécessaire. Les positions sont une mise en scène explicative, pas des données sportives.",
+  "assets": [
+    {
+      "path": "public/fonts",
+      "source": "Polices DejaVu installées, licence jointe"
+    }
+  ]
+}

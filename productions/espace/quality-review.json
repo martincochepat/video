@@ -1,0 +1,40 @@
+{
+  "status": "pass",
+  "reviewer": "Codex — examen visuel des images et séquences échantillonnées",
+  "finalSha256": "ba9aaaed3f3e5894a7c197d550eeea6398f099ef456ad548859756b91f72ac20",
+  "previewSha256": "9871b16ffd10f5f46b34e9e1f8dce2a748aa209d7401ad873f66daed008d3d67",
+  "understanding": {
+    "status": "pass",
+    "evidence": "0–4 s : défense attirée ; 5–6,1 s : passe ; 9–11,6 s : course et ballon convergent. Schéma explicatif sans données de match."
+  },
+  "composition": {
+    "status": "pass",
+    "evidence": "Titres droits, zones distinctes pour terrain, explication et légende. Le recadrage SVG est désormais limité au viewport pour préserver le texte.",
+    "corrections": [
+      "Réduction des titres à 84–92 px et interligne augmenté après détection de débordements.",
+      "Clipping du zoom au cadre du terrain après examen visuel : aucune superposition sur le titre ou l’explication."
+    ]
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "Terrain d’ensemble au départ, révélation du couloir, passe diagonale, plan rapproché sur la course puis diagramme de synthèse. La continuité du terrain est intentionnelle.",
+    "limitation": "Vocabulaire réduit à la tactique ; ne pas utiliser cette composition comme gabarit pour tous les sujets."
+  },
+  "motion": {
+    "status": "pass",
+    "evidence": "Défense déplacée à 0,5–2,8 s ; anticipation à 8,3–8,6 s puis course à 9–11,6 s ; caméra à 8–9,2 s ; arrivées contrôlées par courbe de Bézier. Séquences à ±0,5 s des trois coupes examinées."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "Trois temps de 4 secondes, puis synthèse de 3 secondes. La passe et la course ont des phases de lecture stables. Sans narration, durées éditoriales explicitement non mesurées."
+  },
+  "consistency": {
+    "status": "pass",
+    "evidence": "Palette Ligue Onze, fonte locale, même ballon et mêmes joueurs entre les trois premiers plans ; flèche conservée dans le diagramme final. Aucun logo, pseudo ou média inventé."
+  },
+  "limitations": [
+    "Jugement visuel de l’agent, pas une étude auprès de spectateurs.",
+    "Images clés et séquences autour des coupes examinées ; pas une inspection manuelle de chacune des 900 images.",
+    "Pas de narration ElevenLabs ni d’alignement humain testé : aucune clé et aucun appel payant."
+  ]
+}

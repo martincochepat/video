@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-art-direction"
+  short_description: "Atelier vidéo : art-direction"
+  default_prompt: "Utilise $video-art-direction pour cette production vidéo."

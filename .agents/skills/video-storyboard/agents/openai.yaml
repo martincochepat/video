@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-storyboard"
+  short_description: "Atelier vidéo : storyboard"
+  default_prompt: "Utilise $video-storyboard pour cette production vidéo."

@@ -1,67 +1,75 @@
-# Studio vidéo
+# Atelier de motion design
 
-Projet Remotion + React + TypeScript. La composition `StudioReady` affiche
-« Le studio est prêt » en texte horizontal clair sur fond sombre avec un fondu
-progressif de 1 seconde, puis maintien. Format vertical 1080 × 1920, 30 images/s,
-90 images, durée 3 secondes. Aucun son et aucun appel à un service payant.
+**Une consigne dans Codex** déclenche recherche si nécessaire, scénario, storyboard, direction artistique, composition Remotion, audio si configuré, contrôle et export MP4.
 
-## Reprendre le projet
+> Utilise video-director pour créer une vidéo verticale de 20 secondes sur [sujet], destinée à [public], profil général, sans voix.
 
-Dans `/workspace/video`, avec Node 24 et npm 11 :
+Ou :
+
+> Crée une vidéo Ligue Onze sur [sujet], avec les captures fournies, sans afficher de pseudos réels.
+
+Notre méthode est originale et n’utilise aucun fichier privé de MotionLab. Les huit skills métier sont dans `.agents/skills/video-*/`, avec les 13 skills officiels Remotion déjà installés pour Codex. Le CLI exécute le travail ; Codex écrit le scénario et les scènes sur mesure, au lieu de remplir une série de cartes.
+
+## Démarrer
+
+Prérequis cloud : Node 24, npm 11, `/usr/bin/chromium`, FFmpeg et ffprobe.
 
 ```bash
 bash scripts/setup.sh
 npm run studio -- --port=3000
 ```
 
-Le Studio est un processus de développement à relancer pour chaque nouvelle
-machine. Le rendu en ligne de commande ne nécessite pas que le Studio soit lancé.
+Les versions npm sont fixes et le lockfile est suivi. Le cache npm est dans `/workspace/.npm-cache` car le répertoire personnel cloud est protégé. Aucun téléchargement de navigateur n’est nécessaire. Sur une autre image Debian, installer Chromium et FFmpeg avant le script.
+
+## Créer et livrer
 
 ```bash
-npm run render
-npm run verify:video
+npm run atelier -- new mon-sujet --brief "Ma consigne" --profile general
+# Codex applique les huit skills, écrit la composition et complète la production.
+npm run atelier -- render mon-sujet
+npm run atelier -- inspect mon-sujet
+# Version finale à 60 images/s :
+npm run atelier -- render mon-sujet --final
+npm run atelier -- inspect mon-sujet --final
 ```
 
-Le MP4 H.264 est produit dans `out/le-studio-est-pret.mp4`. `verify:video` vérifie
-ses dimensions, son codec, sa durée, ses 90 images, l'absence d'audio, puis décode
-trois images du MP4 pour contrôler la progression du fondu.
+Le profil général s’adapte au sujet. Le profil Ligue Onze est français, football et violet : textes droits, logo officiel et captures fournis uniquement, aucun pseudo réel non demandé et aucune image IA par défaut. Le violet n’est pas imposé aux autres vidéos.
 
-## Dépendances et navigateur
+Chaque production conserve brief, sources, scénario, storyboard, direction artistique, médias, timings et contrôle dans `productions/<id>/`. Les exports H.264 se trouvent dans `exports/` ; audio AAC si présent. Preview 30 fps et final 60 fps partagent les mêmes temps en secondes. Polices locales avec licence, animations déterministes, cache médias et audio SHA-256.
 
-Les versions npm sont fixes et `package-lock.json` est suivi. `npm ci` restaure
-les dépendances sans modifier le verrouillage. `.npmrc` place le cache dans
-`/workspace/.npm-cache`, car le répertoire personnel cloud est protégé.
+## Exemple réalisé
 
-Chromium et FFmpeg/ffprobe sont déjà fournis par cette image Linux. La configuration
-`remotion.config.ts` sélectionne `/usr/bin/chromium` ; le rendu testé utilise ce
-navigateur et le moteur de rendu local Remotion. Sur une autre image Debian,
-installer les paquets système `chromium` et `ffmpeg` avant `scripts/setup.sh`.
-
-Réseau nécessaire à une réinstallation : `registry.npmjs.org` et ses téléchargements
-npm ; `github.com` pour Git et une mise à jour des skills. Le téléchargement optionnel
-du Chrome Remotion a reçu HTTP 403 sur `remotion.media`. Il n'est pas nécessaire au
-workflow configuré. Pour utiliser ce navigateur à l'avenir, autoriser
-`www.remotion.dev` et `remotion.media` dans les paramètres réseau, puis retirer le
-choix Chromium de la configuration et exécuter `npm run browser:ensure` avec la
-commande Remotion de téléchargement appropriée.
-
-## Skills Codex officiels
-
-Installés depuis https://github.com/remotion-dev/skills avec :
+`productions/espace/` explique un mécanisme tactique en 15 secondes : attirer la défense, décaler le ballon, attaquer le couloir libre. Terrain SVG continu, trajectoires, zoom sur la course puis synthèse graphique. C’est une illustration pédagogique sans statistiques, logo, capture ou pseudo réel.
 
 ```bash
-NODE_USE_ENV_PROXY=1 npx skills add remotion-dev/skills --agent codex --yes
+npm run atelier -- render espace --final
+npm run atelier -- inspect espace --final
 ```
 
-Les 13 skills sont conservés dans `.agents/skills/` avec `skills-lock.json`.
-La source officielle inspectée était au commit
-`3e20ac75161bc34468845df714701cc9bf6075f4` (Remotion 4.0.544).
-Lire `AGENTS.md` avant toute modification. Aucune clé API n'est requise.
+L’ancien test `StudioReady` reste disponible via `npm run render` et `npm run verify:video`.
 
-## Configuration cloud
+## Voix et sous-titres
 
-Le script d'installation et les instructions de démarrage sont enregistrés dans
-le brouillon de configuration cloud. Examiner/enregistrer ce brouillon puis publier
-l'environnement via l'interface pour conserver le snapshot préparé. Les processus
-ne survivent pas à la restauration. Une reprise dans une nouvelle tâche n'est pas
-considérée testée avant son exécution effective.
+Aucun service payant n’est appelé par défaut. Import vocal avec segments horodatés :
+
+```bash
+npm run atelier -- voice mon-sujet ma-voix.wav --timings segments.json
+```
+
+La durée du fichier est mesurée par ffprobe ; les repères fournis restent étiquetés `provided-alignment`. Les scènes sont recalées sur ces repères. Les sous-titres sont activables dans le manifeste et un SRT est exporté. Sans repères fiables, aucune fausse synchronisation n’est produite.
+
+ElevenLabs est préparé mais n’a pas été appelé. Une future utilisation exige accord explicite, clé sécurisée `ELEVENLABS_API_KEY` et accès HTTPS à `api.elevenlabs.io`. Aucun secret ne doit être écrit dans Git ou le chat. Voir [audio et timings](references/audio.md).
+
+## Vérifier
+
+```bash
+npm run typecheck
+npm run test:atelier
+node scripts/audio-smoke.mjs
+npm run atelier -- skills
+npm_config_cache=/workspace/.npm-cache npx --offline skills list --agent codex
+```
+
+Le test audio utilise une sonde locale, pas une voix simulée. `inspect` décode le MP4, vérifie ses caractéristiques, les textes et polices aux instants clés, puis crée une planche et des clips autour des transitions. Le jugement artistique est consigné séparément sur six axes. L’échantillonnage ne remplace pas l’examen visuel des mouvements et des SVG.
+
+Guide et contrats complets : [méthode](references/workflow.md). Instructions de reprise : [AGENTS.md](AGENTS.md). Les exports et caches sont ignorés par Git ; conserver les livrables téléchargés ou l’archive de livraison. Aucun environnement cloud n’est publié automatiquement par ce projet.

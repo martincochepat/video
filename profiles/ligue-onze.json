@@ -1,0 +1,21 @@
+{
+  "name": "Ligue Onze",
+  "language": "fr",
+  "background": "#151020",
+  "foreground": "#faf6ff",
+  "accent": "#bf9aff",
+  "muted": "#c2b6d2",
+  "direction": "Football, français vivant, violet réservé à ce profil. Textes droits. Logo officiel et captures fournis uniquement, jamais de faux logo, de pseudo réel ni d’image IA par défaut.",
+  "safeArea": {
+    "top": 150,
+    "right": 100,
+    "bottom": 280,
+    "left": 100
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 48,
+    "maxChars": 48
+  },
+  "aiImages": false
+}

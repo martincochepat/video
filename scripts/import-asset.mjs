@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+import {productionDir,root,read,write,hash} from './atelier-lib.mjs';
+const [id,file,...args]=process.argv.slice(2);
+const sourceIndex=args.indexOf('--source');
+assert.ok(file&&sourceIndex>=0&&args[sourceIndex+1],'Usage : node scripts/import-asset.mjs ID FILE --source "provenance et droits"');
+const dir=productionDir(id),manifest=path.join(dir,'manifest.json'),p=read(manifest);
+const ext=path.extname(file).toLowerCase();assert.ok(['.png','.jpg','.jpeg','.svg','.webp','.mp4','.webm','.wav','.mp3','.m4a'].includes(ext),'Format non pris en charge');
+const bytes=fs.readFileSync(file),sha256=hash(bytes),src=`productions/${id}/media/${sha256}${ext}`,target=path.join(root,'public',src);
+fs.mkdirSync(path.dirname(target),{recursive:true});
+if(fs.existsSync(target))assert.equal(hash(fs.readFileSync(target)),sha256,'Cache corrompu');else fs.writeFileSync(target,bytes);
+const asset={src,sha256,source:args[sourceIndex+1]};
+p.assets=[...(p.assets??[]).filter(a=>a.src!==src),asset];write(manifest,p);write(path.join(dir,'media.json'),{assets:[...p.assets,...(p.voice?[p.voice]:[])]});
+console.log(JSON.stringify(asset));

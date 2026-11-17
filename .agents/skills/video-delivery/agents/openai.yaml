@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-delivery"
+  short_description: "Atelier vidéo : delivery"
+  default_prompt: "Utilise $video-delivery pour cette production vidéo."

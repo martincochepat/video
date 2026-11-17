@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-script"
+  short_description: "Atelier vidéo : script"
+  default_prompt: "Utilise $video-script pour cette production vidéo."
