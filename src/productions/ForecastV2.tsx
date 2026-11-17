@@ -65,12 +65,12 @@ const Score=({a,b,t,at,y=720,size=350}:{a:string;b:string;t:number;at:number;y?:
  <div style={{position:'absolute',left:485,top:size*.29,width:120,textAlign:'center',fontFamily:T,fontSize:size*.45,lineHeight:1.22,color:C.muted}}>–</div>
 </div>;
 
-const Opening=({t,resolution=false}:{t:number;resolution?:boolean})=>{
+const Opening=({t,resolution=false,harmonized=false}:{t:number;resolution?:boolean;harmonized?:boolean})=>{
  const open=resolution?move(t,14.65,15.25,0,1):0;
  const lag=resolution?0:move(t,.35,.65,0,6)-move(t,.65,.95,0,6);
  return <>
  <Pitch clearScore={resolution}/>
- <Header a={resolution?'MON CHOIX :':'JE VOIS LA'} b={resolution?'LE DANEMARK.':'NORVÈGE PERDRE.'} match="DANEMARK – NORVÈGE" step={resolution?4:undefined}/>
+ <Header a={harmonized?'DANEMARK':resolution?'MON CHOIX :':'JE VOIS LA'} b={harmonized?'– NORVÈGE':resolution?'LE DANEMARK.':'NORVÈGE PERDRE.'} match={harmonized?undefined:"DANEMARK – NORVÈGE"} step={resolution?4:undefined}/>
  <Pole x={96-open*130} y={615} height={1020}/><Pole x={995+open*130} y={615} height={1020}/>
  <Fabric code="dk" x={110-open*130} y={675+open*15+lag} w={340} angle={-3-open*3}/>
  <Fabric code="no" x={650+open*130} y={675+open*15-lag*.5} w={340} angle={3+open*3}/>
@@ -186,3 +186,6 @@ export const ForecastV2=({production}:{production:P})=>{
   {(t<9.56||t>=14)&&<svg viewBox="0 0 1080 1920" style={{position:'absolute',inset:0,width:1080,height:1920,pointerEvents:'none'}}><Sphere {...p} spin={forecastV2BallSpin(t)}/></svg>}
  </AbsoluteFill></WorkshopShell>;
 };
+
+// Reprise V3 : mêmes illustrations et gestes, V2 conservée.
+export const forecastParts={Pitch,Fabric,Sphere,Opening,Aerial,Lateral,CloseNet};

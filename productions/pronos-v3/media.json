@@ -1,0 +1,7 @@
+{
+  "assets": "Réutilisation des actifs V2 ; hashes dans manifest.json, mêmes licences flag-icons MIT et polices OFL.",
+  "logo": "Absent ; original affiché dans la conversation mais non récupérable comme fichier.",
+  "voice": null,
+  "audio": "Aucun audio fourni ; V2 silencieuse ; aucune génération.",
+  "aiImages": false
+}

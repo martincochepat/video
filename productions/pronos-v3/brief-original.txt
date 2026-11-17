@@ -1,0 +1,228 @@
+REPRISE DE LA VIDÉO EXISTANTE — LIGUE ONZE
+
+Utilise les skills, AGENTS.md, instructions et composants déjà présents.
+Modifie la dernière version : ne reconstruis pas le projet.
+
+La planche jointe définit la direction à conserver :
+fond sombre, terrain immersif, fanions détaillés, grandes typographies,
+scores lisibles, crampons et ballon illustrés.
+
+Préserve les illustrations réussies et les mouvements fonctionnels.
+Améliore les raccords et la finition sans multiplier les effets.
+
+OBJECTIF
+
+Une vidéo complète avec :
+1. une accroche générale ;
+2. quatre pronostics dans l’ordre ci-dessous ;
+3. une synthèse invitant aux commentaires ;
+4. une courte signature Ligue Onze.
+
+FORMAT
+
+Vertical 1080 × 1920, 60 images/s.
+Durée indicative : 27 à 30 secondes.
+Si une voix off est fournie, adapter précisément le montage
+à sa durée et aux mots réellement prononcés.
+
+Sans audio fourni, préparer le montage pour le texte ci-dessous,
+sans générer de voix payante.
+
+CONTENU
+
+Vérifier les rencontres, la compétition et les horaires avant export.
+Ne pas modifier silencieusement les pronostics fournis.
+Si une affiche est incorrecte, signaler le problème.
+
+Ordre impératif :
+1. Pays de Galles – Portugal : 0–2
+2. Pologne – Suède : 1–2
+3. Ukraine – Géorgie : 1–0
+4. Danemark – Norvège : 2–1
+
+Les scores sont des pronostics, jamais des résultats certains.
+
+SÉQUENCE 1 — ACCROCHE, ENVIRON 0 À 3 SECONDES
+
+Remplacer « Je vois la Norvège perdre » par :
+
+« 4 MATCHS.
+4 SCORES EXACTS. »
+
+Puis faire apparaître :
+« JE PRENDS LE RISQUE ! »
+
+Dès la première image :
+- « 4 MATCHS » est entièrement lisible ;
+- une action visuelle est déjà engagée ;
+- aucun écran noir ni introduction de logo.
+
+Mise en scène :
+Un grand ballon traverse le premier plan.
+Son passage révèle « 4 SCORES EXACTS » par un masque propre.
+« JE PRENDS LE RISQUE ! » arrive ensuite avec un accent citron.
+
+Ne pas animer chaque lettre séparément.
+Garder les phrases assez longtemps pour les lire.
+
+Dans la partie inférieure, quelques fanions des rencontres
+installent immédiatement le contexte football.
+Ne pas montrer les quatre scores dès l’ouverture.
+
+Le ballon conduit vers le premier terrain.
+Le premier pronostic doit être révélé vers 3 à 4 secondes,
+sans prolonger artificiellement l’introduction.
+
+SÉQUENCES 2 À 5 — LES QUATRE MATCHS
+
+Conserver les bonnes compositions de la dernière version :
+
+PAYS DE GALLES – PORTUGAL : 0–2
+Terrain vu du dessus, fanions et score dominant.
+
+POLOGNE – SUÈDE : 1–2
+Confrontation avec fanions, crampons et ballon.
+
+UKRAINE – GÉORGIE : 1–0
+Gros plan du filet avec réaction locale à l’impact du ballon.
+
+DANEMARK – NORVÈGE : 2–1
+Confrontation des deux grands fanions, score central.
+
+Remplacer « MON CHOIX : LE DANEMARK » par
+« DANEMARK – NORVÈGE » pour harmoniser les titres des matchs.
+
+Conserver une seule mention discrète « MES PRONOS »
+et la progression 1/4 à 4/4.
+
+Pour chaque rencontre :
+- identifier les équipes avant ou pendant la révélation ;
+- afficher le score sans fausses valeurs intermédiaires ;
+- le maintenir entièrement lisible au moins 1,5 seconde ;
+- stabiliser les informations pendant la lecture ;
+- terminer l’action secondaire avant le départ suivant.
+
+FINITIONS VISUELLES
+
+Conserver la palette :
+#080B0E, #171C21, #C8FF00, #F6F7F8 et #8D969E.
+
+Conserver Barlow Condensed pour les titres et scores,
+Inter pour les textes secondaires.
+
+Tous les textes sont horizontaux.
+Uniformiser les marges et le traitement des fanions.
+Vérifier la netteté et l’exactitude des drapeaux.
+
+Dans la scène Ukraine – Géorgie :
+le score doit rester au premier plan, sans être traversé
+par le filet ou un poteau.
+
+Dans toutes les scènes :
+préserver les noms et scores des interfaces à droite et en bas.
+Vérifier leur lecture sur une prévisualisation de 360 px de large.
+
+TRANSITIONS
+
+Réutiliser les raccords réussis.
+Privilégier la continuité du ballon, des lignes de terrain
+et des mouvements de caméra.
+
+Les déplacements sortants et entrants doivent être coordonnés.
+Ne pas réinitialiser brutalement le ballon entre deux plans.
+
+Pas de glitch, flash plein écran, rebond systématique
+ou zoom permanent.
+
+Préserver une action dominante et des temps de stabilité.
+La richesse vient de la précision des interactions.
+
+AVANT-DERNIÈRE SÉQUENCE — SYNTHÈSE ET COMMENTAIRES
+
+Afficher les quatre rencontres et scores dans l’ordre.
+
+Titre :
+« ON FAIT LES COMPTES DEMAIN. »
+
+Question mise en évidence :
+« TU CHANGES LEQUEL ? »
+
+Instruction secondaire :
+« DONNE TON SCORE EN COMMENTAIRE. »
+
+Faire arriver les lignes avec un décalage léger,
+puis laisser la composition stable environ trois secondes.
+
+Ne pas comprimer les quatre résultats pour ajouter trop de texte.
+La question et les scores doivent rester prioritaires.
+
+DERNIÈRE SÉQUENCE — SIGNATURE LIGUE ONZE
+
+Durée : environ 2 à 2,5 secondes.
+Un écran simple, soigné et cohérent avec le reste.
+
+Contenu exact :
+[logo officiel fourni]
+
+« Le jeu des pronos entre potes »
+
+« ligueonze.fr »
+
+Hiérarchie :
+- logo identifiable ;
+- promesse courte ;
+- adresse très lisible, soulignée par l’accent citron.
+
+Conserver le fond sombre et une ligne de terrain discrète
+pour relier cette signature à la vidéo.
+
+Faire entrer les trois éléments avec un léger décalage,
+puis les laisser stables au moins 1,5 seconde.
+
+Le ballon peut terminer sa trajectoire au bord du cadre,
+sans traverser le texte ou le logo.
+
+Pas de téléphone, QR code, faux bouton cliquable,
+badge de téléchargement ou phrase supplémentaire.
+Ne pas inventer de logo si le fichier manque.
+
+VOIX OFF À SYNCHRONISER SI FOURNIE
+
+« Quatre matchs, quatre scores exacts. Je prends le risque !
+Le Portugal gagne au pays de Galles : zéro à deux.
+La Suède s’impose en Pologne : un à deux.
+L’Ukraine bat la Géorgie : un à zéro.
+Et le Danemark bat la Norvège : deux à un.
+On fait les comptes demain ! Tu changes lequel ?
+Donne ton score en commentaire.
+Ligue Onze. Le jeu des pronos entre potes. »
+
+Ne pas imposer des minutages qui feraient avancer les images
+avant l’annonce du match correspondant.
+Aligner les révélations sur les scores prononcés.
+
+SON
+
+Conserver ou améliorer les bruitages adaptés.
+Pas de musique commerciale intégrée.
+Baisser les bruitages sous la voix lorsqu’elle est présente.
+Aucun impact sonore agressif pour la signature finale.
+
+VÉRIFICATIONS ET LIVRAISON
+
+Contrôler :
+- correspondance noms / drapeaux / scores ;
+- ordre des rencontres ;
+- lisibilité de l’accroche et de la synthèse ;
+- raccords et absence de chevauchement ;
+- synchronisation réelle si audio fourni ;
+- logo officiel et orthographe de ligueonze.fr.
+
+Inspecter les images clés et les transitions avec les outils disponibles.
+Indiquer les éventuelles limites d’inspection.
+
+Livrer la vidéo complète en MP4 H.264, yuv420p, faststart,
+avec AAC 48 kHz si piste audio.
+Fournir aussi la nouvelle planche de scènes.
+Préserver la version précédente et sauvegarder les sources.
+Ne pas publier automatiquement.

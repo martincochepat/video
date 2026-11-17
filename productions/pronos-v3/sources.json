@@ -1,0 +1,25 @@
+{
+  "status": "reviewed",
+  "checkedAt": "2026-11-17",
+  "claims": [
+    {
+      "claim": "Quatre affiches, compétition et horaires",
+      "url": "https://www.uefa.com/uefanationsleague/fixtures-results/",
+      "status": "unverified",
+      "evidence": "Tentative réelle : CONNECT tunnel failed, response 403 ; aucune date ou compétition fournie. Question utilisateur en attente. Aucun horaire affiché."
+    },
+    {
+      "claim": "Adresse et identité Ligue Onze",
+      "url": "https://ligueonze.fr",
+      "status": "user-provided-unverified-online",
+      "evidence": "Adresse copiée exactement du brief. Tentative réseau : CONNECT tunnel failed, response 403. Logo binaire absent, aucun remplacement inventé."
+    },
+    {
+      "claim": "Scores",
+      "status": "user-opinion",
+      "evidence": "Les quatre pronostics sont repris à l’identique et qualifiés MES PRONOS, pas des résultats."
+    }
+  ],
+  "verificationStatus": "fixtures-unverified-network-blocked",
+  "userClarification": "Les quatre matchs sont ce soir, 17 novembre 2026, selon l’utilisateur. Compétition et horaires non fournis, non certifiés."
+}

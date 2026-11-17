@@ -1,0 +1,49 @@
+{
+  "status": "pass",
+  "scope": "Examen visuel échantillonné et technique ; réserves éditoriales maintenues, non prêt pour publication.",
+  "publicationReady": false,
+  "reviewer": "Codex — images et bandes chronologiques, pas de lecture perceptive à vitesse réelle",
+  "finalSha256": "f946cf981b8adcc4880a63bca8e66e264cca61d319edd782c5baeba02b9c8958",
+  "understanding": {
+    "status": "pass",
+    "evidence": "0 s : 4 MATCHS intégralement lisible, ballon engagé. 1,65 s : accroche complète, sans les scores. 3,70 s : premier pronostic. Les scores sont identifiés comme MES PRONOS."
+  },
+  "composition": {
+    "status": "pass",
+    "evidence": "Sept plans examinés à 360px. À 13 s, 1–0 dégagé au-dessus du filet et des poteaux. À 23,5 s, quatre lignes et question en citron, instruction distincte.",
+    "corrections": [
+      "Interligne de 4 MATCHS augmenté après un débordement détecté.",
+      "4 SCORES EXACTS réduit à 114px pour une ligne.",
+      "Mentions secondaires balisées à 40px."
+    ]
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "V2 conservée : terrain aérien, crampons à deux profondeurs, filet occupant le cadre, grands fanions ; accroche générale et signature minimaliste ajoutées."
+  },
+  "motion": {
+    "status": "pass",
+    "evidence": "Six extraits chronologiques à 10 images/s et 24 bornes de raccords examinés, plus huit images autour des changements de titre. Continuité position/taille du ballon testée aux neuf jonctions, rotation testée aux quatre jonctions concernées. Impact local et amortissement conservés/testés.",
+    "corrections": [
+      "Retour du ballon au bord droit avant le terrain aérien au lieu d’une sortie trop précoce.",
+      "Continuité de rotation raccordée à la trajectoire existante, y compris au passage au ballon local du filet.",
+      "Titres isolés du masque de décor : changement d’un bloc, sans fragments de deux titres."
+    ],
+    "limitation": "Échantillonnage chronologique ; pas de validation de fluidité à vitesse réelle."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "Scores installés à 3,7 / 7,8 / 12,9 / 17,2 s, maintenus plus de 1,5 s. Synthèse fixe après 21,9 s ; signature 26,5–29 s avec stabilité après 27,05 s. Pas de narration fournie : rythme éditorial, aucune synchronisation vocale déclarée."
+  },
+  "consistency": {
+    "status": "pass",
+    "evidence": "Quatre affiches et scores inchangés dans l’ordre ; mêmes drapeaux SVG, palette et polices locales. Dernier titre harmonisé Danemark–Norvège. Orthographe ligueonze.fr vérifiée dans le texte rendu. Aucun faux logo."
+  },
+  "limitations": [
+    "Logo original non récupérable comme fichier : signature sans logo.",
+    "Affiches, compétition et horaires non certifiés : UEFA et ligueonze.fr bloqués par proxy HTTP403. Utilisateur indique les quatre rencontres ce soir.",
+    "Inspection mobile via réduction à 360 px, sans téléphone physique.",
+    "Les titres changent d’un bloc au milieu des raccords ; le décor conserve les masques.",
+    "Pas d’audio fourni, aucun bruitage dans V2 ; export silencieux, aucune synchronisation réelle effectuée."
+  ]
+}
