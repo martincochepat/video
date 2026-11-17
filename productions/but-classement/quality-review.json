@@ -1,0 +1,39 @@
+{
+  "status": "pass",
+  "finalSha256": "373f00f566d662a1642701f96da4a49cd9cf60d2a4ed9d7911a6b7e114bc37b9",
+  "understanding": {
+    "status": "pass",
+    "evidence": "But à 2,95 s, signal 3,2–3,9 s, compteur 3,9–4,7 s, permutation ensuite. Exemple explicitement fictif."
+  },
+  "composition": {
+    "status": "pass",
+    "evidence": "Téléphone à gauche, scène de football à droite, texte au-dessus, mention fictive sous les objets. Marges du téléphone distinctes, noms et points lisibles à 40–46 px."
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "Une scène continue demandée, sans tableau successif : téléphone détaillé et football miniature en deux plans liés."
+  },
+  "motion": {
+    "status": "pass",
+    "evidence": "Anticipation de jambe et ballon, accélération, filet amorti, signal courbe, compteur puis permutation par voie externe. Contrôle géométrique à 60 Hz des 480 images : aucune intersection des rectangles de lignes."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "Lecture initiale avant tir ; actions successives ; maintien final de 6,6 à 8 s. Ordre d’entrée clarifié après la première planche."
+  },
+  "consistency": {
+    "status": "pass",
+    "evidence": "Même avatar et identité de Noé pendant la promotion ; gain de 5 donne 13, supérieur aux 12 et 10. Même téléphone, terrain, palette et direction de lumière."
+  },
+  "corrections": [
+    "Apparition du téléphone puis du terrain décalée pour établir l’ordre de lecture.",
+    "Entrée du téléphone depuis le bas augmentée ; disparition des objets entre scènes évitée.",
+    "Texte final élargi et réduit à 64 px pour tenir sur une ligne après « Noé passe »."
+  ],
+  "limitations": [
+    "Références statiques : impossible de comparer leur véritable fluidité.",
+    "Examen visuel des six moments et des extraits échantillonnés à 12 fps, pas une lecture humaine image par image des 480 images.",
+    "La géométrie des lignes est contrôlée à chaque image ; les microdétails SVG et petits libellés d’interface sont vérifiés visuellement, pas par la sonde HTML.",
+    "Personnages et ombrages moins nuancés que les références ; pas de capture réelle ou de média photographique."
+  ]
+}

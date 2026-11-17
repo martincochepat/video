@@ -1,0 +1,37 @@
+{
+  "basis": "editorial-not-measured",
+  "durationSeconds": 8,
+  "scenes": [
+    {
+      "id": "continuous",
+      "startSeconds": 0,
+      "endSeconds": 8
+    }
+  ],
+  "events": [
+    {
+      "atSeconds": 2.35,
+      "purpose": "frappe"
+    },
+    {
+      "atSeconds": 2.95,
+      "purpose": "but"
+    },
+    {
+      "atSeconds": 3.9,
+      "purpose": "compteur"
+    },
+    {
+      "atSeconds": 4.85,
+      "purpose": "sortie de ligne"
+    },
+    {
+      "atSeconds": 5.3,
+      "purpose": "permutation"
+    },
+    {
+      "atSeconds": 6.6,
+      "purpose": "maintien"
+    }
+  ]
+}

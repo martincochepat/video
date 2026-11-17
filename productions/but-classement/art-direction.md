@@ -1,0 +1,2 @@
+# Direction artistique
+Voir references.md. Ivoire légèrement bruité déterministe, encre sombre, violet ponctuel. Cadre métallique, verre, caméra, marges, onglets et avatars détaillés. Terrain miniature à tranche visible, cage en volume, filet réactif, tireur articulé et ballon à panneaux. Ombres propres à chaque objet, sans particules. Textes droits. Les microdétails d’interface sont secondaires ; noms et points restent en 40–46 px.

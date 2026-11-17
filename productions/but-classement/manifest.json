@@ -1,0 +1,54 @@
+{
+  "id": "but-classement",
+  "status": "ready",
+  "component": "goal-ranking",
+  "profile": "ligue-onze",
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "durationSeconds": 8,
+  "safeArea": {
+    "top": 150,
+    "right": 85,
+    "bottom": 200,
+    "left": 85
+  },
+  "palette": {
+    "background": "#f3eee3",
+    "foreground": "#292735",
+    "accent": "#7853b3",
+    "muted": "#706677"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 48,
+    "maxChars": 48
+  },
+  "voice": null,
+  "captions": [],
+  "scenes": [
+    {
+      "id": "continuous",
+      "startSeconds": 0,
+      "endSeconds": 8
+    }
+  ],
+  "keyframesSeconds": [
+    1.35,
+    2.35,
+    3.15,
+    4.7,
+    5.6,
+    7.25
+  ],
+  "transitionSeconds": [
+    2.35,
+    2.95,
+    3.9,
+    4.85,
+    5.3,
+    5.9,
+    6.6
+  ],
+  "assets": []
+}

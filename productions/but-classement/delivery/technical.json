@@ -1,0 +1,3153 @@
+{
+  "generatedAt": "2026-11-17T08:47:05.432Z",
+  "signature": "6ec00b634176654a9fa9853fcd301f0c6c8005fb88b5ef9b25b20f9f9de8c692",
+  "sha256": "373f00f566d662a1642701f96da4a49cd9cf60d2a4ed9d7911a6b7e114bc37b9",
+  "technical": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 480,
+    "duration": 8,
+    "audio": [],
+    "decoded": true
+  },
+  "frames": [
+    0,
+    81,
+    129,
+    140,
+    141,
+    142,
+    153,
+    165,
+    176,
+    177,
+    178,
+    189,
+    222,
+    233,
+    234,
+    235,
+    246,
+    279,
+    282,
+    290,
+    291,
+    292,
+    303,
+    306,
+    317,
+    318,
+    319,
+    330,
+    336,
+    342,
+    353,
+    354,
+    355,
+    366,
+    384,
+    395,
+    396,
+    397,
+    408,
+    435,
+    479
+  ],
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 198,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1212,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1208,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1387,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1383,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1562,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1558,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 81,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 129,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 140,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 141,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 142,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 153,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 165,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 176,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 177,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 756.9584350585938,
+          "y": 743.8900146484375,
+          "width": 155.3643798828125,
+          "height": 59.219970703125
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 178,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 756.9395751953125,
+          "y": 743.8828125,
+          "width": 155.402099609375,
+          "height": 59.234375
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 189,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752.2059326171875,
+          "y": 742.0784912109375,
+          "width": 164.869384765625,
+          "height": 62.843017578125
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 222,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 233,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 234,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1332,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 235,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1331.96875,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 246,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1321.7889404296875,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "8",
+          "x": 510.984375,
+          "y": 1178,
+          "width": 32.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 279,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 282,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 290,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "BUT !",
+          "x": 752,
+          "y": 742,
+          "width": 165.28125,
+          "height": 63
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 291,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 292,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296.46875,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 479.453125,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 303,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 440.890625,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 623.875,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 306,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "+5 points",
+          "x": 675,
+          "y": 1320,
+          "width": 259.8125,
+          "height": 56
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 566.09375,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 749.078125,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 317,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 710.515625,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.5,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 318,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 1182,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 319,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 832.109375,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 828.109375,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1007.109375,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1003.109375,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 1181.765625,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 1177.765625,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 330,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 858.078125,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 854.078125,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1033.078125,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1029.078125,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 1129.8125,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 1125.8125,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 336,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 919.5,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 915.5,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1094.5,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1090.5,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 1007,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 342,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 980.90625,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 976.90625,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1155.90625,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1151.90625,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 884.171875,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 880.171875,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 353,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1006.875,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1002.875,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1181.875,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1177.875,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 832.21875,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 828.21875,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 354,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 711,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 355,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 710.609375,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 893.59375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 366,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 606.359375,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 789.34375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 384,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 395,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 295.765625,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.75,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 396,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé passe",
+          "x": 670,
+          "y": 655,
+          "width": 261.4375,
+          "height": 53
+        },
+        {
+          "text": "en tête.",
+          "x": 670,
+          "y": 717,
+          "width": 283.5625,
+          "height": 74
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 397,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé passe",
+          "x": 670,
+          "y": 655,
+          "width": 261.4375,
+          "height": 53
+        },
+        {
+          "text": "en tête.",
+          "x": 670,
+          "y": 717,
+          "width": 283.5625,
+          "height": 74
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 408,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé passe",
+          "x": 670,
+          "y": 655,
+          "width": 261.4375,
+          "height": 53
+        },
+        {
+          "text": "en tête.",
+          "x": 670,
+          "y": 717,
+          "width": 283.5625,
+          "height": 74
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 435,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé passe",
+          "x": 670,
+          "y": 655,
+          "width": 261.4375,
+          "height": 53
+        },
+        {
+          "text": "en tête.",
+          "x": 670,
+          "y": 717,
+          "width": 283.5625,
+          "height": 74
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    },
+    {
+      "frame": 479,
+      "boxes": [
+        {
+          "text": "Un seul but.",
+          "x": 100,
+          "y": 184,
+          "width": 656.0625,
+          "height": 112
+        },
+        {
+          "text": "Le classement bascule.",
+          "x": 100,
+          "y": 314,
+          "width": 837.90625,
+          "height": 74
+        },
+        {
+          "text": "Sacha",
+          "x": 296,
+          "y": 1007,
+          "width": 134.984375,
+          "height": 46
+        },
+        {
+          "text": "12",
+          "x": 478.984375,
+          "y": 1003,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Mila",
+          "x": 296,
+          "y": 1182,
+          "width": 94.21875,
+          "height": 46
+        },
+        {
+          "text": "10",
+          "x": 478.984375,
+          "y": 1178,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé",
+          "x": 296,
+          "y": 832,
+          "width": 88.09375,
+          "height": 46
+        },
+        {
+          "text": "13",
+          "x": 478.984375,
+          "y": 828,
+          "width": 64.015625,
+          "height": 54
+        },
+        {
+          "text": "Noé passe",
+          "x": 670,
+          "y": 655,
+          "width": 261.4375,
+          "height": 53
+        },
+        {
+          "text": "en tête.",
+          "x": 670,
+          "y": 717,
+          "width": 283.5625,
+          "height": 74
+        },
+        {
+          "text": "Noms, points et règles fictifs.\nAucune interface officielle reproduite.",
+          "x": 100,
+          "y": 1605,
+          "width": 754.734375,
+          "height": 102
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Échantillonnage, pas preuve de chaque image.",
+    "Compréhension et esthétique à examiner séparément.",
+    "Contrôle automatique de débordement des textes HTML balisés ; SVG et médias à examiner visuellement."
+  ]
+}
