@@ -1,0 +1,12 @@
+{
+  "basis": "editorial-not-measured",
+  "scenes": [
+    {
+      "id": "continuous",
+      "startSeconds": 0,
+      "endSeconds": 24
+    }
+  ],
+  "firstScoreFullyVisibleBy": 2.8,
+  "summaryFullyVisibleBy": 21
+}

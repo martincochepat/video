@@ -1,0 +1,17 @@
+{
+  "codec": "h264",
+  "pixelFormat": "yuv420p",
+  "colorRange": "tv",
+  "width": 1080,
+  "height": 1920,
+  "fps": "60/1",
+  "duration": "24.000000",
+  "faststart": true,
+  "boxes": [
+    "ftyp",
+    "moov",
+    "free",
+    "mdat"
+  ],
+  "audioPresent": false
+}

@@ -1,0 +1,21 @@
+{
+  "status": "reviewed",
+  "claims": [],
+  "verificationStatus": "blocked-network",
+  "requestedDate": "2026-11-17",
+  "requestedTime": "20:45 Europe/Paris",
+  "attempts": [
+    {
+      "url": "https://www.uefa.com/uefanationsleague/fixtures-results/",
+      "result": "HTTP CONNECT proxy 403, contenu non accessible"
+    }
+  ],
+  "limits": "Affiches et horaire non confirmés. Aucun horaire ni date affiché comme établi. Scores conservés comme pronostics éditoriaux, jamais comme résultats.",
+  "logo": "Visible dans le chat, fichier non accessible ; URL directe demandée.",
+  "calendarCheck": {
+    "weekday": "Tuesday",
+    "announcedParisTime": "2026-11-17 20:45 CET",
+    "utcEquivalent": "2026-11-17T19:45:00+00:00",
+    "limit": "Vérification du calendrier/fuseau uniquement ; aucune confirmation des rencontres."
+  }
+}

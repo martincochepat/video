@@ -10,7 +10,7 @@ export type Production = {
   subtitles: {enabled:boolean;fontSize:number;maxChars:number};
   scenes: {id:string;startSeconds:number;endSeconds:number}[];
   voice: null | {src:string;durationSeconds:number;timingBasis:string};
-  captions: Segment[]; qa?:boolean;
+  captions: Segment[]; qa?:boolean; qaFonts?:string[];
 };
 
 const Probe = ({production}: {production:Production}) => {
@@ -37,9 +37,10 @@ const Probe = ({production}: {production:Production}) => {
         if(size<40)errors.push(`Texte trop petit: ${box.text}`);
         return box;
       });
-      if(!document.fonts.check('600 48px StudioSans'))errors.push('Police locale absente');
+      const fonts=(production.qaFonts??['600 48px StudioSans']).map(font=>({font,loaded:document.fonts.check(font)}));
+      for(const item of fonts)if(!item.loaded)errors.push(`Police locale absente : ${item.font}`);
       for(const e of document.querySelectorAll<HTMLImageElement>('img[data-qa-media]'))if(!e.complete || !e.naturalWidth)errors.push('Image manquante');
-      console.log('WORKSHOP_QA:'+JSON.stringify({frame,boxes,errors,fontLoaded:document.fonts.check('600 48px StudioSans')}));
+      console.log('WORKSHOP_QA:'+JSON.stringify({frame,boxes,errors,fontLoaded:fonts.every(f=>f.loaded),fonts}));
       continueRender(handle);
     }).catch(e=>{console.error(e);continueRender(handle)});
     return ()=>{active=false};

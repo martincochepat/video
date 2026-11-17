@@ -1,0 +1,325 @@
+LIGUE ONZE — VIDÉO DE PRONOSTICS ILLUSTRÉE
+Produis une première version complète de 24 secondes.
+
+AVANT DE COMMENCER
+
+Lis AGENTS.md, les skills pertinents et les instructions de ce projet.
+Utilise le moteur Remotion déjà fonctionnel et ses composants utiles.
+Ne reconstruis pas l’architecture.
+
+Analyse les quatre références jointes :
+elles montrent le niveau de richesse des illustrations, de composition
+et de profondeur recherché. Ne copie pas leurs décors.
+
+La vidéo doit raconter ses idées avec des objets et des scènes animées.
+Une succession de titres, photos zoomées ou cartes ne satisfait pas
+cette demande.
+
+Produis réellement le MP4, inspecte le résultat et corrige les défauts.
+Ne te limite pas à écrire un scénario.
+
+INFORMATIONS SPORTIVES
+
+Date prévue : mardi 17 novembre 2026.
+Horaire annoncé : 20 h 45, heure de Paris.
+
+Pronostics :
+1. Pays de Galles – Portugal : 0–2
+2. Pologne – Suède : 1–2
+3. Ukraine – Géorgie : 1–0
+4. Danemark – Norvège : 2–1
+
+Vérifie les rencontres et horaires auprès de sources fiables avant
+la production. Si une affiche est incorrecte, signale le problème.
+
+Conserve les scores fournis : ce sont des pronostics éditoriaux.
+Affiche discrètement « MES PRONOS » pendant les séquences de matchs.
+Ne suggère ni certitude, ni pari gagnant, ni résultat déjà connu.
+
+DIRECTION ARTISTIQUE
+
+Un petit univers de football illustré, avec une finition d’habillage
+sportif : terrain miniature, ballon, buts, panneaux de score,
+drapeaux et accessoires détaillés.
+
+Palette de cette vidéo :
+- fond noir bleuté #080B0E ;
+- surfaces #171C21 ;
+- accent citron #C8FF00 ;
+- texte blanc #F6F7F8 ;
+- secondaire #8D969E.
+
+Titres et scores : Barlow Condensed ExtraBold.
+Informations secondaires : Inter SemiBold.
+Utiliser des alternatives proches seulement si nécessaire.
+
+Tous les textes restent horizontaux et sans déformation.
+Les objets peuvent avoir une perspective légère.
+La typographie reste nette au-dessus du décor.
+
+Concevoir les illustrations avec plusieurs couches :
+- décor discret ;
+- terrain ou objet principal ;
+- action ;
+- informations lisibles au premier plan.
+
+Ajouter des ombres de contact, des épaisseurs et quelques détails
+fonctionnels. Éviter les grands dégradés lumineux et l’effet néon.
+
+Ne pas réutiliser le téléphone comme sujet principal.
+Ne pas fabriquer de joueur photoréaliste.
+Aucune photographie n’est indispensable à cette réalisation.
+
+Utiliser exclusivement le logo officiel fourni, ratio préservé.
+Ne pas le recolorer arbitrairement.
+
+PRINCIPE DE MOUVEMENT
+
+Un ballon sert de fil conducteur entre les quatre rencontres.
+Il entre, déclenche les actions et entraîne certains changements de scène.
+
+Il peut sortir momentanément du cadre. Sa présence ne doit jamais
+gêner la lecture des scores.
+
+Chaque transition conserve au moins un repère visuel :
+ballon, ligne du terrain, panneau ou cadrage reconnaissable.
+
+Éviter le changement complet de décor par simple fondu.
+
+PREMIÈRES CINQ SECONDES — PRIORITÉ ABSOLUE
+
+0,00–0,25 s
+La première image est déjà composée et compréhensible :
+titre entièrement visible, ballon et opposition des deux équipes.
+
+Titre :
+« JE VOIS LA NORVÈGE PERDRE. »
+
+Sous le titre :
+« DANEMARK – NORVÈGE »
+
+Deux drapeaux correctement dessinés identifient les sélections.
+Le ballon est déjà en mouvement.
+Aucun écran noir, aucune introduction de logo.
+
+0,25–1,45 s
+Le ballon arrive vers le spectateur puis traverse le bas du cadre.
+Les éléments secondaires réagissent avec un léger décalage.
+
+Le titre reste stable et lisible.
+Pas de succession de mots qui retarde sa compréhension.
+
+1,45–2,15 s
+Le passage du ballon entraîne un masque qui découvre le terrain
+Pays de Galles – Portugal.
+
+Le masque provient de la trajectoire : ce n’est pas un effet
+de transition ajouté sans lien avec l’action.
+
+2,15–2,80 s
+Révéler « 0–2 » sur un panneau de score.
+Les chiffres prennent leur place avec un mouvement court et précis,
+sans passer par de fausses valeurs.
+
+Les noms sont déjà lisibles.
+Le premier pronostic est entièrement visible avant 3 secondes.
+
+2,80–5,00 s
+Le score et les noms restent stables.
+Une petite action secondaire se termine sur le terrain.
+Afficher « 1/4 » discrètement.
+
+À la fin de cette séquence, le ballon prépare son départ
+vers le match suivant.
+
+DÉROULÉ DU RESTE
+
+5,00–9,50 s — POLOGNE – SUÈDE : 1–2
+
+La trajectoire du ballon devient la ligne centrale d’une composition
+en opposition : Pologne à gauche, Suède à droite.
+
+Utiliser deux panneaux illustrés avec leurs drapeaux, un morceau
+de terrain et des détails football cohérents.
+
+Les panneaux se placent successivement, sans masquer les noms.
+Le ballon atteint le centre et déclenche la révélation du score.
+
+Garder le score entièrement visible environ 1,5 seconde minimum.
+Afficher « 2/4 ».
+
+La composition doit différer de la précédente tout en gardant
+les mêmes matériaux, couleurs et proportions typographiques.
+
+9,50–14,00 s — UKRAINE – GÉORGIE : 1–0
+
+Passer à un cadrage plus proche d’un but illustré.
+Une seule trajectoire précise mène le ballon dans le filet.
+
+Le filet réagit localement à l’impact et revient progressivement
+à sa forme. Ne pas faire vibrer tout le décor.
+
+Le panneau « 1–0 » apparaît en liaison avec le but.
+Les équipes restent clairement identifiées.
+Afficher « 3/4 ».
+
+Cette action illustre notre prédiction ; ce n’est pas une
+reconstitution de faits réels.
+
+14,00–20,00 s — DANEMARK – NORVÈGE : 2–1
+
+Reprendre les objets et la confrontation de la première seconde.
+Créer un raccord reconnaissable avec l’ouverture.
+
+Texte court :
+« MON CHOIX : LE DANEMARK. »
+
+Installer une courte anticipation de 0,3 à 0,5 seconde,
+puis révéler le score « 2–1 ».
+
+C’est la résolution visuelle la plus forte :
+l’action principale déclenche le panneau, un accent lumineux bref
+souligne le score, les éléments secondaires se stabilisent ensuite.
+
+Aucun flash plein écran.
+Aucune secousse qui rende le texte difficile à lire.
+Afficher « 4/4 ».
+
+Conserver le résultat final clairement lisible avant la transition.
+
+20,00–24,00 s — SYNTHÈSE ET COMMENTAIRES
+
+Les quatre résultats viennent se ranger dans une composition finale :
+
+Pays de Galles – Portugal   0–2
+Pologne – Suède            1–2
+Ukraine – Géorgie          1–0
+Danemark – Norvège         2–1
+
+Question dominante :
+« LEQUEL TU CHANGES ? »
+
+Instruction plus petite :
+« Le match + ton score en commentaire. »
+
+Logo officiel présent sans écraser la question.
+
+L’ensemble doit être installé vers 21 secondes pour laisser
+environ trois secondes de lecture.
+Éviter une conclusion supplémentaire.
+
+RÈGLES D’ANIMATION PRÉCISES
+
+Pour une entrée ordinaire d’objet :
+- départ à 16–24 px de la position finale ;
+- apparition sur environ 0,25–0,40 seconde ;
+- décélération progressive ;
+- décalage de 0,05–0,09 seconde entre éléments liés ;
+- au maximum un léger dépassement, réservé aux objets.
+
+Ces valeurs sont des repères à adapter à la distance et à l’action,
+pas une formule à répéter sur tous les éléments.
+
+Pour les titres :
+- texte horizontal ;
+- déplacement court ;
+- aucune déformation ;
+- aucune oscillation permanente ;
+- information lisible rapidement.
+
+Pour le ballon :
+- trajectoire courbe cohérente ;
+- accélération au tir, ralentissement approprié ensuite ;
+- rotation liée au déplacement ;
+- ombre dont la position et la taille traduisent la hauteur ;
+- flou de mouvement léger seulement pendant les passages rapides.
+
+Pour les mouvements de caméra :
+- cadrage stable pendant la lecture d’un score ;
+- rapprochement ou déplacement motivé par une action ;
+- pas de zoom continu appliqué à toute la vidéo.
+
+Pour les transitions :
+- durée indicative de 0,35–0,60 seconde ;
+- mouvement sortant et mouvement entrant coordonnés ;
+- pas de flash, glitch ou rotation de texte systématiques.
+
+À chaque instant, une action principale doit dominer.
+Les mouvements secondaires restent moins amples et moins contrastés.
+Prévoir des moments de stabilité : la fluidité ne signifie pas
+que tout doit bouger tout le temps.
+
+Ne pas placer un changement de scène, une révélation de score
+et une nouvelle phrase longue exactement au même instant.
+
+SON
+
+Pas de voix synthétique pour cette vidéo.
+Pas de musique commerciale intégrée.
+
+Prévoir un sound design original ou correctement licencié :
+- accent bref à l’ouverture ;
+- déplacements légers pendant les transitions ;
+- contact ballon et filet ;
+- accents courts sur les scores ;
+- résolution distincte sur Danemark – Norvège.
+
+Ne pas répéter le même impact à chaque événement.
+Ne pas ajouter de son sur chaque lettre.
+Pas de saturation ni de niveau agressif.
+
+La vidéo doit rester compréhensible sans son.
+En l’absence de bruitages adaptés, livrer silencieusement
+et préciser cette limite.
+
+FORMAT ET LISIBILITÉ
+
+1080 × 1920, 60 images/s.
+MP4 H.264, yuv420p, faststart.
+Audio AAC 48 kHz si présent.
+
+À cette résolution, viser initialement :
+- accroche : 88–110 px ;
+- scores : 150–200 px ;
+- noms d’équipes : 48–60 px ;
+- informations secondaires : 32–38 px.
+
+Adapter la disposition pour les noms longs sans les abréger
+de façon ambiguë. Vérifier le résultat sur une prévisualisation
+réduite à environ 360 px de large.
+
+Tenir les informations essentielles à distance des interfaces
+à droite et en bas. Les objets décoratifs peuvent déborder.
+
+Ne pas intégrer de mentions techniques ou d’explications
+sur la fabrication dans la vidéo.
+
+CONTRÔLE ET LIVRAISON
+
+Avant l’export final :
+- vérifier rencontres, noms, drapeaux et correspondance des scores ;
+- vérifier que l’ouverture se comprend dès la première image ;
+- vérifier que le premier score est révélé avant trois secondes ;
+- contrôler la lisibilité des quatre rencontres ;
+- examiner les trajectoires, collisions et raccords ;
+- vérifier les images aux débuts et fins de transitions ;
+- examiner des extraits animés avec les moyens disponibles ;
+- corriger les défauts observés.
+
+Ne pas prétendre avoir regardé ou écouté un élément si l’outil
+ne permet pas cette inspection.
+Ne pas déclarer la rétention validée sans données de publication.
+
+Livrer :
+- la vidéo complète téléchargeable ;
+- la planche des scènes ;
+- les sources modifiables ;
+- les références des médias et sons ;
+- un court rapport des vérifications et limites.
+
+Préserver les versions précédentes.
+Sauvegarder le travail dans le dépôt existant.
+Ne pas publier sur les réseaux sociaux.
+
+Prends les décisions de détail nécessaires à l’exécution.
+Ne me demande pas de valider chaque scène.

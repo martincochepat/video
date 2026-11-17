@@ -1,0 +1,9 @@
+{
+  "status": "draft-not-cleared-for-publication",
+  "blockers": [
+    {"requirement":"Vérification des rencontres et de l'horaire", "reason":"HTTPS www.uefa.com refusé par le proxy, CONNECT HTTP 403", "needed":"Accès au calendrier officiel ou source primaire vérifiable"},
+    {"requirement":"Logo officiel fourni", "reason":"Image visible dans le chat, fichier non exposé dans l'espace de rendu", "needed":"URL HTTPS directe ou fichier original accessible au moteur"}
+  ],
+  "audio":"silent-version-authorized-by-brief",
+  "socialPublication": false
+}

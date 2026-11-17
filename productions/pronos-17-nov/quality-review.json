@@ -1,0 +1,41 @@
+{
+  "status": "provisional-external-blockers",
+  "finalSha256": "8ba780728f4d15d1522fb5387dc0918169fdc3077d48e388ea03bf3382c62f7b",
+  "technicalStatus": "pass",
+  "understanding": {
+    "status": "pass",
+    "evidence": "Image zéro composée ; MES PRONOS ; score 0–2 observé à 2,8 s et encore présent à 4,983 s ; quatre pronostics présents à 21 s."
+  },
+  "composition": {
+    "status": "pass-sampled",
+    "evidence": "Titres et scores horizontaux, drapeaux exacts et panneaux au premier plan ; examen des six scènes à 360 px de large."
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "Opposition de drapeaux, panneau central, panneaux séparés, cage rapprochée, retour à la confrontation initiale, rangement final."
+  },
+  "motion": {
+    "status": "pass-sampled",
+    "evidence": "Ballon en déplacement dès la première image, raccords de position et rayon contrôlés numériquement ; vingt images exactes autour des débuts/fins de transition et extraits échantillonnés à 8 fps examinés."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "Premier score avant 3 s ; premier match stable jusqu’à 5 s ; lecture des autres scores et synthèse en place à 21 s."
+  },
+  "consistency": {
+    "status": "partial",
+    "evidence": "Palette, matériaux, Barlow Condensed et Inter cohérents ; logo officiel non intégré faute de fichier accessible."
+  },
+  "corrections": [
+    "Chargement explicite FontFace et attente avant les contrôles de métriques.",
+    "Interligne adapté aux métriques de Barlow Condensed, scores recentrés dans les panneaux.",
+    "Rotation du ballon liée à la distance et non au temps ; rayons et positions continus aux raccords.",
+    "Transitions recalées à 5, 9,5, 14 et 20 s pour respecter les plages du brief."
+  ],
+  "limits": [
+    "Affiches et horaire non confirmés : www.uefa.com bloqué par le proxy (CONNECT HTTP 403).",
+    "Logo visible dans le chat mais fichier non accessible : URL directe demandée ; aucun substitut fabriqué.",
+    "Version silencieuse ; pas de voix, musique ou bruitage prétendument écouté.",
+    "Examen des extraits par séquences d’images ; aucune prétention de lecture temps réel ou de validation de rétention."
+  ]
+}
