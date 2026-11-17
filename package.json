@@ -1,0 +1,23 @@
+{
+  "name": "video-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open",
+    "browser:ensure": "node scripts/check-browser.mjs",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts StudioReady out/le-studio-est-pret.mp4 --codec=h264 --pixel-format=yuv420p --concurrency=2 --is-production=false",
+    "verify:video": "node scripts/verify-video.mjs"
+  },
+  "dependencies": {
+    "remotion": "4.0.544",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.544",
+    "typescript": "5.9.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2"
+  }
+}
