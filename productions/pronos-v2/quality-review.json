@@ -1,0 +1,17 @@
+{
+  "status": "technical-pass-visual-sampled",
+  "dimensions": {
+    "composition": "Six cadrages comparés à la V1 ; échelles distinctes.",
+    "typography": "Polices vérifiées sur 50 images ; synthèse stable trois secondes.",
+    "illustration": "Fanions détaillés, drapeaux SVG exacts, chaussures sans marque.",
+    "motion": "Tests numériques passés, extraits chronologiques à 8 images/s examinés.",
+    "continuity": "Bornes exactes de cinq raccords examinées, masques partiels pendant les transitions.",
+    "delivery": "MP4 complet décodé, 1080x1920, 60 fps, 24 s, sans audio."
+  },
+  "reservations": [
+    "Pas de validation perceptive à vitesse réelle.",
+    "Logo original inaccessible : absent sans remplacement.",
+    "Calendrier non certifié ; réserve de la V1 conservée."
+  ],
+  "report": "verification.md"
+}

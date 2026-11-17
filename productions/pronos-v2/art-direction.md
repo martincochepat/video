@@ -1,0 +1,2 @@
+# Direction V2
+Même noir bleuté, surfaces sombres, citron et blanc. Échelles et silhouettes propres aux matchs : fanions suspendus et ballon recadré ; pelouse presque aérienne avec chiffres nus ; opposition latérale de chaussures et tissus ; filet en très gros plan, impact spatialement localisé et ballon passant derrière la maille ; retour aux fanions puis tableau typographique sans cartes. SVG exacts des drapeaux, tissu et coutures identiques. Aucune boîte de score opaque.

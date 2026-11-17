@@ -1,0 +1,134 @@
+Améliore la vidéo existante en conservant les pronostics, leur ordre,
+la palette et le projet fonctionnel. Préserve cette version pour comparaison.
+
+La planche actuelle montre une limite claire : presque chaque scène
+réutilise le même terrain miniature avec des panneaux rectangulaires.
+Le résultat est cohérent mais trop répétitif et peu immersif.
+
+Ma consigne précédente sur le terrain et les panneaux était trop rigide.
+Tu peux maintenant transformer cette mise en scène.
+
+PRIORITÉ : LA COMPOSITION AVANT LES EFFETS
+
+Travaille d’abord les cadrages, les illustrations et leur occupation
+du cadre. Ajouter des particules, des rebonds ou des lumières
+ne suffira pas.
+
+Conserve la richesse et la précision des références jointes :
+objets détaillés, interactions et profondeur.
+
+1. REVOIR L’OUVERTURE
+
+Conserver :
+« JE VOIS LA NORVÈGE PERDRE. »
+et l’identification Danemark – Norvège.
+
+Dès la première image, construire une confrontation qui occupe
+réellement le cadre :
+- titre dominant dans la partie supérieure ;
+- deux grands éléments illustrés aux couleurs des sélections ;
+- ballon au premier plan, partiellement hors cadre ;
+- terrain comme environnement, plutôt que petite plateforme isolée.
+
+Ne pas transformer les drapeaux en deux cartes d’interface.
+Utiliser par exemple deux fanions avec tissu, coutures et attaches,
+en gardant leurs drapeaux exacts.
+
+Le titre est stable et horizontal. L’action se déroule autour de lui.
+Le ballon traverse ensuite le cadre et entraîne la transition.
+
+Conserver un premier score entièrement révélé avant trois secondes.
+
+2. DONNER UN CADRAGE PROPRE À CHAQUE MATCH
+
+PAYS DE GALLES – PORTUGAL, 0–2 :
+Vue du terrain presque aérienne, lignes qui guident le regard.
+Le score devient un grand élément typographique au premier plan,
+sans rectangle opaque qui masque le décor.
+Les deux équipes restent identifiables et associées au bon chiffre.
+
+POLOGNE – SUÈDE, 1–2 :
+Confrontation latérale plein cadre.
+Deux éléments illustrés se répondent, avec une profondeur différente.
+Le score se compose au centre avec une séparation claire.
+Ne pas reproduire les deux cartes verticales actuelles.
+
+UKRAINE – GÉORGIE, 1–0 :
+Gros plan immersif sur le ballon et le filet.
+L’impact provoque une déformation locale du filet.
+Le mouvement se résout, puis le score apparaît dans une zone
+dégagée et stable.
+Le but ne doit plus être un petit accessoire sous un panneau.
+
+DANEMARK – NORVÈGE, 2–1 :
+Reprendre les fanions et le langage visuel de l’ouverture.
+Les objets reconnaissables se réorganisent pour révéler le score.
+Créer une résolution forte par le cadrage et le mouvement,
+sans ajouter de flash plein écran.
+
+Ces scènes doivent appartenir au même univers, tout en présentant
+des silhouettes et des rapports d’échelle distincts.
+
+3. CHORÉGRAPHIER LES TRANSITIONS
+
+Prévoir un raccord précis entre chaque paire de scènes :
+- ballon qui masque momentanément une zone puis dévoile la suivante ;
+- ligne de terrain qui devient une séparation ;
+- maille du filet qui conduit à un nouveau cadrage ;
+- retour d’un objet de l’ouverture pour le dernier match.
+
+Choisir le raccord adapté, sans appliquer toutes ces idées partout.
+
+Pour chaque transition, coordonner :
+- le départ de l’ancienne scène ;
+- l’entrée de la suivante ;
+- la direction et la vitesse du mouvement ;
+- le moment où le nouveau texte devient lisible.
+
+Ne jamais faire dépendre la lecture d’un titre d’une rotation de caméra.
+Stabiliser le cadrage lorsque le spectateur lit le score.
+
+4. SOIGNER LES DÉTAILS
+
+Uniformiser le traitement des drapeaux.
+Le drapeau gallois doit être exact et net : pas d’emoji pixelisé
+mélangé à des illustrations vectorielles.
+
+Employer des ombres de contact cohérentes et des matières discrètes.
+Vérifier les intersections entre ballon, filet, terrain et textes.
+Éviter les objets qui semblent flotter sans intention.
+
+Supprimer le doublon « MON PRONO » / « MES PRONOS ».
+Une seule mention discrète suffit.
+
+Utiliser exclusivement le logo officiel fourni.
+S’il manque, le signaler sans inventer un remplacement.
+
+5. RENFORCER LA FIN
+
+Conserver une synthèse des quatre scores :
+c’est le passage où le spectateur doit pouvoir comparer ses choix.
+
+Augmenter la lisibilité de :
+« LE MATCH + TON SCORE EN COMMENTAIRE ».
+
+Faire arriver les résultats dans un ordre de lecture clair,
+puis laisser l’ensemble stable environ trois secondes.
+Le décor s’atténue à ce moment pour soutenir la lecture.
+
+6. CONTRÔLER LE RÉSULTAT
+
+Comparer les nouvelles images clés à la version précédente :
+- les plans se distinguent-ils immédiatement ?
+- les objets illustrés ont-ils gagné en présence ?
+- les scores sont-ils lisibles sans panneau disproportionné ?
+- les informations essentielles restent-elles dans les zones sûres ?
+- l’ouverture est-elle compréhensible sans son ?
+
+Inspecter aussi les mouvements avec les outils disponibles.
+Ne pas prétendre avoir validé la fluidité sur la seule base
+de captures statiques.
+
+Produire directement la version complète corrigée.
+Livrer le MP4, une nouvelle planche de scènes et un bref compte rendu
+des changements et des vérifications réellement effectuées.

@@ -1,0 +1,2619 @@
+{
+  "generatedAt": "2026-11-17T15:51:31.106Z",
+  "signature": "70f99048f2c1e3fd62f56d11eb27ac32cdd18bd915d7b0b081339c641dc4b49d",
+  "sha256": "85f9374227e9a20e54105ff179d04ba907271319cc6d7d0d18d4d52ee598c0f3",
+  "technical": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 1440,
+    "duration": 24,
+    "audio": [],
+    "decoded": true
+  },
+  "frames": [
+    0,
+    30,
+    75,
+    84,
+    86,
+    87,
+    88,
+    99,
+    117,
+    128,
+    129,
+    130,
+    141,
+    168,
+    288,
+    294,
+    299,
+    300,
+    301,
+    312,
+    333,
+    426,
+    558,
+    564,
+    569,
+    570,
+    571,
+    582,
+    618,
+    651,
+    708,
+    810,
+    828,
+    839,
+    840,
+    841,
+    852,
+    873,
+    912,
+    972,
+    1110,
+    1188,
+    1199,
+    1200,
+    1201,
+    1212,
+    1236,
+    1260,
+    1410,
+    1439
+  ],
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "boxes": [
+        {
+          "text": "JE VOIS LA\nNORVÈGE PERDRE.",
+          "x": 100,
+          "y": 160,
+          "width": 683.1875,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 745,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 745,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 741.1840209960938,
+          "width": 159.609375,
+          "height": 420.00006103515625
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 741.1840209960938,
+          "width": 157.859375,
+          "height": 420.00006103515625
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723.8843383789062,
+          "width": 159.609375,
+          "height": 419.99993896484375
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723.8843383789062,
+          "width": 157.859375,
+          "height": 419.99993896484375
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 288,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 294,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 299,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 300,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        },
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 301,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        },
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 312,
+      "boxes": [
+        {
+          "text": "PAYS DE GALLES\n– PORTUGAL",
+          "x": 100,
+          "y": 160,
+          "width": 608.71875,
+          "height": 251.875
+        },
+        {
+          "text": "0",
+          "x": 220.1875,
+          "y": 723,
+          "width": 159.609375,
+          "height": 420
+        },
+        {
+          "text": "2",
+          "x": 711.0625,
+          "y": 723,
+          "width": 157.859375,
+          "height": 420
+        },
+        {
+          "text": "PAYS DE GALLES",
+          "x": 141.96875,
+          "y": 1151,
+          "width": 316.0625,
+          "height": 65
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 687.28125,
+          "y": 1151,
+          "width": 205.421875,
+          "height": 65
+        },
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 333,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 426,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 558,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 564,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 569,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 570,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        },
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 571,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        },
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 582,
+      "boxes": [
+        {
+          "text": "POLOGNE\n– SUÈDE",
+          "x": 100,
+          "y": 160,
+          "width": 343.3125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 254.421875,
+          "y": 963,
+          "width": 91.140625,
+          "height": 372
+        },
+        {
+          "text": "2",
+          "x": 720.09375,
+          "y": 963,
+          "width": 139.8125,
+          "height": 372
+        },
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 618,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 651,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 708,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 810,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 828,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 839,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 840,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        },
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 841,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        },
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 852,
+      "boxes": [
+        {
+          "text": "UKRAINE\n– GÉORGIE",
+          "x": 100,
+          "y": 160,
+          "width": 375.03125,
+          "height": 251.875
+        },
+        {
+          "text": "1",
+          "x": 251.484375,
+          "y": 593,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "0",
+          "x": 714.75,
+          "y": 593,
+          "width": 150.484375,
+          "height": 396
+        },
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 873,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 912,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 972,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1110,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1188,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1199,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1200,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 654,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 624,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 828,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 798,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 1002,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 972,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1176,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1146,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1201,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 654,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 624,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 828,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 798,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 1002,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 972,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1176,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1146,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1212,
+      "boxes": [
+        {
+          "text": "MON CHOIX :\nLE DANEMARK.",
+          "x": 100,
+          "y": 160,
+          "width": 551.203125,
+          "height": 251.875
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 439,
+          "width": 453.78125,
+          "height": 67
+        },
+        {
+          "text": "2",
+          "x": 225.578125,
+          "y": 1093,
+          "width": 148.84375,
+          "height": 396
+        },
+        {
+          "text": "1",
+          "x": 741.484375,
+          "y": 1093,
+          "width": 97.03125,
+          "height": 396
+        },
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 635.609375,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 605.609375,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 813.171875,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 783.171875,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 997.84375,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 967.84375,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1176,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1146,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1236,
+      "boxes": [
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 634,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 604,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 808,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 778,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 982,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 952,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1156,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1126,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1260,
+      "boxes": [
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 634,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 604,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 808,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 778,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 982,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 952,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1156,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1126,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1410,
+      "boxes": [
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 634,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 604,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 808,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 778,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 982,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 952,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1156,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1126,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1439,
+      "boxes": [
+        {
+          "text": "LEQUEL TU\nCHANGES ?",
+          "x": 100,
+          "y": 161,
+          "width": 441.4375,
+          "height": 266.1875
+        },
+        {
+          "text": "PAYS DE GALLES – PORTUGAL",
+          "x": 100,
+          "y": 634,
+          "width": 542.890625,
+          "height": 62
+        },
+        {
+          "text": "0–2",
+          "x": 805.828125,
+          "y": 604,
+          "width": 134.171875,
+          "height": 125
+        },
+        {
+          "text": "POLOGNE – SUÈDE",
+          "x": 100,
+          "y": 808,
+          "width": 331.5625,
+          "height": 62
+        },
+        {
+          "text": "1–2",
+          "x": 822.6875,
+          "y": 778,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "UKRAINE – GÉORGIE",
+          "x": 100,
+          "y": 982,
+          "width": 362.984375,
+          "height": 62
+        },
+        {
+          "text": "1–0",
+          "x": 822.15625,
+          "y": 952,
+          "width": 117.84375,
+          "height": 125
+        },
+        {
+          "text": "DANEMARK – NORVÈGE",
+          "x": 100,
+          "y": 1156,
+          "width": 421.375,
+          "height": 62
+        },
+        {
+          "text": "2–1",
+          "x": 822.6875,
+          "y": 1126,
+          "width": 117.3125,
+          "height": 125
+        },
+        {
+          "text": "LE MATCH + TON SCORE\nEN COMMENTAIRE",
+          "x": 100,
+          "y": 1392,
+          "width": 557.40625,
+          "height": 123.796875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px ForecastV2Title",
+          "loaded": true
+        },
+        {
+          "font": "600 40px ForecastV2Info",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Échantillonnage, pas preuve de chaque image.",
+    "Compréhension et esthétique à examiner séparément.",
+    "Contrôle automatique de débordement des textes HTML balisés ; SVG et médias à examiner visuellement."
+  ]
+}
