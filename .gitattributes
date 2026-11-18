@@ -1,0 +1,5 @@
+# Preserve published third-party files byte-for-byte; validate authored files normally.
+.agents/skills/hyperframes/** -whitespace
+.agents/skills/hyperframes-cli/** -whitespace
+.agents/skills/media-use/** -whitespace
+examples/hyperframes-smoke/assets/** -whitespace

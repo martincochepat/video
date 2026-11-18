@@ -9,7 +9,11 @@
     "render": "remotion render src/index.ts StudioReady out/le-studio-est-pret.mp4 --codec=h264 --pixel-format=yuv420p --concurrency=2 --is-production=false",
     "verify:video": "node scripts/verify-video.mjs",
     "atelier": "node scripts/atelier.mjs",
-    "test:atelier": "node --test scripts/atelier.test.mjs"
+    "test:atelier": "node --test scripts/atelier.test.mjs",
+    "hyperframes": "node scripts/hyperframes.mjs",
+    "hyperframes:setup": "node scripts/setup-hyperframes.mjs",
+    "hyperframes:smoke": "node scripts/hyperframes.mjs render examples/hyperframes-smoke --fps 60 --workers 1 --quality standard -o examples/hyperframes-smoke/renders/test.mp4",
+    "hyperframes:verify": "node scripts/verify-hyperframes-smoke.mjs"
   },
   "dependencies": {
     "@remotion/media": "4.0.544",
@@ -21,6 +25,8 @@
     "@remotion/cli": "4.0.544",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
+    "gsap": "3.15.0",
+    "hyperframes": "0.9.65",
     "typescript": "5.9.3"
   }
 }

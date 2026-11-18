@@ -1,0 +1,28 @@
+<template>
+<style>
+    * {box-sizing:border-box;margin:0;padding:0}
+    #root {overflow:hidden;color:#F6F7F8;font-family:SmokeTitle,sans-serif}
+    #root {position:relative;width:1080px;height:1920px;background:#080B0E}
+    #title {position:absolute;left:120px;top:530px;width:840px;font-size:112px;font-weight:800;line-height:1.15}
+    #subtitle {display:block;color:#C8FF00}
+    #object {position:absolute;left:420px;top:1070px;width:140px;height:140px}
+    #marker {width:140px;height:140px;border:18px solid #C8FF00;border-radius:50%}
+    #caption {position:absolute;left:120px;top:1570px;font-size:42px;color:#8D969E}
+  </style>
+<div id="root" data-composition-id="proof" data-start="0" data-duration="3" data-width="1080" data-height="1920" data-fps="60">
+    <h1 id="title" class="clip" data-start="0" data-duration="3" data-track-index="0">Hyperframes<span id="subtitle" >est prêt.</span></h1>
+    <div id="object" class="clip" data-start="0" data-duration="3" data-track-index="1"><span id="marker" style="display:block"></span></div>
+    <p id="caption" class="clip" data-start="0" data-duration="3" data-track-index="2">TEST LOCAL · 1080 × 1920 · 60 FPS</p>
+  </div>
+<script>
+    document.fonts.ready.then(() => {
+      const tl = gsap.timeline({paused:true});
+      tl.fromTo('#subtitle',{y:32,opacity:0},{y:0,opacity:1,duration:.65,ease:'power3.out'},.15);
+      tl.fromTo('#marker',{x:-260,scale:.7,opacity:0},{x:0,scale:1,opacity:1,duration:.8,ease:'power3.out'},.1);
+      tl.to('#marker',{x:240,duration:1.4,ease:'power2.inOut'},1.1);
+      window.__timelines = window.__timelines || {};
+      window.__timelines.proof = tl;
+      tl.seek(0);
+    });
+  </script>
+</template>

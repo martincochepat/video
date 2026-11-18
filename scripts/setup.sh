@@ -7,5 +7,6 @@ command -v chromium >/dev/null
 command -v ffmpeg >/dev/null
 command -v ffprobe >/dev/null
 npm ci --no-audit --no-fund
+npm run hyperframes:setup
 npm run browser:ensure
 npm run typecheck

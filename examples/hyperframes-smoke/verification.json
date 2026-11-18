@@ -1,0 +1,30 @@
+{
+  "hyperframes": "0.9.65",
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "frames": 180,
+  "durationSeconds": 3,
+  "pixelFormat": "yuv420p",
+  "fullyDecoded": true,
+  "motionCheck": {
+    "first": {
+      "time": 0.9,
+      "centroidX": 489.353705118411,
+      "pixels": 6545
+    },
+    "last": {
+      "time": 2.6,
+      "centroidX": 729.4573820395739,
+      "pixels": 6570
+    }
+  },
+  "sha256": "6935bad271a0ed5c0e128ec42bff82c117ac7fc52d1c2150b0600b8baa4006c0",
+  "browser": "/usr/bin/chromium",
+  "capture": "screenshot",
+  "limitations": [
+    "Test technique court, pas une validation artistique ou de performance de longs films.",
+    "Modules facultatifs de transcription, voix et musique locales non installés."
+  ]
+}

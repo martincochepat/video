@@ -73,3 +73,9 @@ npm_config_cache=/workspace/.npm-cache npx --offline skills list --agent codex
 Le test audio utilise une sonde locale, pas une voix simulée. `inspect` décode le MP4, vérifie ses caractéristiques, les textes et polices aux instants clés, puis crée une planche et des clips autour des transitions. Le jugement artistique est consigné séparément sur six axes. L’échantillonnage ne remplace pas l’examen visuel des mouvements et des SVG.
 
 Guide et contrats complets : [méthode](references/workflow.md). Instructions de reprise : [AGENTS.md](AGENTS.md). Les exports et caches sont ignorés par Git ; conserver les livrables téléchargés ou l’archive de livraison. Aucun environnement cloud n’est publié automatiquement par ce projet.
+
+## Hyperframes et bibliothèque de références
+
+Hyperframes 0.9.65 est disponible en complément de Remotion, avec ses instructions officielles pour Codex. `npm run hyperframes:smoke` exécute le test local de rendu. Voir [installation et commandes](references/hyperframes.md).
+
+Envoyer les exemples de motion design dans le chat ou un document joint : fichier/lien, minutage et ce qui plaît. Les fiches et usages sont conservés dans la [bibliothèque de références](references/motion-library/README.md), pour les prochaines tâches et productions.

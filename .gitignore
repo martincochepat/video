@@ -7,3 +7,8 @@ productions/*/quality/
 productions/*/cache/
 productions/voice-smoke/
 public/productions/voice-smoke/
+.cache/
+examples/hyperframes-smoke/renders/
+references/motion-library/media/*
+!references/motion-library/media/.gitkeep
+.hyperframes/

@@ -1,0 +1,33 @@
+{
+  "version": "0.9.65",
+  "source": "https://github.com/heygen-com/hyperframes",
+  "skills": [
+    {
+      "name": "hyperframes",
+      "source": "hyperframes@0.9.65/dist/skills/hyperframes",
+      "installedSha256": "af9e6d106070498d89c7c3da1ed22e5925c81f362cb8a793294e5fba77198fba",
+      "bundledSha256": "af9e6d106070498d89c7c3da1ed22e5925c81f362cb8a793294e5fba77198fba",
+      "matchesBundled": true
+    },
+    {
+      "name": "hyperframes-cli",
+      "source": "hyperframes@0.9.65/dist/skills/hyperframes-cli",
+      "installedSha256": "d0fc5a7e080424f5d131c8a2f7e4802ebafe32ca1eb76e6671e6ca43b879752d",
+      "bundledSha256": "d0fc5a7e080424f5d131c8a2f7e4802ebafe32ca1eb76e6671e6ca43b879752d",
+      "matchesBundled": true
+    },
+    {
+      "name": "media-use",
+      "source": "hyperframes@0.9.65/dist/skills/media-use",
+      "installedSha256": "ba4e8fe5b77281852f454d2a14395c502f015ab6e50279ab68716ec6afdcaca4",
+      "bundledSha256": "ba4e8fe5b77281852f454d2a14395c502f015ab6e50279ab68716ec6afdcaca4",
+      "matchesBundled": true
+    }
+  ],
+  "assets": {
+    "gsap.min.js": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+    "gsap-README.md": "66a79667b0538b19634b5a000a9a3debe588c98d390424e73e5d4de847270828",
+    "BarlowCondensed-ExtraBold.ttf": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260",
+    "Barlow-OFL.txt": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+  }
+}
