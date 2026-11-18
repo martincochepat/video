@@ -1,5 +1,89 @@
 {
   "version": 1,
   "description": "Références fournies par l'utilisateur et réellement examinées. Aucune référence fictive ajoutée.",
-  "entries": []
+  "entries": [
+    {
+      "id": "REF-001",
+      "title": "Présentation illustrée — visuels explicatifs, personnage récurrent et sous-titres animés",
+      "status": "analysed-visual-samples",
+      "preference": "strong-positive",
+      "userComment": "Cette vidéo par exemple j'aime beaucoup le style de montage, la façon de présenter, l'animation, les visuels, la fluidité, les sous titres et le montage",
+      "addedAt": "2026-11-18",
+      "note": "fiches/REF-001-presentation-illustree.md",
+      "source": {
+        "type": "user-uploaded-video",
+        "fileName": "v26044gc0000dblpaafog65lgtns6peg.MP4",
+        "localFile": "media/ref-001/original.mp4",
+        "sha256": "12c6fa2cd14d7b863ce044f4c207a8e3b472745dacf214bfa3b6a5dc987ef531",
+        "durableUrl": null,
+        "rights": "unknown-reference-only-not-for-republication"
+      },
+      "media": {
+        "width": 576,
+        "height": 1024,
+        "fps": 30,
+        "frames": 1531,
+        "durationVideoSeconds": 51.033333,
+        "durationContainerSeconds": 51.046009,
+        "audioCodec": "aac",
+        "audioSampleRate": 44100
+      },
+      "tags": [
+        "presentation-illustree",
+        "montage-explicatif",
+        "avatar-presentateur",
+        "sous-titres-animes",
+        "texte-progressif",
+        "mots-cles",
+        "recomposition",
+        "telephones",
+        "profondeur",
+        "flou-net",
+        "apparitions-decalees",
+        "transitions-graphiques"
+      ],
+      "uses": [
+        "produit-interface",
+        "mecanisme-de-pronostics",
+        "recit-sportif-illustre",
+        "comparaison-de-variantes"
+      ],
+      "sampledIntervals": [
+        {
+          "startSeconds": 0,
+          "endSeconds": 2.4,
+          "samplingFps": 15
+        },
+        {
+          "startSeconds": 2.8,
+          "endSeconds": 5.2,
+          "samplingFps": 15
+        },
+        {
+          "startSeconds": 5.5,
+          "endSeconds": 7.9,
+          "samplingFps": 15
+        },
+        {
+          "startSeconds": 30,
+          "endSeconds": 33,
+          "samplingFps": 15
+        },
+        {
+          "startSeconds": 36.5,
+          "endSeconds": 38.9,
+          "samplingFps": 15
+        }
+      ],
+      "inspection": {
+        "fullDecode": true,
+        "overview": true,
+        "visualMotionSampling": true,
+        "realTimeFluidityReview": false,
+        "audioSyncChecked": false
+      },
+      "adaptation": "Retenir coordination texte/visuel, apparitions ordonnées, profondeur et transformations explicatives ; palette et présentateur à adapter au projet.",
+      "mediaPublished": false
+    }
+  ]
 }
