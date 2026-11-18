@@ -1,0 +1,190 @@
+# LIGUE ONZE — FOOTBALL STORIES
+## ZIDANE 2006 : LES DIX DERNIÈRES MINUTES
+
+### OBJECTIF
+
+Créer une vidéo verticale de 40 à 50 secondes racontant la dernière apparition professionnelle de Zinédine Zidane, lors de la finale de la Coupe du monde 2006.
+
+Cette vidéo doit dépasser notre précédent niveau de qualité.
+
+Je recherche un résultat digne d'une campagne éditoriale sportive haut de gamme : cinématographique, immersif, élégant et parfaitement animé.
+
+### PRIORITÉ ABSOLUE : LES SKILLS EXISTANTS
+
+Avant toute modification :
+
+1. Lire AGENTS.md.
+2. Identifier les skills disponibles dans .agents/skills et les autres emplacements configurés.
+3. Lire les skills pertinents pour la production vidéo, le motion design, les transitions et le contrôle qualité.
+4. Réutiliser les méthodes et composants de notre dernière vidéo Ligue Onze validée.
+5. Consulter le skill ligue-onze-pronos pour retrouver notre langage visuel, même si cette vidéo est narrative.
+6. Ne pas installer de nouveaux packs ni remplacer les skills existants.
+
+Ne pas modifier le format de référence des vidéos de pronostics.
+
+Créer cette production dans un espace distinct, avec ses propres fichiers sources.
+
+### CHARTE GRAPHIQUE
+
+Format : 1080 × 1920, 60 fps.
+
+Palette :
+- #080B0E
+- #171C21
+- #C8FF00
+- #F6F7F8
+- #8D969E
+
+Typographies :
+- Barlow Condensed ExtraBold : titres et chiffres.
+- Inter : informations secondaires.
+
+Tous les textes parfaitement horizontaux.
+
+Utiliser exclusivement le logo officiel Ligue Onze fourni dans le projet.
+
+### DIRECTION ARTISTIQUE
+
+Créer un univers visuel cohérent :
+
+- Stade de Berlin en ambiance nocturne stylisée.
+- Terrain immersif avec profondeur.
+- Trophée de la Coupe du monde.
+- Horloge sportive.
+- Ballon réaliste et filet détaillé.
+- Tunnel des vestiaires.
+- Carton rouge.
+- Éclairages cinématographiques.
+- Photographies historiques authentiques si les droits le permettent.
+
+Les illustrations et objets peuvent être créés pour le motion design, mais ne doivent pas prétendre être des images documentaires authentiques.
+
+Ne pas inventer de portraits de Zidane ou Materazzi.
+
+Les transitions doivent être motivées par les objets :
+- Le trophée révèle le stade.
+- L'horloge remonte le temps.
+- Le ballon déclenche le changement de score.
+- Le carton rouge devient un masque de transition.
+- Le tunnel ramène à l'image du trophée.
+
+Créer des animations plus ambitieuses que dans la vidéo de référence, mais sans sacrifier la fluidité.
+
+Aucun glitch, flash agressif, rebond systématique, texte incliné ou effet gratuit.
+
+### STORYBOARD
+
+0–5 s :
+Ouverture sur le trophée, ambiance sombre.
+Horloge 110'.
+Titre :
+« IL LUI RESTAIT 10 MINUTES. »
+
+5–15 s :
+Retour à la 7e minute.
+Panenka de Zidane.
+Score France 1–0 Italie.
+Le ballon devient l'élément de transition.
+
+15–24 s :
+Égalisation de Materazzi à la 19e.
+Score 1–1.
+Montée de tension vers la prolongation.
+
+24–35 s :
+Horloge 110'.
+Silence.
+Carton rouge.
+Zidane quitte la pelouse.
+Transition vers le tunnel.
+
+35–45 s :
+Italie championne du monde.
+Trophée.
+Question :
+« CE GESTE CHANGE-T-IL TON REGARD SUR ZIDANE ? »
+
+Signature :
+Logo officiel Ligue Onze
+« Le jeu des pronos entre potes »
+ligueonze.fr
+
+### NARRATION
+
+Une voix off ElevenLabs sera fournie séparément.
+
+Ne pas générer automatiquement de voix off payante.
+
+Si le fichier audio est présent :
+- Analyser sa durée réelle.
+- Synchroniser chaque scène à la narration.
+- Adapter les durées du storyboard.
+- Préserver les silences dramatiques.
+- Ne pas accélérer artificiellement la voix pour respecter une durée arbitraire.
+
+Si le fichier est absent, préparer la vidéo avec des timings provisoires et un système simple de remplacement audio.
+
+### EXIGENCE DE MOTION DESIGN
+
+Je veux des mouvements plus fluides, plus riches et plus plaisants à regarder que dans nos précédentes productions.
+
+Utiliser lorsque pertinent :
+- Caméras virtuelles.
+- Parallaxe multi-plans.
+- Profondeur de champ subtile.
+- Masques animés.
+- Transitions spatiales.
+- Morphing contrôlé des chiffres.
+- Mouvements de caméra continus.
+- Animations de lumière.
+- Simulation légère de filet.
+- Éléments graphiques synchronisés aux événements.
+
+La qualité du mouvement compte davantage que la quantité d'effets.
+
+Chaque scène doit comporter un point focal clair.
+
+Prévoir de véritables instants de stabilité pour permettre la lecture.
+
+### EXACTITUDE HISTORIQUE
+
+Vérifier avant export :
+- Finale le 9 juillet 2006.
+- Zidane marque à la 7e minute.
+- Materazzi égalise à la 19e.
+- Expulsion de Zidane à la 110e.
+- Italie victorieuse aux tirs au but 5–3.
+- Score après prolongation : 1–1.
+
+Ne pas inventer de dialogue exact entre Zidane et Materazzi.
+
+Ne pas suggérer que la France aurait nécessairement gagné sans l'expulsion.
+
+### CONTRÔLE QUALITÉ
+
+Effectuer une vraie inspection visuelle du rendu.
+
+Contrôler :
+- Lisibilité mobile.
+- Exactitude historique.
+- Cohérence des illustrations.
+- Zones de sécurité.
+- Synchronisation audio.
+- Transitions.
+- Absence de chevauchement.
+- Fluidité à 60 fps.
+- Export MP4 valide.
+- Logo officiel.
+
+Corriger les défauts avant livraison.
+
+### LIVRABLES
+
+- Vidéo finale MP4 1080 × 1920, 60 fps.
+- Projet source modifiable.
+- Assets utilisés et informations de licence.
+- Documentation courte.
+
+Produire une première version complète et ambitieuse, pas seulement un storyboard ou une démonstration d'effets.
+
+Cette vidéo doit donner le sentiment de regarder un véritable mini-documentaire sportif premium.

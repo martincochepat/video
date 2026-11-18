@@ -1,0 +1,50 @@
+{
+  "status": "pass",
+  "scope": "Contrôles techniques et examen visuel échantillonné de la première version complète, sans validation perceptive à vitesse réelle.",
+  "finalSha256": "4f39f8ef4d7e1a60462e4035c97299bfe97766eb54ed925f8522e9a743b70f39",
+  "publicationReady": false,
+  "understanding": {
+    "status": "pass",
+    "evidence": "Accroche110 puis retour7 ; France1–0Italie après la Panenka, puis1–1 après la tête. Le carton précède le tunnel. Résultat du match et séance de tirs au but distingués à37,5s. Question ouverte sans dialogue ou contrefactuel inventé."
+  },
+  "composition": {
+    "status": "pass",
+    "evidence": "Neuf moments examinés à360px ; titres droits et séparés du mouvement. Stade plein cadre, ballon volumétrique, trophée sculptural et perspective du tunnel.",
+    "corrections": [
+      "Mention de reconstitution retirée des plans de ballon pour éviter le croisement.",
+      "Couche sombre pleine derrière les titres lors du ballon au premier plan.",
+      "Base du trophée maintenue près du socle pendant son retrait devant la question."
+    ]
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "Objet muséal, stade de face pour penalty, axe latéral pour centre et tête, carton au premier plan, corridor en perspective, retour au trophée. Pas de panneaux rectangulaires répétés."
+  },
+  "motion": {
+    "status": "pass",
+    "evidence": "Sept bandes chronologiques extraites des clips60fps à10images/s examinées ; continuité position/rayon/rotation testée à dix jonctions du ballon, contact sous la barre vérifié.",
+    "corrections": [
+      "Horloge : même position, taille et minute de part et d’autre du raccord à5,4s.",
+      "Trophée du tunnel révélé par le même masque que la porte, sans apparition anticipée.",
+      "Entrée et sortie du pied amorties ; mailles localisées autour des impacts, poteaux fixes."
+    ],
+    "limitation": "Pas de validation perceptive en lecture continue à60fps ; l’échantillonnage et les tests numériques ne la remplacent pas."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "45s provisoires sans voix. Score1–0 installé vers9,5s et1–1 vers18,6s ; plusieurs secondes de lecture. Carton tenu avant le tunnel. Question39,5–42,5s puis signature42,5–45s, stable après43,15s."
+  },
+  "consistency": {
+    "status": "pass",
+    "evidence": "Palette, Barlow Condensed et Inter conservés ; deux données de buts et expulsion recoupées. Figures anonymes de dos, aucune photo/portrait/voix/logo inventé. Les trois vidéos de pronostics conservent leurs empreintes."
+  },
+  "limitations": [
+    "Voix absente, aucun alignement vocal réel validé.",
+    "Logo officiel absent comme fichier, emplacement laissé prêt.",
+    "Skill ligue-onze-pronos introuvable après recherche locale et catalogues ; huit skills existants et méthode V3 utilisés.",
+    "FIFA et Wikipedia bloqués par proxy403 ; chiffres contrôlés dans les bases Fjelstul et OpenFootball, source primaire non consultée.",
+    "Panenka et fin de carrière : contexte du brief et connaissance historique, sans nouvelle consultation directe de source primaire.",
+    "Stade, ballon, trophée et silhouettes sont des illustrations symboliques ; aucune prétention de reproduction documentaire ou architecturale exacte.",
+    "Lecture mobile sur réduction360px, pas sur téléphone physique ; clips échantillonnés, pas de validation en temps réel."
+  ]
+}

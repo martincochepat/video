@@ -1,0 +1,77 @@
+{
+  "basis": "editorial-estimate-no-voice",
+  "durationSeconds": 45,
+  "scenes": [
+    {
+      "id": "opening",
+      "startSeconds": 0,
+      "endSeconds": 5
+    },
+    {
+      "id": "panenka",
+      "startSeconds": 5,
+      "endSeconds": 15
+    },
+    {
+      "id": "equalizer",
+      "startSeconds": 15,
+      "endSeconds": 24
+    },
+    {
+      "id": "red-card",
+      "startSeconds": 24,
+      "endSeconds": 35
+    },
+    {
+      "id": "legacy",
+      "startSeconds": 35,
+      "endSeconds": 45
+    }
+  ],
+  "events": [
+    {
+      "id": "rewind",
+      "atSeconds": 5
+    },
+    {
+      "id": "panenkaKick",
+      "atSeconds": 7.9
+    },
+    {
+      "id": "crossbar",
+      "atSeconds": 8.6
+    },
+    {
+      "id": "firstGoal",
+      "atSeconds": 8.95
+    },
+    {
+      "id": "header",
+      "atSeconds": 17.1
+    },
+    {
+      "id": "equalizerGoal",
+      "atSeconds": 17.9
+    },
+    {
+      "id": "redCard",
+      "atSeconds": 25.7
+    },
+    {
+      "id": "tunnel",
+      "atSeconds": 29.1
+    },
+    {
+      "id": "champions",
+      "atSeconds": 35.4
+    },
+    {
+      "id": "question",
+      "atSeconds": 39.5
+    },
+    {
+      "id": "signature",
+      "atSeconds": 42.5
+    }
+  ]
+}

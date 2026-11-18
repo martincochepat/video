@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "type": "font",
+      "name": "Barlow Condensed ExtraBold / Inter",
+      "origin": "Ressources locales V1",
+      "license": "SIL Open Font License, textes fournis dans public/productions/pronos-17-nov/fonts/."
+    },
+    {
+      "type": "illustration",
+      "name": "Stade, trophée stylisé, ballon sans marque, filet, tunnel et silhouettes anonymes",
+      "origin": "SVG originaux de cette production, règles de matière et interactions reprises de V3",
+      "license": "Sources du projet ; aucune archive ou photographie historique."
+    }
+  ],
+  "research": "Extraits de données Fjelstul attribués sous CC-BY-SA4.0 dans research/ ; ce ne sont pas des médias documentaires.",
+  "voice": null,
+  "logo": null,
+  "aiImages": false
+}

@@ -1,0 +1,155 @@
+{
+  "id": "zidane-2006",
+  "status": "ready",
+  "component": "zidane-story",
+  "profile": "ligue-onze",
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "durationSeconds": 45,
+  "safeArea": {
+    "top": 140,
+    "right": 110,
+    "left": 85,
+    "bottom": 180
+  },
+  "palette": {
+    "background": "#080B0E",
+    "foreground": "#F6F7F8",
+    "accent": "#C8FF00",
+    "muted": "#8D969E"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 48,
+    "maxChars": 48
+  },
+  "voice": null,
+  "captions": [],
+  "scenes": [
+    {
+      "id": "opening",
+      "startSeconds": 0,
+      "endSeconds": 5
+    },
+    {
+      "id": "panenka",
+      "startSeconds": 5,
+      "endSeconds": 15
+    },
+    {
+      "id": "equalizer",
+      "startSeconds": 15,
+      "endSeconds": 24
+    },
+    {
+      "id": "red-card",
+      "startSeconds": 24,
+      "endSeconds": 35
+    },
+    {
+      "id": "legacy",
+      "startSeconds": 35,
+      "endSeconds": 45
+    }
+  ],
+  "keyframesSeconds": [
+    0,
+    2.5,
+    4.9,
+    5.4,
+    6.4,
+    7.8,
+    8.5,
+    8.95,
+    9.8,
+    12,
+    14.5,
+    15.5,
+    16.8,
+    17.1,
+    17.9,
+    18.6,
+    21,
+    23.6,
+    24.4,
+    26.4,
+    28,
+    29.2,
+    31,
+    33.8,
+    35.4,
+    37.5,
+    40.8,
+    43.5,
+    44.9
+  ],
+  "transitionSeconds": [
+    4.7,
+    14.5,
+    23.7,
+    28.8,
+    34.7,
+    39.5,
+    42.5
+  ],
+  "assets": [
+    {
+      "src": "productions/pronos-17-nov/fonts/Inter-OFL.txt",
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "src": "productions/pronos-17-nov/fonts/Barlow-OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "src": "productions/pronos-17-nov/fonts/Inter.ttf",
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "src": "productions/pronos-17-nov/fonts/BarlowCondensed-ExtraBold.ttf",
+      "sha256": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/gb-wls.svg",
+      "sha256": "61ad944644250599da53b344e16bb40529677a7f35b84aaf6bc81fd18eb09e24"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/no.svg",
+      "sha256": "ceea17af051dceefd5759a824213eb40ac8a8095aa88a6874a7bbc8de637357a"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/pt.svg",
+      "sha256": "a7a2cf0b44aaaaf4f3bdc0ee0fa308ec7085bdfedd3f72da1473d43fd2a569fb"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/dk.svg",
+      "sha256": "d2847c0bd7a1fb97977ee51f2f618c5ebc5898dd66ef9804f187613c27bdca1a"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/se.svg",
+      "sha256": "b3b5071e6c1d4a0e3db828bab5c7dfd68d0e90fcf3b25b15e9a2c4f96c1f79c9"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/pl.svg",
+      "sha256": "369bb3e14ee718df1ee15fd2fb3ad0dae713f78f622e277710fb2b30a313f2aa"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/ua.svg",
+      "sha256": "2d869c23ebfefb2ae0a633297c11dee06fcb666ce7b3ca75eba09b7a1a3a03ac"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/LICENSE.txt",
+      "sha256": "8f1195d55a2fd315a07d812328470ca9ba2abb78c8d317ff19619d5125e00cea"
+    },
+    {
+      "src": "productions/pronos-17-nov/flags/ge.svg",
+      "sha256": "0280a1279c3d1d772f1e885ee821e37a1cdb4aa085ca2870825fe10bad8d7ff1"
+    }
+  ],
+  "logoSrc": null,
+  "qaFonts": [
+    "800 104px StoryTitle",
+    "600 44px StoryInfo"
+  ]
+}

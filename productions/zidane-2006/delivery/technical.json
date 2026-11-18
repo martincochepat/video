@@ -1,0 +1,2837 @@
+{
+  "generatedAt": "2026-11-18T07:51:54.098Z",
+  "signature": "8c7d7ef0540965595cfb0e711ce733093509cb25bc8bb66c8e9efd729349695c",
+  "sha256": "4f39f8ef4d7e1a60462e4035c97299bfe97766eb54ed925f8522e9a743b70f39",
+  "technical": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 2700,
+    "duration": 45,
+    "audio": [],
+    "decoded": true
+  },
+  "frames": [
+    0,
+    150,
+    270,
+    281,
+    282,
+    283,
+    294,
+    324,
+    384,
+    468,
+    510,
+    537,
+    588,
+    720,
+    858,
+    869,
+    870,
+    871,
+    882,
+    930,
+    1008,
+    1026,
+    1074,
+    1116,
+    1260,
+    1410,
+    1416,
+    1421,
+    1422,
+    1423,
+    1434,
+    1464,
+    1584,
+    1680,
+    1716,
+    1727,
+    1728,
+    1729,
+    1740,
+    1752,
+    1860,
+    2028,
+    2070,
+    2081,
+    2082,
+    2083,
+    2094,
+    2124,
+    2250,
+    2358,
+    2369,
+    2370,
+    2371,
+    2382,
+    2448,
+    2538,
+    2549,
+    2550,
+    2551,
+    2562,
+    2610,
+    2694,
+    2699
+  ],
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        },
+        {
+          "text": "9 JUILLET 2006 · BERLIN",
+          "x": 100,
+          "y": 1561,
+          "width": 503.84375,
+          "height": 54
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        },
+        {
+          "text": "9 JUILLET 2006 · BERLIN",
+          "x": 100,
+          "y": 1561,
+          "width": 503.84375,
+          "height": 54
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        },
+        {
+          "text": "9 JUILLET 2006 · BERLIN",
+          "x": 100,
+          "y": 1561,
+          "width": 503.84375,
+          "height": 54
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 281,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        },
+        {
+          "text": "9 JUILLET 2006 · BERLIN",
+          "x": 100,
+          "y": 1561,
+          "width": 503.84375,
+          "height": 54
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 282,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 283,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 294,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL LUI RESTAIT\n10 MINUTES.",
+          "x": 100,
+          "y": 245,
+          "width": 577.171875,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 324,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 384,
+      "boxes": [
+        {
+          "text": "UNE PANENKA EN FINALE.",
+          "x": 100,
+          "y": 626,
+          "width": 540.3125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 468,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 510,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 537,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 588,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 720,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 858,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 869,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 870,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 871,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 882,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "7e MINUTE.\nZIDANE.",
+          "x": 100,
+          "y": 245,
+          "width": 442.640625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 930,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "0",
+          "x": 728,
+          "y": 581,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1008,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1026,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1074,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1116,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1260,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "19e MINUTE.\nMATERAZZI.",
+          "x": 100,
+          "y": 245,
+          "width": 477.625,
+          "height": 266.1875
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1410,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1416,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1421,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1422,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1423,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1434,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 258.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "1",
+          "x": 748.25,
+          "y": 581,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "FRANCE",
+          "x": 208.03125,
+          "y": 886,
+          "width": 173.9375,
+          "height": 54
+        },
+        {
+          "text": "ITALIE",
+          "x": 721.828125,
+          "y": 886,
+          "width": 126.328125,
+          "height": 54
+        },
+        {
+          "text": "PROLONGATION.",
+          "x": 100,
+          "y": 1451,
+          "width": 347.0625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "LE MATCH\nS’ÉTIRE.",
+          "x": 100,
+          "y": 245,
+          "width": 385.890625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1464,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1584,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1680,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1716,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1727,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1728,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1729,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1740,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "110e MINUTE.\nLE CARTON ROUGE.",
+          "x": 100,
+          "y": 245,
+          "width": 651.265625,
+          "height": 232.109375
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1752,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1860,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2028,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2070,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2081,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2082,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2083,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2094,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "IL QUITTE\nLA FINALE.",
+          "x": 100,
+          "y": 245,
+          "width": 435.390625,
+          "height": 266.1875
+        },
+        {
+          "text": "RECONSTITUTION GRAPHIQUE",
+          "x": 100,
+          "y": 1692,
+          "width": 572.03125,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2124,
+      "boxes": [
+        {
+          "text": "1–1 APRÈS PROLONGATION.",
+          "x": 100,
+          "y": 641,
+          "width": 563.265625,
+          "height": 54
+        },
+        {
+          "text": "ITALIE 5–3 FRANCE",
+          "x": 100,
+          "y": 1561,
+          "width": 462.953125,
+          "height": 82
+        },
+        {
+          "text": "AUX TIRS AU BUT.",
+          "x": 100,
+          "y": 1651,
+          "width": 369.765625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "ITALIE.\nCHAMPIONNE\nDU MONDE.",
+          "x": 100,
+          "y": 244,
+          "width": 445.75,
+          "height": 345.78125
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2250,
+      "boxes": [
+        {
+          "text": "1–1 APRÈS PROLONGATION.",
+          "x": 100,
+          "y": 641,
+          "width": 563.265625,
+          "height": 54
+        },
+        {
+          "text": "ITALIE 5–3 FRANCE",
+          "x": 100,
+          "y": 1561,
+          "width": 462.953125,
+          "height": 82
+        },
+        {
+          "text": "AUX TIRS AU BUT.",
+          "x": 100,
+          "y": 1651,
+          "width": 369.765625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "ITALIE.\nCHAMPIONNE\nDU MONDE.",
+          "x": 100,
+          "y": 244,
+          "width": 445.75,
+          "height": 345.78125
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2358,
+      "boxes": [
+        {
+          "text": "1–1 APRÈS PROLONGATION.",
+          "x": 100,
+          "y": 641,
+          "width": 563.265625,
+          "height": 54
+        },
+        {
+          "text": "ITALIE 5–3 FRANCE",
+          "x": 100,
+          "y": 1561,
+          "width": 462.953125,
+          "height": 82
+        },
+        {
+          "text": "AUX TIRS AU BUT.",
+          "x": 100,
+          "y": 1651,
+          "width": 369.765625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "ITALIE.\nCHAMPIONNE\nDU MONDE.",
+          "x": 100,
+          "y": 244,
+          "width": 445.75,
+          "height": 345.78125
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2369,
+      "boxes": [
+        {
+          "text": "1–1 APRÈS PROLONGATION.",
+          "x": 100,
+          "y": 641,
+          "width": 563.265625,
+          "height": 54
+        },
+        {
+          "text": "ITALIE 5–3 FRANCE",
+          "x": 100,
+          "y": 1561,
+          "width": 462.953125,
+          "height": 82
+        },
+        {
+          "text": "AUX TIRS AU BUT.",
+          "x": 100,
+          "y": 1651,
+          "width": 369.765625,
+          "height": 54
+        },
+        {
+          "text": "FOOTBALL STORIES · BERLIN 2006",
+          "x": 100,
+          "y": 151,
+          "width": 647.515625,
+          "height": 49
+        },
+        {
+          "text": "ITALIE.\nCHAMPIONNE\nDU MONDE.",
+          "x": 100,
+          "y": 244,
+          "width": 445.75,
+          "height": 345.78125
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2370,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2371,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2382,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2448,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2538,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2549,
+      "boxes": [
+        {
+          "text": "FOOTBALL STORIES · LA QUESTION",
+          "x": 100,
+          "y": 151,
+          "width": 663.09375,
+          "height": 49
+        },
+        {
+          "text": "CE GESTE CHANGE-T-IL\nTON REGARD\nSUR ZIDANE ?",
+          "x": 100,
+          "y": 245,
+          "width": 676.828125,
+          "height": 298.0625
+        },
+        {
+          "text": "FOOTBALL STORIES · LIGUE ONZE",
+          "x": 100,
+          "y": 1692,
+          "width": 623.875,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2550,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2551,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2562,
+      "boxes": [
+        {
+          "text": "Le jeu des pronos\nentre potes",
+          "x": 258.453125,
+          "y": 882,
+          "width": 533.09375,
+          "height": 200.5
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2610,
+      "boxes": [
+        {
+          "text": "Le jeu des pronos\nentre potes",
+          "x": 258.453125,
+          "y": 882,
+          "width": 533.09375,
+          "height": 200.5
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 296.96875,
+          "y": 1163,
+          "width": 456.046875,
+          "height": 104
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2694,
+      "boxes": [
+        {
+          "text": "Le jeu des pronos\nentre potes",
+          "x": 258.453125,
+          "y": 882,
+          "width": 533.09375,
+          "height": 200.5
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 296.96875,
+          "y": 1163,
+          "width": 456.046875,
+          "height": 104
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2699,
+      "boxes": [
+        {
+          "text": "Le jeu des pronos\nentre potes",
+          "x": 258.453125,
+          "y": 882,
+          "width": 533.09375,
+          "height": 200.5
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 296.96875,
+          "y": 1163,
+          "width": 456.046875,
+          "height": 104
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 104px StoryTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px StoryInfo",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "Échantillonnage, pas preuve de chaque image.",
+    "Compréhension et esthétique à examiner séparément.",
+    "Contrôle automatique de débordement des textes HTML balisés ; SVG et médias à examiner visuellement."
+  ]
+}

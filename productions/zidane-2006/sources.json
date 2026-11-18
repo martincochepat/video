@@ -1,0 +1,33 @@
+{
+  "status": "reviewed",
+  "claims": [
+    {
+      "claim": "Finale du 9 juillet 2006 à Berlin, score 1–1 après prolongation, Italie gagnante 5–3 aux tirs au but.",
+      "url": "https://raw.githubusercontent.com/openfootball/world-cup/master/2006--germany/cup_finals.txt",
+      "title": "OpenFootball — World Cup 2006 Finals",
+      "accessedAt": "2026-11-18",
+      "evidence": "Sun Jul 9 Italy 1-1 a.e.t. (1-1,1-1),5-3 pen. France @ Olympiastadion,Berlin ; Materazzi19 ; Zidane7(pen.)",
+      "status": "cross-checked-secondary"
+    },
+    {
+      "claim": "Zidane penalty 7e, Materazzi 19e, carton rouge Zidane à110.",
+      "url": "https://github.com/jfjelstul/worldcup",
+      "title": "The Fjelstul World Cup Database",
+      "accessedAt": "2026-11-18",
+      "evidence": "M-2006-64 ; goals G-2490/G-2491 ; booking B-1890, red_card=1, minute=110. Fichiers CSV accessibles sur raw.githubusercontent.com.",
+      "status": "verified-secondary-data"
+    },
+    {
+      "claim": "Panenka et dernière apparition professionnelle de Zidane",
+      "url": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
+      "title": "2006 FIFA World Cup final",
+      "accessedAt": "2026-11-18",
+      "evidence": "Brief utilisateur concordant avec connaissance historique ; accès direct Wikipedia et FIFA proxy403. Pas de nouvelle citation documentaire inventée.",
+      "status": "user-provided-known-context-primary-not-accessed"
+    }
+  ],
+  "primaryAccess": "FIFA et Wikipedia refusés par le proxy HTTP CONNECT403 ; chiffres contrôlés sur deux jeux de données secondaires.",
+  "retirementWording": "Le film montre la fin du dernier match de Zidane, sans inventer de dialogue ni affirmer une victoire française sans l’expulsion.",
+  "assets": "Aucune photo ou archive broadcast utilisée. Logo binaire toujours absent.",
+  "missingSkill": "ligue-onze-pronos absent du repo, de /workspace/.agents et du catalogue cloud/executor ; méthode V3 et huit skills existants utilisés."
+}
