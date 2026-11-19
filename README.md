@@ -1,6 +1,8 @@
-# Atelier de motion design
+# Atelier vidéo généraliste
 
-**Une consigne dans Codex** déclenche recherche si nécessaire, scénario, storyboard, direction artistique, composition Remotion, audio si configuré, contrôle et export MP4.
+**Une consigne dans Codex** déclenche un montage adapté au projet : rushs, interview, publicité, tutoriel, documentaire, clip, motion design ou format mixte. Le profil général est neutre ; Ligue Onze est une charte optionnelle. Hyperframes, Remotion et FFmpeg sont choisis selon les besoins.
+
+Voir les [types de montage et choix des outils](references/editing-modes.md), ainsi que le [modèle de demande](references/video-brief.md). La méthode couvre recherche utile, conducteur/scénario, médias, direction, audio, montage, contrôle et export.
 
 > Utilise video-director pour créer une vidéo verticale de 20 secondes sur [sujet], destinée à [public], profil général, sans voix.
 

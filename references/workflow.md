@@ -1,6 +1,10 @@
-# Méthode de l’atelier
+# Méthode de l’atelier vidéo généraliste
 
-Cette méthode originale fonctionne dans Codex avec les skills du projet. Elle ne dépend d’aucun fichier privé de MotionLab. Une consigne déclenche le travail de l’agent ; il n’existe pas de moteur LLM caché dans le CLI, et les scènes doivent être dessinées et codées selon le sujet.
+Cette méthode originale fonctionne dans Codex avec les skills du projet. Elle ne dépend d’aucun fichier privé de MotionLab. Une consigne déclenche le travail de l’agent ; il n’existe pas de moteur LLM caché dans le CLI, et la sélection des médias, le montage et les éventuelles scènes animées sont réalisés sur mesure selon le sujet.
+
+## Choisir le montage
+
+Commencer par [les modes de montage](editing-modes.md). Type de vidéo, marque, style et moteur sont des choix distincts. Le profil général s’applique à tous sujets sans charte imposée. Les commandes atelier détaillées ci-dessous décrivent le chemin Remotion ; Hyperframes et FFmpeg ont leurs propres étapes de rendu et de contrôle. Les médias réels fournis peuvent porter le montage à eux seuls ou être combinés à des animations.
 
 ## Une consigne
 
@@ -56,7 +60,7 @@ npm run atelier -- skills
 npm_config_cache=/workspace/.npm-cache npx --offline skills list --agent codex
 ```
 
-Preview : 30 fps ; final : 60 fps, même durée et mêmes mouvements. H.264, 4:2:0, AAC seulement si audio. Chromium existant, pas de téléchargement de navigateur. Le cache du rendu comprend sources, paramètres, polices et médias concernés ; l’empreinte du MP4 est vérifiée avant réutilisation. Les fichiers audio sont adressés par SHA-256.
+Pour le chemin historique Remotion atelier : preview à 30 fps et option --final à 60 fps, même durée et mêmes mouvements. Pour les autres demandes, choisir la cadence et la chaîne adaptées comme indiqué dans editing-modes.md. H.264, 4:2:0, AAC seulement si audio. Chromium existant, pas de téléchargement de navigateur. Le cache du rendu comprend sources, paramètres, polices et médias concernés ; l’empreinte du MP4 est vérifiée avant réutilisation. Les fichiers audio sont adressés par SHA-256.
 
 inspect contrôle ffprobe puis décode le MP4 entier. Il examine les boîtes de texte, polices et images HTML marquées aux instants clés et à ±1 image/±0,2 s des coupes. Il exporte aussi une seconde autour de chaque transition. Une planche n’évalue pas automatiquement la compréhension ; examiner les plans et ces séquences, puis remplir les six axes du quality-review. Les polices fallback, les SVG, le cadrage des médias et les éventuels recouvrements texte/image exigent un examen visuel. Ajouter des points clés pour les mouvements rapides ; l’échantillonnage ne prouve pas chaque image.
 

@@ -1,8 +1,12 @@
 ---
 name: video-quality
-description: Tester le rendu et corriger les défauts techniques et artistiques.
+description: Examiner et corriger les rendus, du montage de rushs à l'animation, selon la chaîne employée.
 ---
 
 # video-quality
 
-Exécuter typecheck, puis `npm run atelier -- render <slug>` et `npm run atelier -- inspect <slug>`. Les contrôles doivent lire le MP4 courant, pas un ancien fichier. Examiner contact-sheet.png, key-*.png et transition-*.mp4. Les snapshots du navigateur vérifient les boîtes de texte et zones sûres aux images échantillonnées ; cela ne prouve pas tous les instants. Contrôler aussi polices, médias, absence de chevauchements, lisibilité mobile, entrée/sortie des objets, cohérence des données et durée de lecture. Remplir quality-review.json avec six évaluations séparées : compréhension, composition, variété, mouvement, rythme, cohérence ; chaque évaluation cite des instants et des corrections, jamais un score prétendument automatique. Marquer pass seulement après examen. Si un défaut apparaît, corriger, rerendre et réinspecter. Le rapport technique, le jugement humain et les contrôles non exécutés doivent rester distincts. Ajouter si nécessaire des instants à keyframesSeconds et tester un intervalle dense autour d’un mouvement. Aucune livraison finale avec erreur technique inexpliquée.
+Contrôler le fichier courant et ses sources. Pour Remotion, exécuter typecheck, le rendu atelier et inspect dans le même mode ; pour Hyperframes, lint/check et snapshots puis examen de l'export ; pour FFmpeg, vérifier paramètres, décodage et extraits pertinents. Ne pas annoncer un contrôle universel fourni automatiquement par un moteur différent. Adapter les vérifications à la cadence, au format et à la durée réellement demandés.
+
+Examiner images clés, raccords et extraits de mouvement. Pour rushs/interviews : sens des coupes, continuité, recadrage, synchronisation des prises, intelligibilité, niveaux et transitions sonores. Pour sous-titres : exactitude, alignement vérifié sur le vrai audio lorsqu'il existe, lisibilité et zones sûres. Pour animation : ordre de lecture, causalité, trajectoires, stabilisation, intersections et cohérence des médias. Un export60fps ne prouve pas la fluidité et des captures statiques ne suffisent pas à l'affirmer.
+
+Remplir quality-review.json avec six évaluations distinctes : compréhension, composition, variété, mouvement, rythme et cohérence. Citer passages et corrections, sans score automatique prétendu. Distinguer paramètres/décodage, jugement visuel, écoute ou lecture réellement effectuées, et limites d'inspection. Si un défaut apparaît, corriger, rerendre puis réexaminer les passages concernés. Ne marquer pass qu'après cet examen, ni livrer une erreur technique inexpliquée. Les vérifications automatisées ne couvrent pas toute la compréhension ou chaque instant d'un film.

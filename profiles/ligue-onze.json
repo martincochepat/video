@@ -1,11 +1,11 @@
 {
   "name": "Ligue Onze",
   "language": "fr",
-  "background": "#151020",
-  "foreground": "#faf6ff",
-  "accent": "#bf9aff",
-  "muted": "#c2b6d2",
-  "direction": "Football, français vivant, violet réservé à ce profil. Textes droits. Logo officiel et captures fournis uniquement, jamais de faux logo, de pseudo réel ni d’image IA par défaut.",
+  "background": "#080B0E",
+  "foreground": "#F6F7F8",
+  "accent": "#C8FF00",
+  "muted": "#8D969E",
+  "direction": "Profil de marque optionnel pour Ligue Onze, selon le brief et la charte sombre/citron des productions récentes. Un sujet sportif seul ne sélectionne pas cette marque. Textes lisibles et horizontaux ; logo officiel et médias réellement fournis. Aucun faux logo, pseudo réel inventé ou image IA par défaut.",
   "safeArea": {
     "top": 150,
     "right": 100,

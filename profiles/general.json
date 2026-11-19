@@ -1,11 +1,11 @@
 {
-  "name": "Général",
+  "name": "Général — tous sujets",
   "language": "fr",
   "background": "#101c23",
   "foreground": "#f8f3e8",
   "accent": "#f1ae55",
   "muted": "#b5c3c8",
-  "direction": "Choisir une palette et une grammaire selon le sujet ; ces couleurs ne sont qu’un départ.",
+  "direction": "Profil neutre pour montage de rushs, interviews, publicité, tutoriels, documentaires, clips, réseaux sociaux, motion design et formats mixtes. Choisir palette, polices, rythme, format et traitement des médias selon le brief et les références. Ces couleurs sont seulement un point de départ ; aucune identité Ligue Onze, scène sportive ou mascotte imposée.",
   "safeArea": {
     "top": 150,
     "right": 100,

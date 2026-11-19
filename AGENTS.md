@@ -1,4 +1,4 @@
-# Atelier de motion design
+# Atelier vidéo généraliste
 
 Pour toute consigne de création vidéo, commencer par `.agents/skills/video-director/SKILL.md` et poursuivre jusqu’au vrai MP4 contrôlé, sans s’arrêter à un plan. Appliquer les huit skills métier puis les références des skills officiels Remotion selon le besoin. Notre méthode est originale ; ne pas prétendre disposer de fichiers privés MotionLab.
 
@@ -13,9 +13,15 @@ Chaque tâche cloud est isolée : utiliser ce checkout, sans worktree sauf deman
 - Documentation et contrat : `references/workflow.md`, `references/audio.md`.
 - Exemple complet : `productions/espace/`, source `src/productions/Space.tsx`.
 
-Défauts : profil général, vertical 1080×1920, preview 30 fps, texte droit, pas de voix ni de service payant. Pour Ligue Onze, consulter la charte sombre/citron des productions récentes et le brief du projet. Aucun faux logo, chiffre inventé, pseudo réel non demandé ou image IA par défaut pour Ligue Onze. Privilégier des scènes qui montrent le sens, pas une suite de cartes.
+Défauts : profil général sans marque imposée, choix du format et de la cadence d’après le brief, la destination et les médias. Le portrait1080×1920/30fps est seulement un point de départ du CLI quand rien ne permet de choisir. Pas de voix générée ni de service payant par défaut. Pour Ligue Onze, consulter la charte sombre/citron des productions récentes et le brief du projet. Aucun faux logo, chiffre inventé, pseudo réel non demandé ou image IA par défaut pour Ligue Onze. Privilégier des scènes qui montrent le sens, pas une suite de cartes.
 
 Utiliser `/usr/bin/chromium` configuré. Aucun appel ElevenLabs sans accord explicite, clé sécurisée et accès réseau ; ne jamais afficher un secret. Import vocal sans génération disponible avec des repères réels fournis. Ne jamais appeler un timing estimé « mesuré ». Cache audio/médias SHA-256. Ne pas publier ni modifier la configuration cloud sans demande.
+
+## Types de montage et marques
+
+Lire `references/editing-modes.md` avant de choisir une méthode. L’atelier couvre rushs, interviews/podcasts, YouTube/documentaire, publicité, tutoriels, captures d’écran, clips musicaux, réseaux sociaux, motion design et formats mixtes. Distinguer type de montage, marque éventuelle, style/références et moteur. Par défaut, choisir `general` ; Ligue Onze n’est sélectionné que si la marque est demandée ou établie dans le projet existant, jamais du seul fait d’un sujet football. Ne pas reprendre automatiquement couleurs, polices, avatar, sous-titres ou décor d’une autre production. Adapter le travail aux fichiers et aux capacités vérifiées, annoncer une hypothèse de format si nécessaire et signaler ce qui manque réellement.
+
+Choisir Hyperframes, Remotion, FFmpeg ou une combinaison selon les besoins. Conserver les productions existantes. Les commandes historiques atelier restent un chemin Remotion, avec ses limites actuelles30/60fps et600s ; les autres chaînes ont leurs contrôles propres. Le réglage d’un profil ou l’analyse d’une référence ne déclenche pas la création d’une vidéo non demandée.
 
 ## Hyperframes et références créatives
 
