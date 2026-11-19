@@ -3,3 +3,4 @@
 .agents/skills/hyperframes-cli/** -whitespace
 .agents/skills/media-use/** -whitespace
 examples/hyperframes-smoke/assets/** -whitespace
+public/productions/cinq-scores-v4/*-OFL.txt -whitespace
