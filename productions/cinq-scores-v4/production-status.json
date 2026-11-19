@@ -45,5 +45,11 @@
     "Données de forme de championnat uniquement, pas toutes compétitions ; aucune absence médicale inventée.",
     "Pas de test natif TikTok/Instagram/Facebook ni publication.",
     "Pas de musique ni ambiance documentaire de stade ; voix et bruitages originaux, mix prêt pour un éventuel son natif."
-  ]
+  ],
+  "latestVariant": "FiveScoresClean",
+  "latestDelivery": "delivery/ligue-onze-5-scores-v4-sans-voix.mp4",
+  "latestVariantVoice": false,
+  "latestVariantSubtitles": false,
+  "latestVariantDatesAndTimesPreserved": true,
+  "latestVariantAudio": "sound-effects-only"
 }

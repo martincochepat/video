@@ -1,0 +1,25 @@
+{
+  "sha256": "c62c1d70786c5ef19a8c2d7a50a248093c2c3f58160fcfbc546458acf5175b45",
+  "voice": false,
+  "burnedSubtitles": false,
+  "archivesBannerRemoved": true,
+  "datesAndTimesPreserved": true,
+  "audio": "Original sound effects only",
+  "decodedAudioReferenceCosine": 0.9996786986158588,
+  "audioCheckExplanation": "Comparaison de l’AAC décodé à la piste de bruitages seule, pas au mix contenant la voix ; validation sur la durée intégrale.",
+  "layoutSamples": 24,
+  "layoutErrors": 0,
+  "blackIntervals": [],
+  "visualOverviewSeconds": [
+    1.6,
+    7.3,
+    15.1,
+    22.9,
+    30.93333333333333,
+    38.733333333333334,
+    44.166666666666664,
+    49.06666666666666
+  ],
+  "previousVersionPreserved": true,
+  "visualReview": "Planche de huit moments extraite du MP4 examinée : dates et heures visibles sur les cinq affiches, pas de sous-titres ni mention Archives · Pronostics."
+}

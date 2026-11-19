@@ -90,3 +90,5 @@ Composition `ThreePredictions`, 27 s, 1080 × 1920 à30fps. **Maquette non publi
 ## V4 — « Ces 5 scores exacts, je les assume »
 
 Composition `FiveScores`, 1080×1920 à30fps, durée mesurée49,17s. Cinq affiches et données de championnat vérifiées sur l’API officielle de Ligue1, dix photographies CC0, logo officiel et voix de travail locale. Voir [les notes et commandes de reprise](productions/cinq-scores-v4/production-notes.md). Rendu : `node productions/cinq-scores-v4/render.mjs render`. Cette production ne remplace pas les précédentes.
+
+Dernière variante de montage : `FiveScoresClean`, sans voix ni sous-titres intégrés, sans la mention « Archives · Pronostics », avec dates et horaires conservés. Bruitages seuls ; commandes et détails dans [clean-notes.md](productions/cinq-scores-v4/clean-notes.md).

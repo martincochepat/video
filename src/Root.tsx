@@ -1,4 +1,4 @@
-import {FiveScores} from './productions/five-scores';
+import {FiveScores,FiveScoresClean} from './productions/five-scores';
 import fiveScores from '../productions/cinq-scores-v4/manifest.json';
 import {ThreePredictions} from './productions/three-predictions';
 import {Composition} from 'remotion';
@@ -7,6 +7,7 @@ import {Workshop} from './Workshop';
 import demo from '../productions/espace/manifest.json';
 import zidane from '../productions/zidane-2006/manifest.json';
 export const Root = () => <>
+  <Composition id="FiveScoresClean" component={FiveScoresClean} durationInFrames={Math.round(fiveScores.durationSeconds*30)} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>
   <Composition id="FiveScores" component={FiveScores} durationInFrames={Math.round(fiveScores.durationSeconds*30)} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>
   <Composition id="ThreePredictions" component={ThreePredictions} durationInFrames={810} fps={30} width={1080} height={1920} defaultProps={{qa:false,cover:false}}/>
   <Composition id="Zidane2006" component={Workshop} durationInFrames={2700} fps={60} width={1080} height={1920}

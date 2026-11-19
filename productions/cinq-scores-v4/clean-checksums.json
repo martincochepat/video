@@ -1,0 +1,14 @@
+{
+  "ligue-onze-5-scores-v4-sans-voix.mp4": {
+    "bytes": 12697302,
+    "sha256": "c62c1d70786c5ef19a8c2d7a50a248093c2c3f58160fcfbc546458acf5175b45"
+  },
+  "couverture-v4-sans-voix.png": {
+    "bytes": 1932772,
+    "sha256": "6c776c02d641fa33de5a6bf1a116e2e8fc93415a4e125cb7b074d4931ba84428"
+  },
+  "planche-v4-sans-voix.png": {
+    "bytes": 1001965,
+    "sha256": "3bdbefbf337db64dfb7225db43f4a288059c002ac9100a92a26a8ce558210cee"
+  }
+}
