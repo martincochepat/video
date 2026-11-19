@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "type": "font",
+      "src": "public/productions/pronos-17-nov/fonts/BarlowCondensed-ExtraBold.ttf",
+      "license": "SIL OFL 1.1",
+      "licenseFile": "public/productions/pronos-17-nov/fonts/Barlow-OFL.txt"
+    },
+    {
+      "type": "font",
+      "src": "public/productions/pronos-17-nov/fonts/Inter.ttf",
+      "license": "SIL OFL 1.1",
+      "licenseFile": "public/productions/pronos-17-nov/fonts/Inter-OFL.txt"
+    },
+    {
+      "type": "sfx",
+      "src": "public/productions/trois-pronostics/impacts.wav",
+      "origin": "Synthèse mathématique originale locale ; aucun échantillon tiers."
+    },
+    {
+      "type": "graphics",
+      "origin": "SVG et typographie originaux ; aucun média de REF-001 republié."
+    }
+  ],
+  "officialLogo": {
+    "available": false,
+    "searched": "src/, public/, components/icons/BrandMarkIcon.tsx",
+    "site": "ligueonze.fr bloqué CONNECT 403",
+    "fallback": "Signature typographique LIGUE ONZE, sans symbole."
+  }
+}

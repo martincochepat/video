@@ -1,0 +1,72 @@
+{
+  "basis": "editorial-estimate",
+  "fps": 30,
+  "durationSeconds": 27,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 3
+    },
+    {
+      "id": "match-01",
+      "startSeconds": 3,
+      "endSeconds": 8
+    },
+    {
+      "id": "match-02",
+      "startSeconds": 8,
+      "endSeconds": 13
+    },
+    {
+      "id": "match-03",
+      "startSeconds": 13,
+      "endSeconds": 18
+    },
+    {
+      "id": "challenge",
+      "startSeconds": 18,
+      "endSeconds": 24
+    },
+    {
+      "id": "signature",
+      "startSeconds": 24,
+      "endSeconds": 27
+    }
+  ],
+  "events": [
+    {
+      "seconds": 0.12,
+      "action": "impact et accroche"
+    },
+    {
+      "seconds": 0.85,
+      "action": "règle du défi"
+    },
+    {
+      "seconds": 3.75,
+      "action": "score exemple 01"
+    },
+    {
+      "seconds": 8.75,
+      "action": "score exemple 02"
+    },
+    {
+      "seconds": 13.75,
+      "action": "score exemple 03"
+    },
+    {
+      "seconds": 18.2,
+      "action": "récapitulatif et question"
+    },
+    {
+      "seconds": 21,
+      "action": "invite à proposer un score"
+    },
+    {
+      "seconds": 24.15,
+      "action": "signature"
+    }
+  ],
+  "voiceAlignment": "not-measured-no-voice"
+}

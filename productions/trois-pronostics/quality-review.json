@@ -1,0 +1,85 @@
+{
+  "status": "technical-preview-reviewed-not-publishable",
+  "reviewedAt": "2026-11-19T15:23:17.239799+00:00",
+  "mp4Sha256": "45dd7da9b7f417ba16fdd6e6b1ceeb9ad14520b66be1914c947eed76f8763894",
+  "publicationAllowed": false,
+  "technical": {
+    "fullDecode": true,
+    "layoutSamples": 28,
+    "layoutErrors": 0,
+    "frames": 810,
+    "fps": 30,
+    "videoSeconds": 27,
+    "containerSeconds": 27.008,
+    "pixelFormat": "yuv420p",
+    "colorRange": "tv",
+    "audioPeakDbFS": -12.947777
+  },
+  "evaluations": {
+    "comprehension": {
+      "assessment": "La règle et le choix numéroté sont lisibles sans voix. La pertinence sportive ne peut pas être évaluée : équipes et scores de maquette.",
+      "evidence": "1,5 s / 21,5 s ; avertissement permanent."
+    },
+    "composition": {
+      "assessment": "Scores dominants ; seconde affiche asymétrique ; zone de sous-titres vide. Marges conservatrices vérifiées sur les textes HTML et les images clés.",
+      "evidence": "4,8 / 9,8 / 14,8 / 21,5 / 25,5 s ; pas de test sur chaque interface native."
+    },
+    "variety": {
+      "assessment": "Trois traitements de terrain et deux organisations du score ; récapitulatif en trio puis signature. Absence volontaire de photos sans droits ni joueurs IA.",
+      "evidence": "Planche six-moments.png issue du MP4."
+    },
+    "movement": {
+      "assessment": "Entrées décalées et révélations masquées, pas de déplacement permanent. Maintien du plan sortant sous le masque ; les chronologies corrigées montrent le contenu conservé au début des raccords.",
+      "evidence": "Cinq fenêtres 2,7–4,8 ; 7,7–9,8 ; 12,7–14,8 ; 17,7–19,8 ; 23,7–25,8 s. Échantillonnage visuel à7,5fps, pas certification perceptive en lecture temps réel à30fps."
+    },
+    "rhythm": {
+      "assessment": "La règle arrive avant le premier choix ; environ quatre secondes de lecture après chaque installation, puis récapitulatif stable. Un court espace entre l’affiche et son score donne un ordre de lecture.",
+      "evidence": "Timeline éditoriale 3 / 5 / 5 / 5 / 6 / 3 s ; voix non disponible."
+    },
+    "coherence": {
+      "assessment": "Palette noire/citron et deux familles locales constantes ; numéros reliés aux mêmes emplacements. Bruitages originaux sans musique. Signature textuelle, pas de faux logo.",
+      "evidence": "Media.json, sources.json, audio-checks.json et captures."
+    }
+  },
+  "corrections": [
+    {
+      "issue": "Sonde de contrôle absente sur les captures : les props résolues de la composition conservaient qa=false.",
+      "fix": "Props QA explicites pour les rendus de contrôle ; sonde effectivement reçue à28 instants."
+    },
+    {
+      "issue": "Boîtes typographiques trop courtes pour les métriques de fonte ; marge du footer animé et entrée de scores proches des limites.",
+      "fix": "Réserve intérieure des boîtes, footer sans translation, entrée du récapitulatif depuis la gauche ; zéro erreur finale."
+    },
+    {
+      "issue": "Le filet du troisième exemple approchait le libellé.",
+      "fix": "Filet abaissé et réduit, contrôle de14,8s."
+    },
+    {
+      "issue": "Premier encodage en yuvj420p pleine plage.",
+      "fix": "Rendu PNG et conversion BT.709 limitée ; ffprobe final yuv420p/tv."
+    },
+    {
+      "issue": "Vide au point de raccord quand le plan sortant se terminait avant l’ouverture du masque.",
+      "fix": "Chevauchement de0,3s et réexamen des cinq chronologies corrigées."
+    }
+  ],
+  "actuallyPerformed": [
+    "TypeScript sans erreur",
+    "9 tests existants atelier réussis",
+    "Rendu complet 810 images",
+    "Décodage FFmpeg intégral du MP4 courant",
+    "28 sondes HTML/polices aux instants échantillonnés",
+    "Examen de la couverture et d’une planche issue du MP4",
+    "Examen visuel des cinq chronologies extraites du MP4 après correction",
+    "Extraction de cinq clips de2,1s pour reprise du contrôle",
+    "Mesure astats sur AAC décodé"
+  ],
+  "limitations": [
+    "Version non publiable : aucune affiche, heure ou forme récente vérifiée.",
+    "Ni logo officiel sous forme de fichier, ni voix off disponibles.",
+    "Pas de sous-titres synchronisés sans narration ; seul leur emplacement est vérifié vide.",
+    "Pas d’écoute analytique ni de lecture vidéo temps réel intégrale revendiquées. Les bandes chronologiques permettent une inspection des positions et des raccords, pas une validation exhaustive de fluidité.",
+    "Les métriques HTML ne détectent pas toutes les collisions SVG ; observation visuelle distincte.",
+    "Pas de test natif Instagram/Facebook/TikTok et aucune publication effectuée."
+  ]
+}

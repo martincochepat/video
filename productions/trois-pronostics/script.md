@@ -1,0 +1,13 @@
+# Intention
+Défi de contradiction : conserver deux choix et en modifier un. Aucun avantage produit ni performance promise. Cette maquette montre la mécanique mais ne constitue pas une recommandation sportive.
+
+SCRIPT À ENREGISTRER APRÈS VALIDATION DES AFFICHES — AUCUNE VOIX DANS CET EXPORT
+
+Trois scores exacts. Tu n’en changes qu’un.
+Premier match : [équipe A] contre [équipe B]. Mon prono : [score validé].
+Deuxième match : [équipe C] contre [équipe D]. Je vois [score validé].
+Troisième match : [équipe E] contre [équipe F]. Je tente [score validé].
+Un, deux ou trois ? Tu changes lequel, et tu mets quel score ?
+Les pronos se jouent entre potes.
+
+Les créneaux 3–8, 8–13 et 13–18 s sont provisoires. Mesurer la voix réelle avant synchronisation.

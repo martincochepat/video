@@ -1,0 +1,19 @@
+{
+  "peakDbFS": -12.947777,
+  "overallRmsDbFS": -34.836202,
+  "noDigitalClipping": true,
+  "inspection": "FFmpeg astats sur AAC décodé ; aucune écoute humaine analytique revendiquée.",
+  "voice": false,
+  "music": false,
+  "sfxEventsSeconds": [
+    0.12,
+    0.85,
+    3.75,
+    8.75,
+    13.75,
+    18.2,
+    21,
+    24.15
+  ],
+  "syncBasis": "Événements de synthèse déterministes aux instants des révélations ; pas d’alignement vocal."
+}

@@ -1,0 +1,56 @@
+{
+  "status": "provisional-not-publishable",
+  "referenceDate": "2026-11-19",
+  "verifiedAt": "2026-11-19",
+  "note": "Aucune affiche validée. Les lettres désignent uniquement des emplacements. Les scores sont des exemples de mise en page, pas des pronostics sportifs.",
+  "matches": [
+    {
+      "id": "01",
+      "home": "ÉQUIPE A",
+      "away": "ÉQUIPE B",
+      "date": null,
+      "kickoffTimezone": null,
+      "competition": null,
+      "recentForm": null,
+      "prediction": null,
+      "previewScore": [
+        2,
+        1
+      ],
+      "previewScoreRole": "layout-example-not-sport-prediction",
+      "verified": false
+    },
+    {
+      "id": "02",
+      "home": "ÉQUIPE C",
+      "away": "ÉQUIPE D",
+      "date": null,
+      "kickoffTimezone": null,
+      "competition": null,
+      "recentForm": null,
+      "prediction": null,
+      "previewScore": [
+        1,
+        1
+      ],
+      "previewScoreRole": "layout-example-not-sport-prediction",
+      "verified": false
+    },
+    {
+      "id": "03",
+      "home": "ÉQUIPE E",
+      "away": "ÉQUIPE F",
+      "date": null,
+      "kickoffTimezone": null,
+      "competition": null,
+      "recentForm": null,
+      "prediction": null,
+      "previewScore": [
+        1,
+        2
+      ],
+      "previewScoreRole": "layout-example-not-sport-prediction",
+      "verified": false
+    }
+  ]
+}

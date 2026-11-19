@@ -1,0 +1,12 @@
+{
+  "publishable": false,
+  "reason": "Rencontres, horaires et forme récente non vérifiés. Les scores affichés sont des exemples graphiques.",
+  "needed": [
+    "Accès HTTPS à www.premierleague.com et/ou www.uefa.com, ou calendrier officiel fourni avec dates, horaires et sources récentes.",
+    "Remplacement des six emplacements et analyse des trois pronostics ; nouveau rendu et contrôle."
+  ],
+  "optionalMissing": [
+    "Logo officiel sous forme de fichier ou composant React/SVG",
+    "Voix off enregistrée et repères réels pour des sous-titres synchronisés"
+  ]
+}

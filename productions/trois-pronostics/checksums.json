@@ -1,0 +1,18 @@
+{
+  "couverture.png": {
+    "sha256": "183b4cf79783f1e75a69bff47ecc81288e498de8f16626a2616eda5d1bdf4987",
+    "bytes": 383832
+  },
+  "ligue-onze-3-pronostics.mp4": {
+    "sha256": "45dd7da9b7f417ba16fdd6e6b1ceeb9ad14520b66be1914c947eed76f8763894",
+    "bytes": 1509936
+  },
+  "six-moments.png": {
+    "sha256": "06e1fad19e610ca83843c78083cd122dbf1424db22b4aef1a95c5308681083b0",
+    "bytes": 196965
+  },
+  "sources-remotion.zip": {
+    "sha256": "e5ce21701e5ac43374676ba905d479af52ae8b4957e61a87d26d39851eebb1e2",
+    "bytes": 1667745
+  }
+}

@@ -81,3 +81,7 @@ Guide et contrats complets : [méthode](references/workflow.md). Instructions de
 Hyperframes 0.9.65 est disponible en complément de Remotion, avec ses instructions officielles pour Codex. `npm run hyperframes:smoke` exécute le test local de rendu. Voir [installation et commandes](references/hyperframes.md).
 
 Envoyer les exemples de motion design dans le chat ou un document joint : fichier/lien, minutage et ce qui plaît. Les fiches et usages sont conservés dans la [bibliothèque de références](references/motion-library/README.md), pour les prochaines tâches et productions.
+
+## Reel « 3 pronostics, 1 changement »
+
+Composition `ThreePredictions`, 27 s, 1080 × 1920 à30fps. **Maquette non publiable : rencontres non vérifiées, scores d’exemple.** Données, réserves et reprise dans [les notes de production](productions/trois-pronostics/production-notes.md). Rendu dédié avec bruitages originaux : `node productions/trois-pronostics/render.mjs render` ; examen du MP4 : `python productions/trois-pronostics/examine.py`. Les productions précédentes sont conservées.

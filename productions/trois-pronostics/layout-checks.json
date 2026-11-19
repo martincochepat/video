@@ -1,0 +1,3166 @@
+{
+  "samples": 28,
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 359,
+          "width": 147.1875,
+          "height": 396
+        },
+        {
+          "text": "SCORES",
+          "x": 330,
+          "y": 441,
+          "width": 300.140625,
+          "height": 130
+        },
+        {
+          "text": "EXACTS.",
+          "x": 330,
+          "y": 559,
+          "width": 330.703125,
+          "height": 130
+        },
+        {
+          "text": "TU N’EN CHANGES",
+          "x": 120,
+          "y": 841,
+          "width": 525.796875,
+          "height": 98
+        },
+        {
+          "text": "QU’UN.",
+          "x": 120,
+          "y": 934,
+          "width": 263.125,
+          "height": 132
+        },
+        {
+          "text": "01, 02 OU 03 : À TOI DE CHOISIR.",
+          "x": 120,
+          "y": 1199,
+          "width": 641.25,
+          "height": 52
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 323,
+          "width": 147.1875,
+          "height": 396
+        },
+        {
+          "text": "SCORES",
+          "x": 330,
+          "y": 413,
+          "width": 300.140625,
+          "height": 130
+        },
+        {
+          "text": "EXACTS.",
+          "x": 330,
+          "y": 531,
+          "width": 330.703125,
+          "height": 130
+        },
+        {
+          "text": "TU N’EN CHANGES",
+          "x": 120,
+          "y": 841,
+          "width": 525.796875,
+          "height": 98
+        },
+        {
+          "text": "QU’UN.",
+          "x": 120,
+          "y": 934,
+          "width": 263.125,
+          "height": 132
+        },
+        {
+          "text": "01, 02 OU 03 : À TOI DE CHOISIR.",
+          "x": 120,
+          "y": 1199,
+          "width": 641.25,
+          "height": 52
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 323,
+          "width": 147.1875,
+          "height": 396
+        },
+        {
+          "text": "SCORES",
+          "x": 330,
+          "y": 413,
+          "width": 300.140625,
+          "height": 130
+        },
+        {
+          "text": "EXACTS.",
+          "x": 330,
+          "y": 531,
+          "width": 330.703125,
+          "height": 130
+        },
+        {
+          "text": "TU N’EN CHANGES",
+          "x": 120,
+          "y": 813,
+          "width": 525.796875,
+          "height": 98
+        },
+        {
+          "text": "QU’UN.",
+          "x": 120,
+          "y": 906,
+          "width": 263.125,
+          "height": 132
+        },
+        {
+          "text": "01, 02 OU 03 : À TOI DE CHOISIR.",
+          "x": 120,
+          "y": 1171.175048828125,
+          "width": 641.25,
+          "height": 52
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 323,
+          "width": 147.1875,
+          "height": 396
+        },
+        {
+          "text": "SCORES",
+          "x": 330,
+          "y": 413,
+          "width": 300.140625,
+          "height": 130
+        },
+        {
+          "text": "EXACTS.",
+          "x": 330,
+          "y": 531,
+          "width": 330.703125,
+          "height": 130
+        },
+        {
+          "text": "TU N’EN CHANGES",
+          "x": 120,
+          "y": 813,
+          "width": 525.796875,
+          "height": 98
+        },
+        {
+          "text": "QU’UN.",
+          "x": 120,
+          "y": 906,
+          "width": 263.125,
+          "height": 132
+        },
+        {
+          "text": "01, 02 OU 03 : À TOI DE CHOISIR.",
+          "x": 120,
+          "y": 1171,
+          "width": 641.25,
+          "height": 52
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 323,
+          "width": 147.1875,
+          "height": 396
+        },
+        {
+          "text": "SCORES",
+          "x": 330,
+          "y": 413,
+          "width": 300.140625,
+          "height": 130
+        },
+        {
+          "text": "EXACTS.",
+          "x": 330,
+          "y": 531,
+          "width": 330.703125,
+          "height": 130
+        },
+        {
+          "text": "TU N’EN CHANGES",
+          "x": 120,
+          "y": 813,
+          "width": 525.796875,
+          "height": 98
+        },
+        {
+          "text": "QU’UN.",
+          "x": 120,
+          "y": 906,
+          "width": 263.125,
+          "height": 132
+        },
+        {
+          "text": "01, 02 OU 03 : À TOI DE CHOISIR.",
+          "x": 120,
+          "y": 1171,
+          "width": 641.25,
+          "height": 52
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 531,
+          "width": 282.40625,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 531,
+          "width": 279.71875,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 551,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 504.8181457519531,
+          "width": 282.40625,
+          "height": 104.00003051757812
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 504.8181457519531,
+          "width": 279.71875,
+          "height": 104.00003051757812
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 541.52587890625,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 503,
+          "width": 282.40625,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 503,
+          "width": 279.71875,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "2",
+          "x": 180,
+          "y": 655.757080078125,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "–",
+          "x": 383.546875,
+          "y": 798.04833984375,
+          "width": 132.140625,
+          "height": 414
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 503,
+          "width": 282.40625,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 503,
+          "width": 279.71875,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "2",
+          "x": 180,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "–",
+          "x": 383.546875,
+          "y": 615,
+          "width": 132.140625,
+          "height": 414
+        },
+        {
+          "text": "1",
+          "x": 539.828125,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 234,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 503,
+          "width": 282.40625,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 503,
+          "width": 279.71875,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "2",
+          "x": 180,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "–",
+          "x": 383.546875,
+          "y": 615,
+          "width": 132.140625,
+          "height": 414
+        },
+        {
+          "text": "1",
+          "x": 539.828125,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 242,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE A",
+          "x": 120,
+          "y": 503,
+          "width": 282.40625,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE B",
+          "x": 560,
+          "y": 503,
+          "width": 279.71875,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "2",
+          "x": 180,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "–",
+          "x": 383.546875,
+          "y": 615,
+          "width": 132.140625,
+          "height": 414
+        },
+        {
+          "text": "1",
+          "x": 539.828125,
+          "y": 615,
+          "width": 179.40625,
+          "height": 414
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 540,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 659,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 745,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 874,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 249,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 516.4368896484375,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 635.4368896484375,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 721.4368896484375,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 874,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 266,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 512,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 631,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 717,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "1",
+          "x": 565,
+          "y": 593.5806884765625,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "–",
+          "x": 697.75,
+          "y": 686.3793334960938,
+          "width": 86.1875,
+          "height": 270.00006103515625
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 874,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 294,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 512,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 631,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 717,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "1",
+          "x": 565,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "–",
+          "x": 697.75,
+          "y": 567,
+          "width": 86.1875,
+          "height": 270
+        },
+        {
+          "text": "1",
+          "x": 799.6875,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 846,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 384,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 512,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 631,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 717,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "1",
+          "x": 565,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "–",
+          "x": 697.75,
+          "y": 567,
+          "width": 86.1875,
+          "height": 270
+        },
+        {
+          "text": "1",
+          "x": 799.6875,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 846,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 392,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE C",
+          "x": 120,
+          "y": 512,
+          "width": 288.734375,
+          "height": 108
+        },
+        {
+          "text": "CONTRE",
+          "x": 120,
+          "y": 631,
+          "width": 149.65625,
+          "height": 62
+        },
+        {
+          "text": "ÉQUIPE D",
+          "x": 120,
+          "y": 717,
+          "width": 289.625,
+          "height": 108
+        },
+        {
+          "text": "1",
+          "x": 565,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "–",
+          "x": 697.75,
+          "y": 567,
+          "width": 86.1875,
+          "height": 270
+        },
+        {
+          "text": "1",
+          "x": 799.6875,
+          "y": 567,
+          "width": 117,
+          "height": 270
+        },
+        {
+          "text": "EXEMPLE",
+          "x": 570,
+          "y": 846,
+          "width": 178.390625,
+          "height": 49
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 531,
+          "width": 276.578125,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 531,
+          "width": 275.359375,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 551,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 399,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 504.8181457519531,
+          "width": 276.578125,
+          "height": 104.00003051757812
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 504.8181457519531,
+          "width": 275.359375,
+          "height": 104.00003051757812
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 541.52587890625,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 416,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 503,
+          "width": 276.578125,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 503,
+          "width": 275.359375,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "1",
+          "x": 180,
+          "y": 655.9384765625,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "–",
+          "x": 389.453125,
+          "y": 802.3541259765625,
+          "width": 135.96875,
+          "height": 426
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1063,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 444,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 503,
+          "width": 276.578125,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 503,
+          "width": 275.359375,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "1",
+          "x": 180,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "–",
+          "x": 389.453125,
+          "y": 614,
+          "width": 135.96875,
+          "height": 426
+        },
+        {
+          "text": "2",
+          "x": 550.265625,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 534,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 503,
+          "width": 276.578125,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 503,
+          "width": 275.359375,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "1",
+          "x": 180,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "–",
+          "x": 389.453125,
+          "y": 614,
+          "width": 135.96875,
+          "height": 426
+        },
+        {
+          "text": "2",
+          "x": 550.265625,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 542,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "RENCONTRE À CONFIRMER",
+          "x": 120,
+          "y": 370,
+          "width": 565.453125,
+          "height": 54
+        },
+        {
+          "text": "ÉQUIPE E",
+          "x": 120,
+          "y": 503,
+          "width": 276.578125,
+          "height": 104
+        },
+        {
+          "text": "ÉQUIPE F",
+          "x": 560,
+          "y": 503,
+          "width": 275.359375,
+          "height": 104
+        },
+        {
+          "text": "VS",
+          "x": 470,
+          "y": 523,
+          "width": 39.578125,
+          "height": 50
+        },
+        {
+          "text": "1",
+          "x": 180,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "–",
+          "x": 389.453125,
+          "y": 614,
+          "width": 135.96875,
+          "height": 426
+        },
+        {
+          "text": "2",
+          "x": 550.265625,
+          "y": 614,
+          "width": 184.609375,
+          "height": 426
+        },
+        {
+          "text": "EXEMPLE DE SCORE",
+          "x": 120,
+          "y": 1035,
+          "width": 419.96875,
+          "height": 54
+        },
+        {
+          "text": "AFFICHES ET PRONOSTICS NON VALIDÉS",
+          "x": 120,
+          "y": 1276,
+          "width": 770.265625,
+          "height": 49
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 388,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 485,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 105,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 220,
+          "y": 692,
+          "width": 176.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 773.65625,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 105,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 220,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 791.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 105,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 220,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 773.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1259,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 549,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 360.9588623046875,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 457.9588623046875,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 117.17927551269531,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 232.1792755126953,
+          "y": 692,
+          "width": 176.04685974121094,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 785.8355102539062,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 105,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 220,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 791.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 105,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 220,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 773.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1259,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 576,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 360,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 457,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 235,
+          "y": 692,
+          "width": 176.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 788.65625,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 120,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 235,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 806.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 120,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 235,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 788.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1259,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 645,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 360,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 457,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 235,
+          "y": 692,
+          "width": 176.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 788.65625,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 120,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 235,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 806.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 120,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 235,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 788.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1231,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 714,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 360,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 457,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 235,
+          "y": 692,
+          "width": 176.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 788.65625,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 120,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 235,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 806.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 120,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 235,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 788.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1231,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 722,
+      "boxes": [
+        {
+          "text": "01",
+          "x": 120,
+          "y": 284,
+          "width": 42.765625,
+          "height": 51
+        },
+        {
+          "text": "02",
+          "x": 390,
+          "y": 284,
+          "width": 51.40625,
+          "height": 51
+        },
+        {
+          "text": "03",
+          "x": 660,
+          "y": 284,
+          "width": 52.53125,
+          "height": 51
+        },
+        {
+          "text": "TU CHANGES",
+          "x": 120,
+          "y": 360,
+          "width": 406.453125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 457,
+          "width": 369.828125,
+          "height": 132
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 693,
+          "width": 54.015625,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE A\nÉQUIPE B",
+          "x": 235,
+          "y": 692,
+          "width": 176.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "2–1",
+          "x": 788.65625,
+          "y": 674,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "02",
+          "x": 120,
+          "y": 868,
+          "width": 65.3125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE C\nÉQUIPE D",
+          "x": 235,
+          "y": 867,
+          "width": 178.046875,
+          "height": 98.59375
+        },
+        {
+          "text": "1–1",
+          "x": 806.234375,
+          "y": 849,
+          "width": 108.765625,
+          "height": 134
+        },
+        {
+          "text": "03",
+          "x": 120,
+          "y": 1043,
+          "width": 64.953125,
+          "height": 86
+        },
+        {
+          "text": "ÉQUIPE E\nÉQUIPE F",
+          "x": 235,
+          "y": 1042,
+          "width": 172.65625,
+          "height": 98.59375
+        },
+        {
+          "text": "1–2",
+          "x": 788.65625,
+          "y": 1024,
+          "width": 126.34375,
+          "height": 134
+        },
+        {
+          "text": "ET TU METS QUEL SCORE ?",
+          "x": 120,
+          "y": 1231,
+          "width": 481.34375,
+          "height": 61
+        },
+        {
+          "text": "LE FOOT. LES POTES. LES PRONOS.",
+          "x": 120,
+          "y": 355,
+          "width": 784.890625,
+          "height": 59
+        },
+        {
+          "text": "LIGUE",
+          "x": 120,
+          "y": 517,
+          "width": 391.984375,
+          "height": 228
+        },
+        {
+          "text": "ONZE",
+          "x": 120,
+          "y": 692,
+          "width": 353.59375,
+          "height": 228
+        },
+        {
+          "text": "Les pronos se jouent",
+          "x": 120,
+          "y": 1013,
+          "width": 445.453125,
+          "height": 70
+        },
+        {
+          "text": "entre potes.",
+          "x": 120,
+          "y": 1076,
+          "width": 260.3125,
+          "height": 70
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 120,
+          "y": 1233,
+          "width": 226.75,
+          "height": 54
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 732,
+      "boxes": [
+        {
+          "text": "LE FOOT. LES POTES. LES PRONOS.",
+          "x": 120,
+          "y": 355,
+          "width": 784.890625,
+          "height": 59
+        },
+        {
+          "text": "LIGUE",
+          "x": 120,
+          "y": 489.2938537597656,
+          "width": 391.984375,
+          "height": 228.00003051757812
+        },
+        {
+          "text": "ONZE",
+          "x": 120,
+          "y": 664.2938842773438,
+          "width": 353.59375,
+          "height": 228
+        },
+        {
+          "text": "Les pronos se jouent",
+          "x": 120,
+          "y": 1013,
+          "width": 445.453125,
+          "height": 70
+        },
+        {
+          "text": "entre potes.",
+          "x": 120,
+          "y": 1076,
+          "width": 260.3125,
+          "height": 70
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 120,
+          "y": 1233,
+          "width": 226.75,
+          "height": 54
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 765,
+      "boxes": [
+        {
+          "text": "LE FOOT. LES POTES. LES PRONOS.",
+          "x": 120,
+          "y": 355,
+          "width": 784.890625,
+          "height": 59
+        },
+        {
+          "text": "LIGUE",
+          "x": 120,
+          "y": 489,
+          "width": 391.984375,
+          "height": 228
+        },
+        {
+          "text": "ONZE",
+          "x": 120,
+          "y": 664,
+          "width": 353.59375,
+          "height": 228
+        },
+        {
+          "text": "Les pronos se jouent",
+          "x": 120,
+          "y": 985,
+          "width": 445.453125,
+          "height": 70
+        },
+        {
+          "text": "entre potes.",
+          "x": 120,
+          "y": 1048,
+          "width": 260.3125,
+          "height": 70
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 120,
+          "y": 1205,
+          "width": 226.75,
+          "height": 54
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 809,
+      "boxes": [
+        {
+          "text": "LE FOOT. LES POTES. LES PRONOS.",
+          "x": 120,
+          "y": 355,
+          "width": 784.890625,
+          "height": 59
+        },
+        {
+          "text": "LIGUE",
+          "x": 120,
+          "y": 489,
+          "width": 391.984375,
+          "height": 228
+        },
+        {
+          "text": "ONZE",
+          "x": 120,
+          "y": 664,
+          "width": 353.59375,
+          "height": 228
+        },
+        {
+          "text": "Les pronos se jouent",
+          "x": 120,
+          "y": 985,
+          "width": 445.453125,
+          "height": 70
+        },
+        {
+          "text": "entre potes.",
+          "x": 120,
+          "y": 1048,
+          "width": 260.3125,
+          "height": 70
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 120,
+          "y": 1205,
+          "width": 226.75,
+          "height": 54
+        },
+        {
+          "text": "MAQUETTE · DONNÉES PROVISOIRES",
+          "x": 140,
+          "y": 167,
+          "width": 693.84375,
+          "height": 49
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px ThreeTitle",
+          "loaded": true
+        },
+        {
+          "font": "500 44px ThreeBody",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "subtitleReservedArea": [
+    100,
+    1350,
+    835,
+    220
+  ],
+  "limitations": [
+    "Mesure HTML aux instants échantillonnés. Les éléments masqués par un ancêtre peuvent être signalés hors cadre durant les transitions.",
+    "Une zone réservée ne prouve pas la synchronisation de sous-titres futurs."
+  ]
+}

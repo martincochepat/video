@@ -1,0 +1,77 @@
+{
+  "id": "trois-pronostics",
+  "component": "ThreePredictions",
+  "status": "technical-preview",
+  "profile": "ligue-onze",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationSeconds": 27,
+  "safeArea": {
+    "top": 145,
+    "right": 145,
+    "bottom": 350,
+    "left": 100
+  },
+  "subtitleReservedArea": {
+    "x": 100,
+    "y": 1350,
+    "width": 835,
+    "height": 220
+  },
+  "palette": {
+    "background": "#080B0E",
+    "foreground": "#F6F7F8",
+    "accent": "#C8FF00",
+    "muted": "#9AA5AB"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 52,
+    "maxChars": 55
+  },
+  "voice": null,
+  "captions": [],
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 3
+    },
+    {
+      "id": "match-01",
+      "startSeconds": 3,
+      "endSeconds": 8
+    },
+    {
+      "id": "match-02",
+      "startSeconds": 8,
+      "endSeconds": 13
+    },
+    {
+      "id": "match-03",
+      "startSeconds": 13,
+      "endSeconds": 18
+    },
+    {
+      "id": "challenge",
+      "startSeconds": 18,
+      "endSeconds": 24
+    },
+    {
+      "id": "signature",
+      "startSeconds": 24,
+      "endSeconds": 27
+    }
+  ],
+  "audio": {
+    "src": "productions/trois-pronostics/impacts.wav",
+    "type": "original-synthesized-sfx",
+    "music": false,
+    "voice": false
+  },
+  "qaFonts": [
+    "800 60px ThreeTitle",
+    "500 44px ThreeBody"
+  ]
+}
