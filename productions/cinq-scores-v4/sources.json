@@ -1,0 +1,72 @@
+{
+  "checkedOn": "2026-11-19",
+  "status": "blocked-official-verification",
+  "requests": [
+    {
+      "id": "ligue1",
+      "url": "https://ligue1.com/fr/competitions/ligue1mcdonalds?tab=calendar",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "lfp",
+      "url": "https://www.lfp.fr/",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "psg",
+      "url": "https://www.psg.fr/equipes/equipe-premiere/calendrier-et-resultats",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "fff",
+      "url": "https://www.fff.fr/",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "commons",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File:Parc_des_Princes.jpg",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "logo",
+      "url": "https://ligueonze.fr",
+      "http": "000",
+      "error": "curl: (56) CONNECT tunnel failed, response 403\n",
+      "bytes": 0
+    },
+    {
+      "id": "openfootball",
+      "url": "https://raw.githubusercontent.com/openfootball/football.json/master/2026-27/fr.1.json",
+      "http": "200",
+      "error": "",
+      "bytes": 39943
+    }
+  ],
+  "networkPolicyObserved": {
+    "current": true,
+    "state": "enforced",
+    "mode": "restricted",
+    "presets": [
+      "package_managers"
+    ],
+    "customAllowedHosts": []
+  },
+  "accessibleSecondarySource": {
+    "url": "https://raw.githubusercontent.com/openfootball/football.json/master/2026-27/fr.1.json",
+    "sha256": "f875275f835e378fc8c4e7d48c7a2f327e7d426237bd057fe652fd47f30b5a4f",
+    "finding": "Les cinq affiches annoncées apparaissent aux dates annoncées dans le calendrier communautaire.",
+    "official": false,
+    "acceptableAsOfficialVerification": false
+  },
+  "verifiedSportingClaims": []
+}

@@ -1,0 +1,127 @@
+{
+  "status": "user-selection-preserved-pending-official-verification",
+  "referenceDate": "2026-11-19",
+  "scoresAre": "Choix éditoriaux du brief, pas résultats ni prévisions validées par une analyse.",
+  "matches": [
+    {
+      "id": 1,
+      "home": "Nice",
+      "away": "PSG",
+      "requestedPrediction": [
+        1,
+        3
+      ],
+      "announcedDate": "2026-11-21",
+      "officialVerification": false,
+      "verifiedKickoff": null,
+      "verifiedCompetition": null,
+      "sportingJustification": null,
+      "recentFormVerified": false,
+      "communityCalendarEvidence": [
+        {
+          "round": "Matchday 11",
+          "date": "2026-11-21",
+          "time": "17:15",
+          "team1": "OGC Nice",
+          "team2": "Paris Saint-Germain FC"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "home": "Lille",
+      "away": "Lyon",
+      "requestedPrediction": [
+        2,
+        1
+      ],
+      "announcedDate": "2026-11-21",
+      "officialVerification": false,
+      "verifiedKickoff": null,
+      "verifiedCompetition": null,
+      "sportingJustification": null,
+      "recentFormVerified": false,
+      "communityCalendarEvidence": [
+        {
+          "round": "Matchday 11",
+          "date": "2026-11-21",
+          "time": "20:45",
+          "team1": "Lille OSC",
+          "team2": "Olympique Lyonnais"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "home": "Lens",
+      "away": "Toulouse",
+      "requestedPrediction": [
+        2,
+        0
+      ],
+      "announcedDate": "2026-11-21",
+      "officialVerification": false,
+      "verifiedKickoff": null,
+      "verifiedCompetition": null,
+      "sportingJustification": null,
+      "recentFormVerified": false,
+      "communityCalendarEvidence": [
+        {
+          "round": "Matchday 11",
+          "date": "2026-11-21",
+          "time": "20:45",
+          "team1": "Racing Club de Lens",
+          "team2": "Toulouse FC"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "home": "Monaco",
+      "away": "Auxerre",
+      "requestedPrediction": [
+        3,
+        1
+      ],
+      "announcedDate": "2026-11-21",
+      "officialVerification": false,
+      "verifiedKickoff": null,
+      "verifiedCompetition": null,
+      "sportingJustification": null,
+      "recentFormVerified": false,
+      "communityCalendarEvidence": [
+        {
+          "round": "Matchday 11",
+          "date": "2026-11-21",
+          "time": "20:45",
+          "team1": "AS Monaco FC",
+          "team2": "AJ Auxerre"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "home": "Marseille",
+      "away": "Le Mans",
+      "requestedPrediction": [
+        3,
+        0
+      ],
+      "announcedDate": "2026-11-22",
+      "officialVerification": false,
+      "verifiedKickoff": null,
+      "verifiedCompetition": null,
+      "sportingJustification": null,
+      "recentFormVerified": false,
+      "communityCalendarEvidence": [
+        {
+          "round": "Matchday 11",
+          "date": "2026-11-22",
+          "time": "20:45",
+          "team1": "Olympique de Marseille",
+          "team2": "Le Mans FC"
+        }
+      ]
+    }
+  ]
+}

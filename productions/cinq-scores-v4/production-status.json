@@ -1,0 +1,47 @@
+{
+  "status": "blocked-before-definitive-production",
+  "rendered": false,
+  "publishable": false,
+  "placeholderRenderCreated": false,
+  "selectionChanged": false,
+  "requestedFormat": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "targetDurationSeconds": [
+      45,
+      55
+    ],
+    "videoCodec": "h264",
+    "audioCodec": "aac"
+  },
+  "blockers": [
+    {
+      "id": "official-fixtures-and-analysis",
+      "description": "Sources officielles refusées par le proxy ; ni calendrier officiel ni forme récente, classement ou absences confirmés."
+    },
+    {
+      "id": "licensed-photos",
+      "description": "Aucune photographie sportive livrable dans les assets locaux ; accès Commons et vérification des licences bloqués."
+    },
+    {
+      "id": "official-logo",
+      "description": "Composant components/icons/BrandMarkIcon.tsx absent ; aucun logo officiel trouvé dans src/, public/ ou les pièces jointes accessibles comme fichiers. Site ligueonze.fr bloqué."
+    }
+  ],
+  "audio": {
+    "definitiveVoiceProvided": false,
+    "localWorkingVoiceEngineFound": false,
+    "elevenLabsSecretConfiguredInEnvironmentStatus": false,
+    "paidCallsPerformed": false
+  },
+  "resumeOrder": [
+    "Recontrôler réseau avec check-access.py après modification par le propriétaire.",
+    "Vérifier les cinq affiches et les données sportives récentes sur sources officielles ; conserver dates et preuves.",
+    "Si une affiche est différente, proposer un vrai match du week-end et obtenir confirmation avant remplacement.",
+    "Écrire cinq arguments sourcés de10–15 mots et préparer la narration ; ne pas modifier les scores sans confirmation.",
+    "Acquérir photos autorisées, crédits/licences et fichier de logo officiel.",
+    "Créer voix de travail et sous-titres avec repères de la piste réelle, puis cinq mini-séquences photographiques distinctes.",
+    "Rendre, examiner mouvement/image/audio et fournir le vrai MP4 téléchargeable."
+  ]
+}
