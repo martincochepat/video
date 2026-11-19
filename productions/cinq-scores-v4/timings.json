@@ -1,0 +1,198 @@
+{
+  "basis": "measured-synthesized-utterance-boundaries",
+  "voiceStatus": "local-working-voice-not-ElevenLabs",
+  "fps": 30,
+  "durationSeconds": 49.166666666666664,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0.0,
+      "endSeconds": 2.7
+    },
+    {
+      "id": "nice",
+      "startSeconds": 2.7,
+      "endSeconds": 10.5
+    },
+    {
+      "id": "lille",
+      "startSeconds": 10.5,
+      "endSeconds": 18.3
+    },
+    {
+      "id": "lens",
+      "startSeconds": 18.3,
+      "endSeconds": 26.333333333333332
+    },
+    {
+      "id": "monaco",
+      "startSeconds": 26.333333333333332,
+      "endSeconds": 34.13333333333333
+    },
+    {
+      "id": "marseille",
+      "startSeconds": 34.13333333333333,
+      "endSeconds": 42.166666666666664
+    },
+    {
+      "id": "outro",
+      "startSeconds": 42.166666666666664,
+      "endSeconds": 49.166666666666664
+    }
+  ],
+  "segments": [
+    {
+      "text": "Ces cinq scores exacts, je les assume.",
+      "startSeconds": 0.02,
+      "endSeconds": 2.5161451247165534,
+      "sceneId": "hook",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/hook-0.wav"
+    },
+    {
+      "text": "Nice, Paris : un à trois.",
+      "startSeconds": 2.82,
+      "endSeconds": 4.700816326530612,
+      "sceneId": "nice",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/nice-0.wav"
+    },
+    {
+      "text": "Paris a gagné ses cinq derniers matchs de Ligue un.",
+      "startSeconds": 4.780816326530612,
+      "endSeconds": 7.532380952380953,
+      "sceneId": "nice",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/nice-1.wav"
+    },
+    {
+      "text": "Je le vois encore passer.",
+      "startSeconds": 7.612380952380953,
+      "endSeconds": 9.040408163265306,
+      "sceneId": "nice",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/nice-2.wav"
+    },
+    {
+      "text": "Lille, Lyon : deux à un.",
+      "startSeconds": 10.62,
+      "endSeconds": 13.034875283446713,
+      "sceneId": "lille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lille-0.wav"
+    },
+    {
+      "text": "Lyon reste sur trois défaites à l’extérieur.",
+      "startSeconds": 13.114875283446713,
+      "endSeconds": 15.634240362811791,
+      "sceneId": "lille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lille-1.wav"
+    },
+    {
+      "text": "Et Lille est invaincu chez lui.",
+      "startSeconds": 15.714240362811791,
+      "endSeconds": 17.397687074829932,
+      "sceneId": "lille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lille-2.wav"
+    },
+    {
+      "text": "Lens, Toulouse : deux à zéro.",
+      "startSeconds": 18.42,
+      "endSeconds": 20.927755102040816,
+      "sceneId": "lens",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lens-0.wav"
+    },
+    {
+      "text": "Lens a gagné trois de ses cinq derniers matchs.",
+      "startSeconds": 21.007755102040818,
+      "endSeconds": 23.561950113378686,
+      "sceneId": "lens",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lens-1.wav"
+    },
+    {
+      "text": "Le zéro derrière, c’est mon pari risqué.",
+      "startSeconds": 23.641950113378684,
+      "endSeconds": 26.230975056689342,
+      "sceneId": "lens",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/lens-2.wav"
+    },
+    {
+      "text": "Monaco, Auxerre : trois à un.",
+      "startSeconds": 26.453333333333333,
+      "endSeconds": 28.937868480725623,
+      "sceneId": "monaco",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/monaco-0.wav"
+    },
+    {
+      "text": "Auxerre a encaissé dix-huit buts en cinq déplacements.",
+      "startSeconds": 29.017868480725625,
+      "endSeconds": 31.64172335600907,
+      "sceneId": "monaco",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/monaco-1.wav"
+    },
+    {
+      "text": "Je mise sur cette faille.",
+      "startSeconds": 31.721723356009072,
+      "endSeconds": 33.17297052154195,
+      "sceneId": "monaco",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/monaco-2.wav"
+    },
+    {
+      "text": "Marseille, Le Mans : trois à zéro.",
+      "startSeconds": 34.25333333333333,
+      "endSeconds": 36.912018140589566,
+      "sceneId": "marseille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/marseille-0.wav"
+    },
+    {
+      "text": "Marseille reste sur cinq victoires en championnat.",
+      "startSeconds": 36.99201814058957,
+      "endSeconds": 39.76680272108843,
+      "sceneId": "marseille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/marseille-1.wav"
+    },
+    {
+      "text": "Le Mans n’a plus gagné depuis cinq journées.",
+      "startSeconds": 39.84680272108844,
+      "endSeconds": 42.064308390022674,
+      "sceneId": "marseille",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/marseille-2.wav"
+    },
+    {
+      "text": "Voilà mes cinq pronos.",
+      "startSeconds": 42.28666666666667,
+      "endSeconds": 43.71469387755102,
+      "sceneId": "outro",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/outro-0.wav"
+    },
+    {
+      "text": "Lequel te paraît complètement à côté ?",
+      "startSeconds": 43.79469387755102,
+      "endSeconds": 45.94253968253968,
+      "sceneId": "outro",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/outro-1.wav"
+    },
+    {
+      "text": "Donne-moi ton score en commentaire.",
+      "startSeconds": 46.02253968253968,
+      "endSeconds": 47.82208616780046,
+      "sceneId": "outro",
+      "timingBasis": "measured-synthesized-utterance-boundaries",
+      "src": "productions/cinq-scores-v4/audio/outro-2.wav"
+    }
+  ],
+  "limitations": "Les frontières sont celles des WAV réellement générés ; aucun alignement mot à mot ni synchronisation ElevenLabs définitive revendiqués."
+}

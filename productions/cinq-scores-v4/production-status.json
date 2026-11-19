@@ -1,7 +1,6 @@
 {
-  "status": "blocked-before-definitive-production",
-  "rendered": false,
-  "publishable": false,
+  "status": "complete-with-working-voice",
+  "rendered": true,
   "placeholderRenderCreated": false,
   "selectionChanged": false,
   "requestedFormat": {
@@ -15,33 +14,36 @@
     "videoCodec": "h264",
     "audioCodec": "aac"
   },
-  "blockers": [
-    {
-      "id": "official-fixtures-and-analysis",
-      "description": "Sources officielles refusées par le proxy ; ni calendrier officiel ni forme récente, classement ou absences confirmés."
-    },
-    {
-      "id": "licensed-photos",
-      "description": "Aucune photographie sportive livrable dans les assets locaux ; accès Commons et vérification des licences bloqués."
-    },
-    {
-      "id": "official-logo",
-      "description": "Composant components/icons/BrandMarkIcon.tsx absent ; aucun logo officiel trouvé dans src/, public/ ou les pièces jointes accessibles comme fichiers. Site ligueonze.fr bloqué."
-    }
-  ],
+  "blockers": [],
   "audio": {
     "definitiveVoiceProvided": false,
-    "localWorkingVoiceEngineFound": false,
+    "localWorkingVoiceEngineFound": true,
     "elevenLabsSecretConfiguredInEnvironmentStatus": false,
-    "paidCallsPerformed": false
+    "paidCallsPerformed": false,
+    "localWorkingVoiceEngine": "Piper1.8.0, SIWIS medium",
+    "workVoiceDuration": 49.1666666667
   },
   "resumeOrder": [
-    "Recontrôler réseau avec check-access.py après modification par le propriétaire.",
-    "Vérifier les cinq affiches et les données sportives récentes sur sources officielles ; conserver dates et preuves.",
-    "Si une affiche est différente, proposer un vrai match du week-end et obtenir confirmation avant remplacement.",
-    "Écrire cinq arguments sourcés de10–15 mots et préparer la narration ; ne pas modifier les scores sans confirmation.",
-    "Acquérir photos autorisées, crédits/licences et fichier de logo officiel.",
-    "Créer voix de travail et sous-titres avec repères de la piste réelle, puis cinq mini-séquences photographiques distinctes.",
-    "Rendre, examiner mouvement/image/audio et fournir le vrai MP4 téléchargeable."
+    "Réutiliser les données, médias et mix existants pour rendre FiveScores.",
+    "Lire production-notes.md pour les commandes et les limites réellement contrôlées.",
+    "Ne régénérer la voix que si le texte change ; reprendre les vrais repères de la nouvelle piste.",
+    "Réexaminer l’actualité des rencontres en cas de nouvelle date de diffusion."
+  ],
+  "networkBlockResolved": true,
+  "officialFixturesVerified": true,
+  "licensedPhotosAcquired": true,
+  "officialLogoAcquired": true,
+  "workingVoiceGenerated": true,
+  "readyToView": true,
+  "publicationPerformed": false,
+  "completedOn": "2026-11-19",
+  "remainingLimitations": [
+    "Voix de travail locale SIWIS/Piper ; pas de voix ElevenLabs définitive ni prétention de voix masculine finale.",
+    "Sous-titres sur limites de phrases WAV réellement mesurées ; pas d’alignement mot à mot.",
+    "Pas d’écoute analytique ni de visionnage continu temps réel certifiés ; mesures du signal et examen visuel échantillonné.",
+    "Photos d’archives : pas d’images des rencontres à venir ni promesse de titularisation des joueurs montrés.",
+    "Données de forme de championnat uniquement, pas toutes compétitions ; aucune absence médicale inventée.",
+    "Pas de test natif TikTok/Instagram/Facebook ni publication.",
+    "Pas de musique ni ambiance documentaire de stade ; voix et bruitages originaux, mix prêt pour un éventuel son natif."
   ]
 }

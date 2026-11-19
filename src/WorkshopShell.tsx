@@ -22,6 +22,8 @@ const Probe = ({production}: {production:Production}) => {
     document.fonts.ready.then(async () => {
       // Laisser le navigateur finaliser le layout après le chargement local.
       await new Promise<void>((resolve)=>requestAnimationFrame(()=>resolve()));
+      // Les Img Remotion peuvent encore charger après fonts.ready.
+      await Promise.all([...document.querySelectorAll<HTMLImageElement>('img[data-qa-media]')].map(img=>img.decode().catch(()=>undefined)));
       if (!active) return;
       const errors:string[]=[];
       const safe=production.safeArea;

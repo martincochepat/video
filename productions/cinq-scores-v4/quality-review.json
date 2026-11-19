@@ -1,0 +1,71 @@
+{
+  "status": "reviewed-complete-with-working-voice",
+  "mp4Sha256": "953db132c195ac975f2724649a51a001d86cbc683e758f23c63153b107d37598",
+  "reviewedAt": "2026-11-19T18:43:25.664730+00:00",
+  "evaluations": {
+    "comprehension": {
+      "finding": "Cinq affiches et scores lisibles, question numérotée finale, sous-titres présents. La compréhension sans son est étayée par les captures des six étapes et du récapitulatif.",
+      "evidence": "delivery/planche-v4.png ; les cinq données sont officielles, les scores sont des opinions."
+    },
+    "composition": {
+      "finding": "Portraits et stades occupent les plans ; scores dominants et zone de sous-titres séparée. Bords des portraits adoucis après le premier export.",
+      "evidence": "57 sondes sans erreur ; planche courante et revue du portrait lillois à15,1s."
+    },
+    "variety": {
+      "finding": "Duel Nice/Paris, composition lilloise décentrée, Lens avec score à droite, Monaco séparé, Marseille plus ample. Photographies d’archives réelles, pas cinq cartons de données sur fond vide.",
+      "evidence": "7,30 /15,10 /22,90 /30,93 /38,73s."
+    },
+    "movement": {
+      "finding": "Transitions par trois masques et maintien du plan sortant ; recadrages successifs de portraits pendant l’argument. Aucun saut de position majeur constaté dans les chronologies examinées.",
+      "evidence": "Six raccords échantillonnés à15fps, plus recadrages1/2/4 ; pas certification de fluidité en lecture réelle."
+    },
+    "rhythm": {
+      "finding": "Hook de2,7s avec trois photographies ; scènes mesurées de7,8 à8,03s, conclusion de7s. Le score arrive pendant la première phrase, les statistiques après l’installation.",
+      "evidence": "timings.json, durées en échantillons WAV ; durées des plans calées à30fps."
+    },
+    "coherence": {
+      "finding": "Noir/citron et fontes constantes, même langage éditorial. Les dates et réserves sur les archives restent en haut ; aucun habillage dans la zone des sous-titres. Logo officiel en conclusion.",
+      "evidence": "Media.json, crédits, 57 captures et planche MP4."
+    }
+  },
+  "corrections": [
+    {
+      "issue": "Contours rectangulaires trop visibles sur certains portraits.",
+      "resolution": "Masques latéraux/supérieurs progressifs combinés au masque inférieur ; rendu complet refait et planche du nouveau MP4 examinée."
+    },
+    {
+      "issue": "Deux faux signalements d’images manquantes avant la fin du chargement.",
+      "resolution": "Sonde QA attend img.decode ; les véritables images manquantes resteraient signalées. Contrôle relancé : zéro erreur."
+    }
+  ],
+  "checksActuallyPerformed": {
+    "typescript": true,
+    "existingAtelierTests": {
+      "passed": 9,
+      "failed": 0
+    },
+    "officialFixtures": 5,
+    "originalPredictionsPreserved": true,
+    "photosChecked": 10,
+    "photoLicenses": "CC0 metadata and file SHA verified",
+    "logoSource": "https://ligueonze.fr/icon-512.png",
+    "fullDecode": true,
+    "frames": 1475,
+    "fps": 30,
+    "layoutSamples": 57,
+    "layoutErrors": 0,
+    "sampledCaptionHeightAtMost150px": true,
+    "fullFileBlackDetectIntervals": [],
+    "audioPeakDbFS": -4.978548,
+    "movementStripsExamined": 9
+  },
+  "limits": [
+    "Voix de travail locale SIWIS/Piper ; pas de voix ElevenLabs définitive ni prétention de voix masculine finale.",
+    "Sous-titres sur limites de phrases WAV réellement mesurées ; pas d’alignement mot à mot.",
+    "Pas d’écoute analytique ni de visionnage continu temps réel certifiés ; mesures du signal et examen visuel échantillonné.",
+    "Photos d’archives : pas d’images des rencontres à venir ni promesse de titularisation des joueurs montrés.",
+    "Données de forme de championnat uniquement, pas toutes compétitions ; aucune absence médicale inventée.",
+    "Pas de test natif TikTok/Instagram/Facebook ni publication.",
+    "Pas de musique ni ambiance documentaire de stade ; voix et bruitages originaux, mix prêt pour un éventuel son natif."
+  ]
+}

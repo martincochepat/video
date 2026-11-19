@@ -85,3 +85,8 @@ Envoyer les exemples de motion design dans le chat ou un document joint : fichie
 ## Reel « 3 pronostics, 1 changement »
 
 Composition `ThreePredictions`, 27 s, 1080 × 1920 à30fps. **Maquette non publiable : rencontres non vérifiées, scores d’exemple.** Données, réserves et reprise dans [les notes de production](productions/trois-pronostics/production-notes.md). Rendu dédié avec bruitages originaux : `node productions/trois-pronostics/render.mjs render` ; examen du MP4 : `python productions/trois-pronostics/examine.py`. Les productions précédentes sont conservées.
+
+
+## V4 — « Ces 5 scores exacts, je les assume »
+
+Composition `FiveScores`, 1080×1920 à30fps, durée mesurée49,17s. Cinq affiches et données de championnat vérifiées sur l’API officielle de Ligue1, dix photographies CC0, logo officiel et voix de travail locale. Voir [les notes et commandes de reprise](productions/cinq-scores-v4/production-notes.md). Rendu : `node productions/cinq-scores-v4/render.mjs render`. Cette production ne remplace pas les précédentes.

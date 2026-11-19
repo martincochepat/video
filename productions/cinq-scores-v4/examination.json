@@ -1,0 +1,32 @@
+{
+  "audio": {
+    "peakDbFS": -4.978548,
+    "rmsDbFS": -20.948148,
+    "noClipping": true,
+    "voice": "local-working-voice",
+    "timing": "WAV utterance boundaries measured from actual PCM samples; no word-level alignment claim",
+    "listeningAnalyticalReview": false
+  },
+  "blackDetect": {
+    "intervals": [],
+    "minimumSeconds": 0.02,
+    "pixelThreshold": 0.08,
+    "pictureRatio": 0.985
+  },
+  "keyframesSeconds": [
+    1.6,
+    7.3,
+    15.1,
+    22.9,
+    30.93333333333333,
+    38.733333333333334,
+    44.166666666666664,
+    49.016666666666666
+  ],
+  "movementWindows": {
+    "transitions": 6,
+    "samplesPerSecond": 15,
+    "midSceneReframings": 3,
+    "realTimePlaybackCertified": false
+  }
+}

@@ -1,6 +1,6 @@
 {
   "purpose": "Proposition minimale pour vérifier le calendrier officiel, démarrer la recherche sportive, consulter les licences/photos Commons et le logo.",
-  "action": "Ajouter ces domaines dans les paramètres réseau de l’environnement ; conserver les accès existants. Aucun réglage n’a été appliqué par cette tâche.",
+  "action": "Historique du diagnostic précédent. Aucun ajout de domaine nécessaire après activation par l’utilisateur de l’accès à Internet public.",
   "hostsToAdd": [
     "ligue1.com",
     "www.ligue1.com",
@@ -16,5 +16,8 @@
   "notExhaustive": "Les redirections et API effectivement nécessaires seront contrôlées après ouverture ; les sources officielles des autres clubs pourront nécessiter des domaines supplémentaires.",
   "keepExistingPresets": [
     "package_managers"
-  ]
+  ],
+  "status": "resolved",
+  "resolvedOn": "2026-11-19",
+  "observedPolicy": "unrestricted / enforced"
 }

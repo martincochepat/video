@@ -1,0 +1,26 @@
+{
+  "status": "official-fixtures-and-league-form-verified",
+  "verifiedAt": "2026-11-19",
+  "fixtureSource": "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/11?season=2026",
+  "apiProvenance": "ma-api.ligue1.fr identifié dans le JavaScript public du site officiel ligue1.com ; données de la saison2026 explicitement demandées.",
+  "formSources": [
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/1?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/2?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/3?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/4?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/5?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/6?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/7?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/8?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/9?season=2026",
+    "https://ma-api.ligue1.fr/championship-matches/championship/1/game-week/10?season=2026"
+  ],
+  "snapshots": "research/ligue1-j01.json à j11.json",
+  "corroboratingClubSource": "https://www.psg.fr/equipes/equipe-premiere/calendrier-et-resultats",
+  "limitations": [
+    "Données championnat ; pas de déclaration sur toutes compétitions.",
+    "Pas de chiffre sur les absences ou statistiques tactiques non vérifiées.",
+    "Les scores restent des opinions du brief, pas une prévision certaine."
+  ],
+  "networkBlockResolved": true
+}

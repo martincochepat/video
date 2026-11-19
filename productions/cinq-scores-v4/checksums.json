@@ -1,0 +1,42 @@
+{
+  "captions.srt": {
+    "bytes": 1371,
+    "sha256": "580fbfe12fb6083d901bd594a5bb4be0aa3e603ef1a4be57140ac1281bdb1007"
+  },
+  "couverture-v4.png": {
+    "bytes": 1893171,
+    "sha256": "22728cd2705884744e2c118f124163d50cd24b859877126b6bbb131e550890fe"
+  },
+  "credits.md": {
+    "bytes": 2675,
+    "sha256": "1d8c0253b23682cd8a880466d12409cf00b654ba60c32035027c1c51eb81a4ce"
+  },
+  "ligue-onze-5-scores-v4.mp4": {
+    "bytes": 12711840,
+    "sha256": "953db132c195ac975f2724649a51a001d86cbc683e758f23c63153b107d37598"
+  },
+  "matches.json": {
+    "bytes": 4900,
+    "sha256": "4292433b4c144fc6a9570640501a37ebbdbe37cc15300f66f7afc36e48e7e86f"
+  },
+  "planche-v4.png": {
+    "bytes": 1048452,
+    "sha256": "306b0ac934caa97219c82137957d9c9bcb6c5125e6010acd14bf10edc92a3920"
+  },
+  "publication.txt": {
+    "bytes": 346,
+    "sha256": "6458a1c44097a9412ff2d45a509518fce8fcc5446d89b936a0d2d3c07c908afe"
+  },
+  "sources-v4.zip": {
+    "bytes": 34799974,
+    "sha256": "e4d4277f170f166ece3dc65bde943b7c3a43b494f2a2194536b1088f47c1890c"
+  },
+  "sources.json": {
+    "bytes": 1746,
+    "sha256": "61d8f55d903ec4035572926c6a83eaba3196265cffc9ed6ab56d7dce4577a5a2"
+  },
+  "voiceover.txt": {
+    "bytes": 741,
+    "sha256": "dcc41a9dacb05a54347f4ff922f4e1257a5dce56bab6b09f1d766334c1856576"
+  }
+}

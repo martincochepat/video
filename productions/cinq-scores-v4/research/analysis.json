@@ -1,0 +1,1222 @@
+[
+  {
+    "matchId": 1,
+    "teams": [
+      {
+        "name": "Ogc Nice",
+        "rankBeforeJ11": 6,
+        "played": 10,
+        "goalsFor": 15,
+        "goalsAgainst": 12,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-11T13:00:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-18T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-23T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T18:00:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Angers Sco",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-22T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Fc Lorient",
+            "goalsFor": 0,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-05T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-09-20T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "LOSC Lille",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-11T13:00:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T18:00:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-30T13:00:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-09-12T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Aj Auxerre",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-18T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-23T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Angers Sco",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          }
+        ]
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "rankBeforeJ11": 1,
+        "played": 10,
+        "goalsFor": 22,
+        "goalsAgainst": 10,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-17T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-26T19:30:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-30T18:00:00.000Z",
+            "venue": "away",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 5,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-07T20:05:00.000Z",
+            "venue": "home",
+            "opponent": "Estac Troyes",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-09-04T19:05:00.000Z",
+            "venue": "home",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-26T19:30:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-07T20:05:00.000Z",
+            "venue": "home",
+            "opponent": "Estac Troyes",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-23T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-08-28T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "LOSC Lille",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-13T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-20T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-17T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T18:00:00.000Z",
+            "venue": "away",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 5,
+            "goalsAgainst": 1
+          }
+        ]
+      }
+    ],
+    "scope": "Championnat uniquement, journées1–10 ; pas un relevé de toutes compétitions.",
+    "absences": "Aucune absence annoncée dans le film : pas de source médicale récente confirmée.",
+    "predictionAssessment": "Score choisi dans le brief, compatible avec les tendances mais non garanti."
+  },
+  {
+    "matchId": 2,
+    "teams": [
+      {
+        "name": "LOSC Lille",
+        "rankBeforeJ11": 2,
+        "played": 10,
+        "goalsFor": 14,
+        "goalsAgainst": 7,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-10T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-17T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-25T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T20:05:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Lens",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-08T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-28T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-13T13:00:00.000Z",
+            "venue": "home",
+            "opponent": "Estac Troyes",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-10T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-17T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T20:05:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Lens",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-23T13:00:00.000Z",
+            "venue": "away",
+            "opponent": "Angers Sco",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-03T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-20T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Ogc Nice",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-25T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-08T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          }
+        ]
+      },
+      {
+        "name": "Olympique Lyonnais",
+        "rankBeforeJ11": 5,
+        "played": 10,
+        "goalsFor": 15,
+        "goalsAgainst": 9,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-09T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Lens",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-18T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Ogc Nice",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-26T19:30:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-01T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Angers Sco",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-29T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-09-04T17:00:00.000Z",
+            "venue": "home",
+            "opponent": "Aj Auxerre",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-09-19T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 4,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-18T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Ogc Nice",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-01T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Angers Sco",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-22T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-12T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-09T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Lens",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-26T19:30:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          }
+        ]
+      }
+    ],
+    "scope": "Championnat uniquement, journées1–10 ; pas un relevé de toutes compétitions.",
+    "absences": "Aucune absence annoncée dans le film : pas de source médicale récente confirmée.",
+    "predictionAssessment": "Score choisi dans le brief, compatible avec les tendances mais non garanti."
+  },
+  {
+    "matchId": 3,
+    "teams": [
+      {
+        "name": "Rc Lens",
+        "rankBeforeJ11": 11,
+        "played": 10,
+        "goalsFor": 17,
+        "goalsAgainst": 15,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-09T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-17T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-24T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T20:05:00.000Z",
+            "venue": "away",
+            "opponent": "LOSC Lille",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-08T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-22T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "Aj Auxerre",
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-05T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "Fc Lorient",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-09T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-24T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-08T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-29T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-13T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-18T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-17T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-30T20:05:00.000Z",
+            "venue": "away",
+            "opponent": "LOSC Lille",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          }
+        ]
+      },
+      {
+        "name": "Toulouse Fc",
+        "rankBeforeJ11": 12,
+        "played": 10,
+        "goalsFor": 15,
+        "goalsAgainst": 14,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-16T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 3,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Estac Troyes",
+            "goalsFor": 0,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-01T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-06T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-22T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-03T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "LOSC Lille",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-09-19T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 3,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Estac Troyes",
+            "goalsFor": 0,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-06T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-29T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-12T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Fc Lorient",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-16T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 3,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-01T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          }
+        ]
+      }
+    ],
+    "scope": "Championnat uniquement, journées1–10 ; pas un relevé de toutes compétitions.",
+    "absences": "Aucune absence annoncée dans le film : pas de source médicale récente confirmée.",
+    "predictionAssessment": "Opinion éditoriale non garantie. Lens2–0 suppose un premier clean sheet cette saison ; Monaco3–1 mise sur la faiblesse adverse malgré une série de cinq journées sans victoire."
+  },
+  {
+    "matchId": 4,
+    "teams": [
+      {
+        "name": "As Monaco",
+        "rankBeforeJ11": 7,
+        "played": 10,
+        "goalsFor": 13,
+        "goalsAgainst": 11,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-18T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Fc Lorient",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-25T14:00:00.000Z",
+            "venue": "home",
+            "opponent": "LOSC Lille",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-01T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-30T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Olympique De Marseille",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-18T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Lens",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-25T14:00:00.000Z",
+            "venue": "home",
+            "opponent": "LOSC Lille",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-23T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-04T19:05:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-09-12T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-18T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Fc Lorient",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-01T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          }
+        ]
+      },
+      {
+        "name": "Aj Auxerre",
+        "rankBeforeJ11": 14,
+        "played": 10,
+        "goalsFor": 13,
+        "goalsAgainst": 24,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-11T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 4
+          },
+          {
+            "date": "2026-10-18T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-01T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 1,
+            "goalsAgainst": 5
+          },
+          {
+            "date": "2026-11-07T18:00:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-29T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Angers Sco",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-09-12T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Ogc Nice",
+            "goalsFor": 1,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-20T13:00:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Le Mans Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-07T18:00:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-22T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Lens",
+            "goalsFor": 2,
+            "goalsAgainst": 5
+          },
+          {
+            "date": "2026-09-04T17:00:00.000Z",
+            "venue": "away",
+            "opponent": "Olympique Lyonnais",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-10-11T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 1,
+            "goalsAgainst": 4
+          },
+          {
+            "date": "2026-10-18T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 3,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-11-01T14:00:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 1,
+            "goalsAgainst": 5
+          }
+        ]
+      }
+    ],
+    "scope": "Championnat uniquement, journées1–10 ; pas un relevé de toutes compétitions.",
+    "absences": "Aucune absence annoncée dans le film : pas de source médicale récente confirmée.",
+    "predictionAssessment": "Opinion éditoriale non garantie. Lens2–0 suppose un premier clean sheet cette saison ; Monaco3–1 mise sur la faiblesse adverse malgré une série de cinq journées sans victoire."
+  },
+  {
+    "matchId": 5,
+    "teams": [
+      {
+        "name": "Olympique De Marseille",
+        "rankBeforeJ11": 4,
+        "played": 10,
+        "goalsFor": 22,
+        "goalsAgainst": 14,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-11T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-18T13:00:00.000Z",
+            "venue": "away",
+            "opponent": "Angers Sco",
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 4,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-11-01T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-11-08T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Lens",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-21T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Strasbourg Alsace",
+            "goalsFor": 4,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-09-06T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-09-20T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 1,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "Havre Athletic Club",
+            "goalsFor": 4,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-11-01T19:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-30T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "As Monaco",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-11T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-11T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 2,
+            "goalsAgainst": 0
+          },
+          {
+            "date": "2026-10-18T13:00:00.000Z",
+            "venue": "away",
+            "opponent": "Angers Sco",
+            "goalsFor": 5,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-08T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Rc Lens",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          }
+        ]
+      },
+      {
+        "name": "Le Mans Fc",
+        "rankBeforeJ11": 15,
+        "played": 10,
+        "goalsFor": 12,
+        "goalsAgainst": 19,
+        "lastFiveLeagueMatches": [
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-10-16T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Aj Auxerre",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-31T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          }
+        ],
+        "homeMatches": [
+          {
+            "date": "2026-08-22T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Stade Brestois 29",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-13T15:15:00.000Z",
+            "venue": "home",
+            "opponent": "Rc Lens",
+            "goalsFor": 2,
+            "goalsAgainst": 2
+          },
+          {
+            "date": "2026-09-19T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Fc Lorient",
+            "goalsFor": 2,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-16T18:45:00.000Z",
+            "venue": "home",
+            "opponent": "Toulouse Fc",
+            "goalsFor": 0,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-11-08T16:15:00.000Z",
+            "venue": "home",
+            "opponent": "As Monaco",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          }
+        ],
+        "awayMatches": [
+          {
+            "date": "2026-08-30T15:15:00.000Z",
+            "venue": "away",
+            "opponent": "Stade Rennais Fc",
+            "goalsFor": 2,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-09-05T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Ogc Nice",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-10T18:45:00.000Z",
+            "venue": "away",
+            "opponent": "Paris Saint-Germain",
+            "goalsFor": 1,
+            "goalsAgainst": 3
+          },
+          {
+            "date": "2026-10-25T16:15:00.000Z",
+            "venue": "away",
+            "opponent": "Aj Auxerre",
+            "goalsFor": 1,
+            "goalsAgainst": 1
+          },
+          {
+            "date": "2026-10-31T19:45:00.000Z",
+            "venue": "away",
+            "opponent": "Estac Troyes",
+            "goalsFor": 0,
+            "goalsAgainst": 2
+          }
+        ]
+      }
+    ],
+    "scope": "Championnat uniquement, journées1–10 ; pas un relevé de toutes compétitions.",
+    "absences": "Aucune absence annoncée dans le film : pas de source médicale récente confirmée.",
+    "predictionAssessment": "Score choisi dans le brief, compatible avec les tendances mais non garanti."
+  }
+]
