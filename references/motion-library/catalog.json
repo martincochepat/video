@@ -83,7 +83,55 @@
         "audioSyncChecked": false
       },
       "adaptation": "Retenir coordination texte/visuel, apparitions ordonnées, profondeur et transformations explicatives ; palette et présentateur à adapter au projet.",
-      "mediaPublished": false
+      "mediaPublished": false,
+      "feedbackHistory": [
+        {
+          "date": "2026-11-19",
+          "type": "style-preference-reaffirmed",
+          "comment": "regarde le style de montage de cette vidéo, j'aime beaucoup pour les prochaines j'aimerais qu'on puisse faire des choses dans ce style",
+          "sameFileVerifiedBySha256": true
+        }
+      ],
+      "priority": "preferred-reference-for-illustrated-explanatory-motion-when-relevant",
+      "lastVisualReview": {
+        "date": "2026-11-19",
+        "sourceReuploaded": true,
+        "sha256MatchesExistingReference": true,
+        "fullDecode": true,
+        "overviewSamplingSeconds": 4,
+        "movementWindows": [
+          {
+            "startSeconds": 2.7,
+            "endSeconds": 3.9000000000000004,
+            "samplingFps": 15
+          },
+          {
+            "startSeconds": 5.5,
+            "endSeconds": 6.7,
+            "samplingFps": 15
+          },
+          {
+            "startSeconds": 29.8,
+            "endSeconds": 31.0,
+            "samplingFps": 15
+          },
+          {
+            "startSeconds": 36.5,
+            "endSeconds": 37.7,
+            "samplingFps": 15
+          }
+        ],
+        "continuousRealTimePlaybackCertified": false,
+        "audioAnalyticallyReviewed": false
+      },
+      "directionForNextVideos": [
+        "Concevoir des scènes autour des idées du script : état initial, action, conséquence visible.",
+        "Illustrer avec des objets détaillés : appareils, interfaces, documents, diagrammes ou autres éléments adaptés au sujet.",
+        "Garder des repères entre les scènes et recomposer les objets pour rendre les transitions compréhensibles.",
+        "Ordonner les apparitions et réserver des temps stables de lecture ; varier les échelles avec une intention.",
+        "Adapter palette, typographie, éventuel personnage et intensité des effets au projet ; cette préférence concerne plusieurs types de vidéos."
+      ],
+      "deliveryAdaptation": "Cette référence ne réactive pas automatiquement une voix ou des sous-titres intégrés. Respecter la livraison sans voix ni sous-titres demandée pour la dernière V4 et les consignes explicites du prochain brief."
     }
   ]
 }

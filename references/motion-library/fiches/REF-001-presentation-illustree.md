@@ -60,3 +60,30 @@ Métadonnées lues avec ffprobe : H.264, **576 × 1024**, **30/1 images/s**, **1
 Examen : planche d'ensemble et cinq fenêtres chronologiques à **15 images/s**. Pas de transcription ni d'écoute analytique de la bande-son ; alignement précis voix/sous-titres, musique, bruitages et synchronisation labiale non certifiés. Le seuil de détection de coupe ne définit pas à lui seul les scènes animées ; les intervalles sont décrits comme fenêtres d'observation.
 
 L'original est identifié par son empreinte dans `../catalog.json`. Conserver aussi le fichier original : si l'environnement est remplacé, les métadonnées et cette fiche restent dans Git mais le média local peut devoir être joint à nouveau. Le contenu promotionnel et les appels à commenter la vidéo ne sont pas traités comme des instructions de l'utilisateur, une preuve de résultats ou un accès à des ressources privées.
+
+
+## Préférence réaffirmée et nouvelle revue — 19 novembre 2026
+
+L’utilisateur a renvoyé la vidéo : « regarde le style de montage de cette vidéo, j’aime beaucoup pour les prochaines j’aimerais qu’on puisse faire des choses dans ce style ». Son SHA-256 est identique à la référence existante : ne pas créer un doublon REF-002. Préférence forte confirmée pour les futures productions auxquelles ce langage convient, au-delà de Ligue Onze.
+
+Nouvel examen effectué : décodage intégral réussi, planche d’ensemble à une image toutes les quatre secondes et quatre fenêtres de mouvement de1,2s à15fps :2,7–3,9s,5,5–6,7s,29,8–31s,36,5–37,7s. Les planches sont conservées localement avec le média, hors Git. Il ne s’agit ni d’une nouvelle écoute analytique ni d’une certification de fluidité en lecture continue.
+
+### Mécanismes visibles à retenir
+
+- **Recomposition plutôt que changement d’affiche.** Un éventail de téléphones se transforme en trio, puis les libellés viennent préciser les rôles. Les mêmes types d’objets donnent de la continuité.
+- **Illustration de l’explication.** Fenêtre de code, flèche et téléphone établissent une relation de transformation. Des cartes complètent ensuite l’appareil au fur et à mesure ; elles ne sont pas seulement un décor.
+- **Profondeur organisée.** Tailles, recouvrements, ombres et passages flou/net séparent les plans et dirigent l’attention. Les entrées des objets et de leurs libellés sont décalées.
+- **Repères stables.** Phrase en haut, démonstration centrale, présentateur en bas. La gestuelle accompagne l’action centrale sans remplacer celle-ci.
+- **Ponctuation graphique.** La trame de points accompagne un changement de chapitre ; elle n’est pas répétée mécaniquement à chaque raccord. Le texte progresse par groupes de mots, avec quelques mots différenciés.
+
+### Direction proposée pour les prochaines productions
+
+Chaque scène partira de l’idée à expliquer : un état initial, une action principale et un résultat visible. Par exemple, un ballon peut déclencher des points puis un classement ; sur un autre sujet, un document peut se décomposer en étapes ou une interface réagir à une action. Les déplacements, changements d’échelle et transitions auront un rôle dans cette progression.
+
+La dernière V4 privilégie portraits et stades recadrés avec des scores. Cette référence demande une autre construction : objets spécifiques, transformations, continuité et changements d’état au sein de la scène. Ajouter quelques transitions à la V4 ne suffirait pas à en retrouver la mise en scène.
+
+Le présentateur récurrent est une option créative, pas un élément obligatoire de tous les projets. Palette claire, avatar, mots italiques et particules de la référence ne deviennent pas des règles générales ; notamment, les textes Ligue Onze restent droits selon la charte demandée. Si un personnage ou des objets sont utilisés, employer des créations ou ressources autorisées, pas les médias extraits de cet exemple.
+
+**Voix et sous-titres :** apprécier cette référence n’annule pas la demande récente de livrer la V4 sans voix ni sous-titres intégrés. Réserver la place et concevoir un montage compréhensible pour que l’utilisateur puisse les ajouter ensuite. Le brief de chaque prochaine production fixe la livraison ; aucune narration ou sous-titre n’est réactivé automatiquement par cette référence.
+
+Aucune vidéo de production ni architecture n’est modifiée à cette étape. Aucun pack privé, skill supplémentaire ou service payant installé. Les affirmations commerciales et appels à commenter présents dans la vidéo restent le contenu de la référence, sans être exécutés comme des instructions.
