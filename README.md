@@ -98,3 +98,7 @@ Dernière variante de montage : `FiveScoresClean`, sans voix ni sous-titres int�
 Composition `EraseLegend` : Messi, Cristiano Ronaldo, Zidane, Ronaldinho, 88s en1080×1920/30fps. Photos réutilisables, schémas animés et musique instrumentale originale. Sans voix ni sous-titres intégrés ; script séparé et espace réservé pour le futur sous-titrage. Les dates et le palmarès utiles restent affichés.
 
 Dossier de reprise : [productions/effacer-legende](productions/effacer-legende/README.md). Rendu : `node productions/effacer-legende/render.mjs render` ; sondes : `node productions/effacer-legende/render.mjs stills` ; examen du MP4 : `python productions/effacer-legende/verify-episode.py`. Crédits des médias à conserver : [credits.md](productions/effacer-legende/credits.md). Toutes les productions antérieures sont préservées.
+
+## Trois pronostics — matchs du 21 novembre 2026
+
+Composition `NovemberPredictions`, 35s en1080×1920/30fps, pour publication prévue le20novembre. Nice–Paris SG1–2, Séville–Betis1–2, Newcastle–Arsenal1–1 : pronostics éditoriaux sur des rencontres futures vérifiées. Vidéo de travail sans voix ni sous-titres intégrés, script à enregistrer et SRT provisoire séparés. [Reprise, sources et contrôles](productions/pronos-21-nov/README.md). Les productions précédentes restent intactes.

@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "id": "musique",
+      "src": "productions/pronos-21-nov/music-and-sfx.wav",
+      "license": "Composition originale synthétisée, sans sample tiers",
+      "url": "make-audio.py",
+      "sha256": "b5af679230d0e346d1fe75127527c57e6d3062e9b62813d9655b993c401de7bd"
+    },
+    {
+      "id": "logo",
+      "src": "productions/cinq-scores-v4/logo-officiel.png",
+      "license": "Logo officiel Ligue Onze pour cette production de marque",
+      "url": "https://ligueonze.fr/icon-512.png",
+      "sha256": "c4015f124620f6095335a3d19e0d55881243fb78f16bcf821241ecceceff7ae2"
+    },
+    {
+      "id": "titre",
+      "src": "productions/pronos-17-nov/fonts/BarlowCondensed-ExtraBold.ttf",
+      "license": "SIL OFL1.1",
+      "url": "https://github.com/jpt/barlow",
+      "sha256": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260"
+    },
+    {
+      "id": "texte",
+      "src": "productions/cinq-scores-v4/brand-body.woff2",
+      "license": "SIL OFL1.1",
+      "url": "https://github.com/erikdkennedy/figtree",
+      "sha256": "8330490a01c60c196eae00b823de8102275aaa5862e7b76a7af21b8745338928"
+    },
+    {
+      "id": "marque",
+      "src": "productions/cinq-scores-v4/brand-display.woff2",
+      "license": "SIL OFL1.1",
+      "url": "https://github.com/ateliertriay/bricolage",
+      "sha256": "4fd48b2c1ab27220e71f15f990550261b35245c3bdfd8d8025b4bdac0459ee2d"
+    }
+  ],
+  "photos": [],
+  "teamLogos": [],
+  "aiImages": [],
+  "notes": [
+    "Aucune photo externe ni logo d’équipe utilisé.",
+    "Terrain, tickets et détails vectoriels dessinés pour cette vidéo. Aucun score ou indice de forme fictif présenté comme mesuré."
+  ]
+}

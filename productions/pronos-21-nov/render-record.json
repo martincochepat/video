@@ -1,0 +1,16 @@
+{
+  "sha256": "45f4dd2fc7addefa4f7ee21431296883c6e73e4d4d677561c97bd138fd1954c5",
+  "composition": "NovemberPredictions",
+  "engine": "Remotion 4.0.544",
+  "generatedAt": "2026-11-20T14:20:35.563Z",
+  "workingVoice": false,
+  "subtitles": false,
+  "audio": "original-instrumental-and-sfx",
+  "sourceHashes": {
+    "src/productions/pronos-november/Cards.tsx": "ae83ceba34ce46cd37309f1d19053ac4092896fb2b9a1f1d0d51f56c26c756c3",
+    "src/productions/pronos-november/index.tsx": "8fc549fc5975e4baabbde40b7d076b4c8542463beac3cdb29b38adcb12e0b7a4",
+    "src/productions/erase-legend/Design.tsx": "9fe0867471e09c0e4915277aecff043ee0be78e16c094110dfdc81d6d42bdac8",
+    "src/WorkshopShell.tsx": "e249a3381c506ccda609bb306aa0a857d3a0c48e940d76453c259faca7486f14",
+    "productions/pronos-21-nov/matches.json": "53be8c96068bf028f6f26c4729242cdaf29b1e61b7a9ef5b0088b81d469b8e3f"
+  }
+}

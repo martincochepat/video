@@ -1,0 +1,373 @@
+{
+  "sources": [
+    {
+      "claim": "Nice–Paris SG, LIGUE 1, 21 novembre2026 à17:15 Paris ; programmé, pas joué.",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876398",
+      "title": "ESPN — fiche de rencontre, calendrier et derniers résultats disponibles",
+      "accessedAt": "2026-11-20",
+      "evidence": {
+        "eventId": "401876398",
+        "scheduled": "2026-11-21T16:15Z",
+        "teams": [
+          [
+            "home",
+            "Nice"
+          ],
+          [
+            "away",
+            "Paris Saint-Germain"
+          ]
+        ],
+        "lastResults": [
+          {
+            "team": "Nice",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-11T13:00Z",
+                "opponent": "Strasbourg",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-10-18T18:45Z",
+                "opponent": "Lyon",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-10-23T18:45Z",
+                "opponent": "Brest",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-10-30T18:00Z",
+                "opponent": "Stade Rennais",
+                "scoreHomeAway": "5-2",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-11-08T16:15Z",
+                "opponent": "Angers",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              }
+            ],
+            "wins": 4
+          },
+          {
+            "team": "Paris Saint-Germain",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-20T19:00Z",
+                "opponent": "Barcelona",
+                "scoreHomeAway": "4-2",
+                "resultForTeam": "W",
+                "competition": "2026-27 UEFA Champions League"
+              },
+              {
+                "date": "2026-10-26T19:30Z",
+                "opponent": "Lyon",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-10-30T18:00Z",
+                "opponent": "Le Havre AC",
+                "scoreHomeAway": "5-1",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              },
+              {
+                "date": "2026-11-03T20:00Z",
+                "opponent": "Villarreal",
+                "scoreHomeAway": "6-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 UEFA Champions League"
+              },
+              {
+                "date": "2026-11-07T20:05Z",
+                "opponent": "Troyes",
+                "scoreHomeAway": "1-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 Ligue 1"
+              }
+            ],
+            "wins": 5
+          }
+        ]
+      },
+      "status": "verified"
+    },
+    {
+      "claim": "Séville–Betis, LALIGA, 21 novembre2026 à18:30 Paris ; programmé, pas joué.",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882797",
+      "title": "ESPN — fiche de rencontre, calendrier et derniers résultats disponibles",
+      "accessedAt": "2026-11-20",
+      "evidence": {
+        "eventId": "401882797",
+        "scheduled": "2026-11-21T17:30Z",
+        "teams": [
+          [
+            "home",
+            "Sevilla"
+          ],
+          [
+            "away",
+            "Real Betis"
+          ]
+        ],
+        "lastResults": [
+          {
+            "team": "Sevilla",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-18T19:00Z",
+                "opponent": "Real Madrid",
+                "scoreHomeAway": "4-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-10-26T20:00Z",
+                "opponent": "Osasuna",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-10-29T20:00Z",
+                "opponent": "Sporting Hortaleza",
+                "scoreHomeAway": "3-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 Spanish Copa del Rey"
+              },
+              {
+                "date": "2026-11-01T13:00Z",
+                "opponent": "Getafe",
+                "scoreHomeAway": "3-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-11-06T20:00Z",
+                "opponent": "Alavés",
+                "scoreHomeAway": "0-0",
+                "resultForTeam": "D",
+                "competition": "2026-27 LALIGA"
+              }
+            ],
+            "wins": 2
+          },
+          {
+            "team": "Real Betis",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-25T15:15Z",
+                "opponent": "Celta Vigo",
+                "scoreHomeAway": "0-0",
+                "resultForTeam": "D",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-10-31T17:30Z",
+                "opponent": "Málaga",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "W",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-11-04T20:00Z",
+                "opponent": "Borussia Dortmund",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 UEFA Champions League"
+              },
+              {
+                "date": "2026-11-08T13:00Z",
+                "opponent": "Elche",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 LALIGA"
+              },
+              {
+                "date": "2026-11-12T18:00Z",
+                "opponent": "CD Artistico Navalcarnero",
+                "scoreHomeAway": "3-2",
+                "resultForTeam": "W",
+                "competition": "2026-27 Spanish Copa del Rey"
+              }
+            ],
+            "wins": 3
+          }
+        ]
+      },
+      "status": "verified"
+    },
+    {
+      "claim": "Newcastle–Arsenal, PREMIER LEAGUE, 21 novembre2026 à18:30 Paris ; programmé, pas joué.",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879232",
+      "title": "ESPN — fiche de rencontre, calendrier et derniers résultats disponibles",
+      "accessedAt": "2026-11-20",
+      "evidence": {
+        "eventId": "401879232",
+        "scheduled": "2026-11-21T17:30Z",
+        "teams": [
+          [
+            "home",
+            "Newcastle United"
+          ],
+          [
+            "away",
+            "Arsenal"
+          ]
+        ],
+        "lastResults": [
+          {
+            "team": "Newcastle United",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-17T16:30Z",
+                "opponent": "Aston Villa",
+                "scoreHomeAway": "1-0",
+                "resultForTeam": "L",
+                "competition": "2026-27 English Premier League"
+              },
+              {
+                "date": "2026-10-25T14:00Z",
+                "opponent": "Crystal Palace",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 English Premier League"
+              },
+              {
+                "date": "2026-10-29T19:45Z",
+                "opponent": "Everton",
+                "scoreHomeAway": "3-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 English Carabao Cup"
+              },
+              {
+                "date": "2026-11-02T20:00Z",
+                "opponent": "Everton",
+                "scoreHomeAway": "1-0",
+                "resultForTeam": "L",
+                "competition": "2026-27 English Premier League"
+              },
+              {
+                "date": "2026-11-07T15:00Z",
+                "opponent": "Fulham",
+                "scoreHomeAway": "1-1",
+                "resultForTeam": "D",
+                "competition": "2026-27 English Premier League"
+              }
+            ],
+            "wins": 1
+          },
+          {
+            "team": "Arsenal",
+            "lastAvailableResults": [
+              {
+                "date": "2026-10-24T14:00Z",
+                "opponent": "Everton",
+                "scoreHomeAway": "2-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 English Premier League"
+              },
+              {
+                "date": "2026-10-27T20:00Z",
+                "opponent": "Fleetwood Town",
+                "scoreHomeAway": "1-1",
+                "resultForTeam": "L",
+                "competition": "2026-27 English Carabao Cup"
+              },
+              {
+                "date": "2026-11-01T16:30Z",
+                "opponent": "Liverpool",
+                "scoreHomeAway": "1-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 English Premier League"
+              },
+              {
+                "date": "2026-11-04T20:00Z",
+                "opponent": "Slavia Prague",
+                "scoreHomeAway": "2-1",
+                "resultForTeam": "W",
+                "competition": "2026-27 UEFA Champions League"
+              },
+              {
+                "date": "2026-11-07T15:00Z",
+                "opponent": "Hull City",
+                "scoreHomeAway": "1-0",
+                "resultForTeam": "W",
+                "competition": "2026-27 English Premier League"
+              }
+            ],
+            "wins": 4
+          }
+        ]
+      },
+      "status": "verified"
+    },
+    {
+      "claim": "Les trois affiches et horaires sont corroborés, heures BBC en GMT à convertir en Paris GMT+1.",
+      "url": "https://www.bbc.com/sport/football/scores-fixtures/2026-11-21",
+      "title": "BBC Sport — Scores & Fixtures du samedi21novembre2026",
+      "accessedAt": "2026-11-20",
+      "evidence": "Nice–PSG16:15 ; Sevilla–Betis17:30 ; Newcastle–Arsenal17:30 (UK).",
+      "status": "verified"
+    },
+    {
+      "claim": "Nice–Paris confirmé par le club visiteur le21novembre2026 à17:15, J11.",
+      "url": "https://www.psg.fr/equipes/equipe-premiere/calendrier-et-resultats",
+      "title": "PSG — calendrier officiel",
+      "accessedAt": "2026-11-20",
+      "evidence": "OGC Nice vs Paris Saint-Germain -21novembre2026 -17:15 ; Ligue1Journée11.",
+      "status": "verified"
+    },
+    {
+      "claim": "Newcastle–Arsenal samedi21novembre2026, 17h30 àNewcastle, soit18h30 àParis.",
+      "url": "https://www.newcastleunited.com/en/matches/mens-team/fixtures",
+      "title": "Newcastle United — calendrier officiel équipe masculine",
+      "accessedAt": "2026-11-20",
+      "evidence": "Sat21Nov2026 ; St.James’Park ; NewcastleUnited–Arsenal ;5:30PM.",
+      "status": "verified"
+    },
+    {
+      "claim": "Le Betis annonce sa convocation pour le derby du samedi face àSéville ; retours de Cucho Hernández et Facundo Bernal.",
+      "url": "https://www.realbetisbalompie.es/noticias/actualidad/lista-de-convocados-del-real-betis-para-el-gran-derbi-32872",
+      "title": "Real Betis — Lista de convocados para El Gran Derbi",
+      "accessedAt": "2026-11-20",
+      "evidence": "Article daté20novembre2026 ; nouveautés CuchoHernández après blessure et FacundoBernal après suspension. Le texte ne confirme pas à lui seul l’horaire : horaire recoupé ESPN/BBC.",
+      "status": "verified"
+    }
+  ],
+  "predictionRationale": [
+    {
+      "match": 1,
+      "choice": "1–2",
+      "reason": "Paris a gagné ses cinq derniers matchs disponibles, toutes compétitions, contre quatre sur cinq pour Nice. Courte victoire de Paris choisie, but niçois supposé : opinion, sans probabilité calculée."
+    },
+    {
+      "match": 2,
+      "choice": "1–2",
+      "reason": "Le Betis compte trois victoires dans les cinq résultats disponibles, Séville deux. Ce petit avantage sert un pari éditorial de victoire à l’extérieur dans le derby ; pas une certitude sportive."
+    },
+    {
+      "match": 3,
+      "choice": "1–1",
+      "reason": "Arsenal compte quatre victoires dans les cinq résultats disponibles, Newcastle une. Le nul à Newcastle est volontairement le choix le plus contestable ; avantage du terrain invoqué comme appréciation éditoriale, pas comme statistique sourcée."
+    }
+  ],
+  "limits": [
+    "Compositions et blessures non utilisées : aucun effectif titulaire inventé.",
+    "Les résultats ESPN disponibles mêlent championnat et coupes ; aucun calcul de probabilité ou conseil de mise.",
+    "Arsenal.com/fixtures retourne403 ; source primaire PSG et recoupement BBC/ESPN disponibles."
+  ]
+}

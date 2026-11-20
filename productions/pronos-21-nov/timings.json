@@ -1,0 +1,97 @@
+{
+  "basis": "editorial-estimate-no-voice",
+  "durationSeconds": 35,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 3.5
+    },
+    {
+      "id": "match1",
+      "startSeconds": 3.5,
+      "endSeconds": 10.5
+    },
+    {
+      "id": "match2",
+      "startSeconds": 10.5,
+      "endSeconds": 17.5
+    },
+    {
+      "id": "match3",
+      "startSeconds": 17.5,
+      "endSeconds": 24.5
+    },
+    {
+      "id": "choice",
+      "startSeconds": 24.5,
+      "endSeconds": 35
+    }
+  ],
+  "segments": [
+    {
+      "sceneId": "hook",
+      "startSeconds": 0,
+      "endSeconds": 3.3,
+      "text": "Trois pronos. Un seul changement."
+    },
+    {
+      "sceneId": "match1",
+      "startSeconds": 3.7,
+      "endSeconds": 6.6,
+      "text": "Nice–Paris : un–deux."
+    },
+    {
+      "sceneId": "match1",
+      "startSeconds": 6.7,
+      "endSeconds": 10.2,
+      "text": "Paris gagne, mais je vois Nice marquer."
+    },
+    {
+      "sceneId": "match2",
+      "startSeconds": 10.7,
+      "endSeconds": 13.6,
+      "text": "Séville–Betis : un–deux."
+    },
+    {
+      "sceneId": "match2",
+      "startSeconds": 13.7,
+      "endSeconds": 17.2,
+      "text": "Je donne le derby au Betis."
+    },
+    {
+      "sceneId": "match3",
+      "startSeconds": 17.7,
+      "endSeconds": 20.6,
+      "text": "Newcastle–Arsenal : un partout."
+    },
+    {
+      "sceneId": "match3",
+      "startSeconds": 20.7,
+      "endSeconds": 24.2,
+      "text": "Oui, je tente le nul."
+    },
+    {
+      "sceneId": "choice",
+      "startSeconds": 24.7,
+      "endSeconds": 28.8,
+      "text": "Tu modifies le un, le deux ou le trois ?"
+    },
+    {
+      "sceneId": "choice",
+      "startSeconds": 29,
+      "endSeconds": 31.8,
+      "text": "Donne ton score en commentaire."
+    },
+    {
+      "sceneId": "choice",
+      "startSeconds": 32,
+      "endSeconds": 34.8,
+      "text": "On fait les comptes après les matchs."
+    }
+  ],
+  "speechGenerated": false,
+  "subtitlesIntegrated": false,
+  "note": "SRT provisoire du script prévu : à recaler après réception de la voix. Aucune parole effectivement présente dans le MP4."
+}

@@ -1,0 +1,60 @@
+{
+  "status": "pass",
+  "deliveryStatus": "working-version-awaiting-user-voice",
+  "finalSha256": "45f4dd2fc7addefa4f7ee21431296883c6e73e4d4d677561c97bd138fd1954c5",
+  "reviewedAt": "2026-11-20T14:22:50.812343+00:00",
+  "understanding": {
+    "status": "pass",
+    "evidence": "Défi visible dès la première image ; trois affiches numérotées, MONPRONO/SCOREPRÉDIT, fin demandant un seul choix et son score."
+  },
+  "composition": {
+    "status": "pass",
+    "evidence": "21 sondes DOM sans erreur de police, marges, médias ou empiètement sur la zone de sous-titres. Examen de la planche et des fenêtres : noms et chiffres lisibles, dates et heures conservées."
+  },
+  "sceneVariety": {
+    "status": "pass",
+    "evidence": "Trois tickets passent de l’attente à l’affiche, au score dévoilé, au rail de mémoire, puis au récapitulatif. Terrain dessiné et profondeur servent le thème sans photo ni logo d’équipe non autorisé."
+  },
+  "motion": {
+    "status": "pass",
+    "evidence": "Huit extraits décodés échantillonnés à10 images/s, examinés image par image. Deux trajectoires intermédiaires maintiennent les cartes dans le cadre ; les numéros restent des repères pendant leur mouvement. Pas de texte étiré ou tourné."
+  },
+  "pacing": {
+    "status": "pass",
+    "evidence": "35s ; accroche3,5s, trois pronos7s chacun, choix10,5s. Révélations courtes suivies de tenues de lecture. Durées éditoriales, sans alignement vocal mesuré."
+  },
+  "consistency": {
+    "status": "pass",
+    "evidence": "Même grammaire typographique sombre/citron, logo officiel discret à30s, dates21novembre et heuresParis. Prédictions1–2/1–2/1–1 vérifiées dans les données et les images. SRT10cues provisoire, texte intégral du script proposé."
+  },
+  "checks": [
+    "TypeScript sans erreur",
+    "9 tests atelier réussis",
+    "21 sondes de mise en page",
+    "Décodage intégral FFmpeg",
+    "H264/yuv420p/BT709 ;1080×1920 ;30fps ;1050images ;AAC48kHz stéréo",
+    "Aucune plage noire détectée à98% de pixels, minimum0,05s",
+    "Signal audio corrélé à0,99998 avec le WAV original : composition instrumentale et bruitages uniquement",
+    "SRT :10segments, maximum2lignes et36caractères par ligne, script complet identique"
+  ],
+  "reference": {
+    "id": "REF-001",
+    "adapted": [
+      "Continuité et changement d’état des objets",
+      "Apparitions ordonnées",
+      "Ombres de plans et recomposition finale"
+    ],
+    "remainingGaps": [
+      "Direction graphique sportive volontairement plus sobre, sans présentateur3D ni photographie.",
+      "Pas d’action réelle filmée ; uniquement un habillage vectoriel et typographique."
+    ]
+  },
+  "limits": [
+    "Voix définitive absente par choix du brief : version de travail tant qu’elle est attendue.",
+    "SRT provisoire, pas une transcription de paroles présentes, à recaler sur le futur audio.",
+    "Examen échantillonné des mouvements ; pas de visionnage perceptif intégral à vitesse réelle ni d’écoute humaine réalisés.",
+    "Les sondes DOM ne prouvent pas automatiquement toute la qualité du mouvement ni chaque intersection de formes.",
+    "Horaires vérifiés le20novembre2026 et susceptibles de modification par les organisateurs. Les scores sont des opinions, pas des probabilités mesurées."
+  ],
+  "technicalBlockers": []
+}

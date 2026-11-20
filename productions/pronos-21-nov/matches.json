@@ -1,0 +1,326 @@
+{
+  "publicationDate": "2026-11-20",
+  "verifiedAt": "2026-11-20",
+  "timezone": "Europe/Paris",
+  "matches": [
+    {
+      "id": "1",
+      "eventId": "401876398",
+      "home": "Nice",
+      "away": "Paris SG",
+      "officialTeamNames": [
+        "Nice",
+        "Paris Saint-Germain"
+      ],
+      "competition": "LIGUE 1",
+      "kickoffUTC": "2026-11-21T16:15Z",
+      "kickoffParis": "2026-11-21T17:15:00+01:00",
+      "dateLabel": "SAM. 21 NOV.",
+      "timeLabel": "17 H 15",
+      "prediction": [
+        1,
+        2
+      ],
+      "angle": "PARIS, MAIS PAS SANS LUTTER.",
+      "status": "verified-scheduled-prediction-is-editorial",
+      "recentForm": [
+        {
+          "team": "Nice",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-11T13:00Z",
+              "opponent": "Strasbourg",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-10-18T18:45Z",
+              "opponent": "Lyon",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-10-23T18:45Z",
+              "opponent": "Brest",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-10-30T18:00Z",
+              "opponent": "Stade Rennais",
+              "scoreHomeAway": "5-2",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-11-08T16:15Z",
+              "opponent": "Angers",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            }
+          ],
+          "wins": 4
+        },
+        {
+          "team": "Paris Saint-Germain",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-20T19:00Z",
+              "opponent": "Barcelona",
+              "scoreHomeAway": "4-2",
+              "resultForTeam": "W",
+              "competition": "2026-27 UEFA Champions League"
+            },
+            {
+              "date": "2026-10-26T19:30Z",
+              "opponent": "Lyon",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-10-30T18:00Z",
+              "opponent": "Le Havre AC",
+              "scoreHomeAway": "5-1",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            },
+            {
+              "date": "2026-11-03T20:00Z",
+              "opponent": "Villarreal",
+              "scoreHomeAway": "6-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 UEFA Champions League"
+            },
+            {
+              "date": "2026-11-07T20:05Z",
+              "opponent": "Troyes",
+              "scoreHomeAway": "1-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 Ligue 1"
+            }
+          ],
+          "wins": 5
+        }
+      ],
+      "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/summary?event=401876398"
+    },
+    {
+      "id": "2",
+      "eventId": "401882797",
+      "home": "Séville",
+      "away": "Betis",
+      "officialTeamNames": [
+        "Sevilla",
+        "Real Betis"
+      ],
+      "competition": "LALIGA",
+      "kickoffUTC": "2026-11-21T17:30Z",
+      "kickoffParis": "2026-11-21T18:30:00+01:00",
+      "dateLabel": "SAM. 21 NOV.",
+      "timeLabel": "18 H 30",
+      "prediction": [
+        1,
+        2
+      ],
+      "angle": "LE DERBY POUR LE BETIS.",
+      "status": "verified-scheduled-prediction-is-editorial",
+      "recentForm": [
+        {
+          "team": "Sevilla",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-18T19:00Z",
+              "opponent": "Real Madrid",
+              "scoreHomeAway": "4-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-10-26T20:00Z",
+              "opponent": "Osasuna",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-10-29T20:00Z",
+              "opponent": "Sporting Hortaleza",
+              "scoreHomeAway": "3-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 Spanish Copa del Rey"
+            },
+            {
+              "date": "2026-11-01T13:00Z",
+              "opponent": "Getafe",
+              "scoreHomeAway": "3-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-11-06T20:00Z",
+              "opponent": "Alavés",
+              "scoreHomeAway": "0-0",
+              "resultForTeam": "D",
+              "competition": "2026-27 LALIGA"
+            }
+          ],
+          "wins": 2
+        },
+        {
+          "team": "Real Betis",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-25T15:15Z",
+              "opponent": "Celta Vigo",
+              "scoreHomeAway": "0-0",
+              "resultForTeam": "D",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-10-31T17:30Z",
+              "opponent": "Málaga",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "W",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-11-04T20:00Z",
+              "opponent": "Borussia Dortmund",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 UEFA Champions League"
+            },
+            {
+              "date": "2026-11-08T13:00Z",
+              "opponent": "Elche",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 LALIGA"
+            },
+            {
+              "date": "2026-11-12T18:00Z",
+              "opponent": "CD Artistico Navalcarnero",
+              "scoreHomeAway": "3-2",
+              "resultForTeam": "W",
+              "competition": "2026-27 Spanish Copa del Rey"
+            }
+          ],
+          "wins": 3
+        }
+      ],
+      "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/summary?event=401882797"
+    },
+    {
+      "id": "3",
+      "eventId": "401879232",
+      "home": "Newcastle",
+      "away": "Arsenal",
+      "officialTeamNames": [
+        "Newcastle United",
+        "Arsenal"
+      ],
+      "competition": "PREMIER LEAGUE",
+      "kickoffUTC": "2026-11-21T17:30Z",
+      "kickoffParis": "2026-11-21T18:30:00+01:00",
+      "dateLabel": "SAM. 21 NOV.",
+      "timeLabel": "18 H 30",
+      "prediction": [
+        1,
+        1
+      ],
+      "angle": "JE TENTE LE NUL.",
+      "status": "verified-scheduled-prediction-is-editorial",
+      "recentForm": [
+        {
+          "team": "Newcastle United",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-17T16:30Z",
+              "opponent": "Aston Villa",
+              "scoreHomeAway": "1-0",
+              "resultForTeam": "L",
+              "competition": "2026-27 English Premier League"
+            },
+            {
+              "date": "2026-10-25T14:00Z",
+              "opponent": "Crystal Palace",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 English Premier League"
+            },
+            {
+              "date": "2026-10-29T19:45Z",
+              "opponent": "Everton",
+              "scoreHomeAway": "3-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 English Carabao Cup"
+            },
+            {
+              "date": "2026-11-02T20:00Z",
+              "opponent": "Everton",
+              "scoreHomeAway": "1-0",
+              "resultForTeam": "L",
+              "competition": "2026-27 English Premier League"
+            },
+            {
+              "date": "2026-11-07T15:00Z",
+              "opponent": "Fulham",
+              "scoreHomeAway": "1-1",
+              "resultForTeam": "D",
+              "competition": "2026-27 English Premier League"
+            }
+          ],
+          "wins": 1
+        },
+        {
+          "team": "Arsenal",
+          "lastAvailableResults": [
+            {
+              "date": "2026-10-24T14:00Z",
+              "opponent": "Everton",
+              "scoreHomeAway": "2-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 English Premier League"
+            },
+            {
+              "date": "2026-10-27T20:00Z",
+              "opponent": "Fleetwood Town",
+              "scoreHomeAway": "1-1",
+              "resultForTeam": "L",
+              "competition": "2026-27 English Carabao Cup"
+            },
+            {
+              "date": "2026-11-01T16:30Z",
+              "opponent": "Liverpool",
+              "scoreHomeAway": "1-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 English Premier League"
+            },
+            {
+              "date": "2026-11-04T20:00Z",
+              "opponent": "Slavia Prague",
+              "scoreHomeAway": "2-1",
+              "resultForTeam": "W",
+              "competition": "2026-27 UEFA Champions League"
+            },
+            {
+              "date": "2026-11-07T15:00Z",
+              "opponent": "Hull City",
+              "scoreHomeAway": "1-0",
+              "resultForTeam": "W",
+              "competition": "2026-27 English Premier League"
+            }
+          ],
+          "wins": 4
+        }
+      ],
+      "sourceUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/summary?event=401879232"
+    }
+  ],
+  "editorialNote": "Les scores sont nos pronostics, jamais des résultats officiels ni une garantie. Équipes et horaires susceptibles de modification par les organisateurs."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pronos-21-nov",
+  "component": "NovemberPredictions",
+  "status": "working-version-no-voice",
+  "profile": "ligue-onze",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationSeconds": 35,
+  "safeArea": {
+    "top": 145,
+    "right": 135,
+    "bottom": 320,
+    "left": 110
+  },
+  "subtitleReservedArea": [
+    110,
+    1410,
+    820,
+    180
+  ],
+  "palette": {
+    "background": "#080B0E",
+    "foreground": "#F6F7F8",
+    "accent": "#C8FF00",
+    "muted": "#AAB6BE"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 52,
+    "maxChars": 70
+  },
+  "voice": null,
+  "captions": [],
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 3.5
+    },
+    {
+      "id": "match1",
+      "startSeconds": 3.5,
+      "endSeconds": 10.5
+    },
+    {
+      "id": "match2",
+      "startSeconds": 10.5,
+      "endSeconds": 17.5
+    },
+    {
+      "id": "match3",
+      "startSeconds": 17.5,
+      "endSeconds": 24.5
+    },
+    {
+      "id": "choice",
+      "startSeconds": 24.5,
+      "endSeconds": 35
+    }
+  ],
+  "qaFonts": [
+    "800 60px LegendTitle",
+    "600 44px LegendBody"
+  ]
+}
