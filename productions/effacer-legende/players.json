@@ -1,0 +1,76 @@
+{
+  "selection": [
+    "Messi",
+    "Cristiano Ronaldo",
+    "Zinédine Zidane",
+    "Ronaldinho"
+  ],
+  "players": [
+    {
+      "id": "messi",
+      "name": "LIONEL MESSI",
+      "shortName": "MESSI",
+      "theme": "LE GÉNIE",
+      "hero": "messi-portrait.jpg",
+      "action": "messi-barca.jpg",
+      "detail": "messi-action.jpg",
+      "historic": "messi-world.jpg",
+      "ballons": 8,
+      "ballonYears": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2015,
+        2019,
+        2021,
+        2023
+      ],
+      "worldCup": 2022
+    },
+    {
+      "id": "ronaldo",
+      "name": "CRISTIANO RONALDO",
+      "shortName": "RONALDO",
+      "theme": "LA MACHINE",
+      "hero": "ronaldo-portrait.jpg",
+      "action": "ronaldo-shot.jpg",
+      "detail": "ronaldo-united.jpg",
+      "historic": "ronaldo-portugal.jpg",
+      "ballons": 5,
+      "championsYears": [
+        2008,
+        2014,
+        2016,
+        2017,
+        2018
+      ],
+      "euro": 2016
+    },
+    {
+      "id": "zidane",
+      "name": "ZINÉDINE ZIDANE",
+      "shortName": "ZIDANE",
+      "theme": "L’ÉLÉGANCE",
+      "hero": "zidane-face.jpg",
+      "action": "zidane-field.jpg",
+      "worldCup": 1998,
+      "finalGoals": 2,
+      "euro": 2000,
+      "volleyYear": 2002,
+      "volleyPlace": "GLASGOW"
+    },
+    {
+      "id": "ronaldinho",
+      "name": "RONALDINHO",
+      "shortName": "RONALDINHO",
+      "theme": "LA MAGIE",
+      "hero": "ronaldinho-portrait.jpg",
+      "action": "ronaldinho-freekick.jpg",
+      "detail": "ronaldinho-penalty.jpg",
+      "ballonYear": 2005,
+      "worldCup": 2002,
+      "championsYear": 2006
+    }
+  ]
+}

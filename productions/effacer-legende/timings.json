@@ -1,0 +1,123 @@
+{
+  "basis": "editorial-estimate-no-voice",
+  "durationSeconds": 88,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 5
+    },
+    {
+      "id": "messi",
+      "startSeconds": 5,
+      "endSeconds": 23
+    },
+    {
+      "id": "ronaldo",
+      "startSeconds": 23,
+      "endSeconds": 41
+    },
+    {
+      "id": "zidane",
+      "startSeconds": 41,
+      "endSeconds": 59
+    },
+    {
+      "id": "ronaldinho",
+      "startSeconds": 59,
+      "endSeconds": 77
+    },
+    {
+      "id": "choice",
+      "startSeconds": 77,
+      "endSeconds": 88
+    }
+  ],
+  "speechGenerated": false,
+  "subtitlesIntegrated": false,
+  "scriptWords": 218,
+  "note": "Durées choisies pour la mise en scène ; aucune synchronisation vocale mesurée prétendue.",
+  "chapterActs": [
+    {
+      "player": "messi",
+      "acts": [
+        {
+          "localStart": 0,
+          "localEnd": 5.3,
+          "role": "Portrait, thème, objet mémoire."
+        },
+        {
+          "localStart": 5.3,
+          "localEnd": 11.4,
+          "role": "Photographies d’action et geste expliqué par un schéma."
+        },
+        {
+          "localStart": 11.4,
+          "localEnd": 18,
+          "role": "Repères historiques et palmarès ; recomposition vers le chapitre suivant."
+        }
+      ]
+    },
+    {
+      "player": "ronaldo",
+      "acts": [
+        {
+          "localStart": 0,
+          "localEnd": 5.3,
+          "role": "Portrait, thème, objet mémoire."
+        },
+        {
+          "localStart": 5.3,
+          "localEnd": 11.4,
+          "role": "Photographies d’action et geste expliqué par un schéma."
+        },
+        {
+          "localStart": 11.4,
+          "localEnd": 18,
+          "role": "Repères historiques et palmarès ; recomposition vers le chapitre suivant."
+        }
+      ]
+    },
+    {
+      "player": "zidane",
+      "acts": [
+        {
+          "localStart": 0,
+          "localEnd": 7,
+          "role": "Portrait de face, 1998, deux buts, Euro 2000."
+        },
+        {
+          "localStart": 7,
+          "localEnd": 13.4,
+          "role": "Volée schématique : centre, préparation, contact à 9.35 s locales, réaction du filet à 10.15 s locales."
+        },
+        {
+          "localStart": 13.4,
+          "localEnd": 18,
+          "role": "Le schéma se range à gauche ; photo mémoire de 2006 à droite, sans la présenter comme la finale 2002."
+        }
+      ]
+    },
+    {
+      "player": "ronaldinho",
+      "acts": [
+        {
+          "localStart": 0,
+          "localEnd": 5.3,
+          "role": "Portrait, thème, objet mémoire."
+        },
+        {
+          "localStart": 5.3,
+          "localEnd": 11.4,
+          "role": "Photographies d’action et geste expliqué par un schéma."
+        },
+        {
+          "localStart": 11.4,
+          "localEnd": 18,
+          "role": "Repères historiques et palmarès ; recomposition vers le chapitre suivant."
+        }
+      ]
+    }
+  ]
+}

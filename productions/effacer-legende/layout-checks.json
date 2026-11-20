@@ -1,0 +1,2252 @@
+{
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "UN DOIT",
+          "x": 120,
+          "y": 918,
+          "width": 322.34375,
+          "height": 134
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 1033,
+          "width": 557.875,
+          "height": 134
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1240,
+          "width": 275.6875,
+          "height": 98
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "boxes": [
+        {
+          "text": "UN DOIT",
+          "x": 120,
+          "y": 918,
+          "width": 322.34375,
+          "height": 134
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 1033,
+          "width": 557.875,
+          "height": 134
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1240,
+          "width": 275.6875,
+          "height": 98
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "boxes": [
+        {
+          "text": "UN DOIT",
+          "x": 120,
+          "y": 918,
+          "width": 322.34375,
+          "height": 134
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 1033,
+          "width": 557.875,
+          "height": 134
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1240,
+          "width": 275.6875,
+          "height": 98
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "boxes": [
+        {
+          "text": "UN DOIT",
+          "x": 120,
+          "y": 918,
+          "width": 322.34375,
+          "height": 134
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 1033,
+          "width": 557.875,
+          "height": 134
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1240,
+          "width": 275.6875,
+          "height": 98
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "boxes": [
+        {
+          "text": "UN DOIT",
+          "x": 120,
+          "y": 918,
+          "width": 322.34375,
+          "height": 134
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 1033,
+          "width": 557.875,
+          "height": 134
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1240,
+          "width": 275.6875,
+          "height": 98
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "boxes": [
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 702.796875,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 705.296875,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1095.765625,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "UN DOIT DISPARAÎTRE.",
+          "x": 120,
+          "y": 174,
+          "width": 725.3125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1234,
+          "width": 336.203125,
+          "height": 120
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "boxes": [
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 702,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 702,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1082,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1083,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "UN DOIT DISPARAÎTRE.",
+          "x": 120,
+          "y": 174,
+          "width": 725.3125,
+          "height": 108
+        },
+        {
+          "text": "LEQUEL ?",
+          "x": 120,
+          "y": 1234,
+          "width": 336.203125,
+          "height": 120
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 120,
+          "y": 1068,
+          "width": 55.875,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LE GÉNIE",
+          "x": 120,
+          "y": 379,
+          "width": 186.921875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 120,
+          "y": 1068,
+          "width": 55.875,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LE GÉNIE",
+          "x": 120,
+          "y": 379,
+          "width": 186.921875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 195,
+      "boxes": [
+        {
+          "text": "7",
+          "x": 120,
+          "y": 1068,
+          "width": 80.1875,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LE GÉNIE",
+          "x": 120,
+          "y": 379,
+          "width": 186.921875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "boxes": [
+        {
+          "text": "8",
+          "x": 120,
+          "y": 1068,
+          "width": 84.75,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LE GÉNIE",
+          "x": 120,
+          "y": 379,
+          "width": 186.921875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 384,
+      "boxes": [
+        {
+          "text": "CRÉER UN PASSAGE.",
+          "x": 120,
+          "y": 1291,
+          "width": 344.453125,
+          "height": 58
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LA VISION",
+          "x": 120,
+          "y": 379,
+          "width": 211.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 450,
+      "boxes": [
+        {
+          "text": "CRÉER UN PASSAGE.",
+          "x": 120,
+          "y": 1291,
+          "width": 344.453125,
+          "height": 58
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "LA VISION",
+          "x": 120,
+          "y": 379,
+          "width": 211.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 555,
+      "boxes": [
+        {
+          "text": "2022",
+          "x": 120,
+          "y": 1130,
+          "width": 280.40625,
+          "height": 186
+        },
+        {
+          "text": "CHAMPION DU MONDE",
+          "x": 480,
+          "y": 1236,
+          "width": 363.265625,
+          "height": 58
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "L’ABOUTISSEMENT",
+          "x": 120,
+          "y": 379,
+          "width": 385.734375,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 645,
+      "boxes": [
+        {
+          "text": "2022",
+          "x": 120,
+          "y": 1130,
+          "width": 280.40625,
+          "height": 186
+        },
+        {
+          "text": "CHAMPION DU MONDE",
+          "x": 480,
+          "y": 1236,
+          "width": 363.265625,
+          "height": 58
+        },
+        {
+          "text": "MESSI",
+          "x": 120,
+          "y": 211,
+          "width": 299.890625,
+          "height": 168
+        },
+        {
+          "text": "L’ABOUTISSEMENT",
+          "x": 120,
+          "y": 379,
+          "width": 385.734375,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 691,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 120,
+          "y": 1068,
+          "width": 55.875,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA MACHINE",
+          "x": 120,
+          "y": 379,
+          "width": 263.03125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 693,
+      "boxes": [
+        {
+          "text": "1",
+          "x": 120,
+          "y": 1068,
+          "width": 55.875,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA MACHINE",
+          "x": 120,
+          "y": 379,
+          "width": 263.03125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 735,
+      "boxes": [
+        {
+          "text": "5",
+          "x": 120,
+          "y": 1068,
+          "width": 85.515625,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA MACHINE",
+          "x": 120,
+          "y": 379,
+          "width": 263.03125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 810,
+      "boxes": [
+        {
+          "text": "5",
+          "x": 120,
+          "y": 1068,
+          "width": 85.515625,
+          "height": 228
+        },
+        {
+          "text": "BALLONS D’OR",
+          "x": 330,
+          "y": 1196,
+          "width": 298.25,
+          "height": 70
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA MACHINE",
+          "x": 120,
+          "y": 379,
+          "width": 263.03125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 924,
+      "boxes": [
+        {
+          "text": "2008",
+          "x": 125,
+          "y": 972,
+          "width": 83.21875,
+          "height": 55
+        },
+        {
+          "text": "2014",
+          "x": 289,
+          "y": 972,
+          "width": 78.625,
+          "height": 55
+        },
+        {
+          "text": "2016",
+          "x": 453,
+          "y": 972,
+          "width": 76,
+          "height": 55
+        },
+        {
+          "text": "2017",
+          "x": 617,
+          "y": 972,
+          "width": 74.671875,
+          "height": 55
+        },
+        {
+          "text": "2018",
+          "x": 781,
+          "y": 972,
+          "width": 75.765625,
+          "height": 55
+        },
+        {
+          "text": "5 LIGUES DES CHAMPIONS",
+          "x": 120,
+          "y": 1291,
+          "width": 447.078125,
+          "height": 59
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "CINQ FOIS AU SOMMET",
+          "x": 120,
+          "y": 379,
+          "width": 480.625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 990,
+      "boxes": [
+        {
+          "text": "2008",
+          "x": 125,
+          "y": 972,
+          "width": 83.21875,
+          "height": 55
+        },
+        {
+          "text": "2014",
+          "x": 289,
+          "y": 972,
+          "width": 78.625,
+          "height": 55
+        },
+        {
+          "text": "2016",
+          "x": 453,
+          "y": 972,
+          "width": 76,
+          "height": 55
+        },
+        {
+          "text": "2017",
+          "x": 617,
+          "y": 972,
+          "width": 74.671875,
+          "height": 55
+        },
+        {
+          "text": "2018",
+          "x": 781,
+          "y": 972,
+          "width": 75.765625,
+          "height": 55
+        },
+        {
+          "text": "5 LIGUES DES CHAMPIONS",
+          "x": 120,
+          "y": 1291,
+          "width": 447.078125,
+          "height": 59
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "CINQ FOIS AU SOMMET",
+          "x": 120,
+          "y": 379,
+          "width": 480.625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1095,
+      "boxes": [
+        {
+          "text": "2016",
+          "x": 120,
+          "y": 1084,
+          "width": 280.84375,
+          "height": 204
+        },
+        {
+          "text": "EURO",
+          "x": 500,
+          "y": 1185,
+          "width": 142.96875,
+          "height": 91
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 500,
+          "y": 1277,
+          "width": 220.265625,
+          "height": 51
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA SÉLECTION AUSSI",
+          "x": 120,
+          "y": 379,
+          "width": 433.0625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1185,
+      "boxes": [
+        {
+          "text": "2016",
+          "x": 120,
+          "y": 1084,
+          "width": 280.84375,
+          "height": 204
+        },
+        {
+          "text": "EURO",
+          "x": 500,
+          "y": 1185,
+          "width": 142.96875,
+          "height": 91
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 500,
+          "y": 1277,
+          "width": 220.265625,
+          "height": 51
+        },
+        {
+          "text": "RONALDO",
+          "x": 120,
+          "y": 211,
+          "width": 474.046875,
+          "height": 168
+        },
+        {
+          "text": "LA SÉLECTION AUSSI",
+          "x": 120,
+          "y": 379,
+          "width": 433.0625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1231,
+      "boxes": [
+        {
+          "text": "1998",
+          "x": 650,
+          "y": 974,
+          "width": 163.203125,
+          "height": 120
+        },
+        {
+          "text": "DEUX BUTS",
+          "x": 650,
+          "y": 1097,
+          "width": 171.40625,
+          "height": 52
+        },
+        {
+          "text": "EN FINALE",
+          "x": 650,
+          "y": 1152,
+          "width": 160.53125,
+          "height": 52
+        },
+        {
+          "text": "MONDIAL 1998 → EURO 2000",
+          "x": 120,
+          "y": 1282,
+          "width": 476.15625,
+          "height": 55
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "L’ÉLÉGANCE",
+          "x": 120,
+          "y": 379,
+          "width": 256.40625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1233,
+      "boxes": [
+        {
+          "text": "1998",
+          "x": 650,
+          "y": 974,
+          "width": 163.203125,
+          "height": 120
+        },
+        {
+          "text": "DEUX BUTS",
+          "x": 650,
+          "y": 1097,
+          "width": 171.40625,
+          "height": 52
+        },
+        {
+          "text": "EN FINALE",
+          "x": 650,
+          "y": 1152,
+          "width": 160.53125,
+          "height": 52
+        },
+        {
+          "text": "MONDIAL 1998 → EURO 2000",
+          "x": 120,
+          "y": 1282,
+          "width": 476.15625,
+          "height": 55
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "L’ÉLÉGANCE",
+          "x": 120,
+          "y": 379,
+          "width": 256.40625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1275,
+      "boxes": [
+        {
+          "text": "1998",
+          "x": 650,
+          "y": 974,
+          "width": 163.203125,
+          "height": 120
+        },
+        {
+          "text": "DEUX BUTS",
+          "x": 650,
+          "y": 1097,
+          "width": 171.40625,
+          "height": 52
+        },
+        {
+          "text": "EN FINALE",
+          "x": 650,
+          "y": 1152,
+          "width": 160.53125,
+          "height": 52
+        },
+        {
+          "text": "MONDIAL 1998 → EURO 2000",
+          "x": 120,
+          "y": 1282,
+          "width": 476.15625,
+          "height": 55
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "L’ÉLÉGANCE",
+          "x": 120,
+          "y": 379,
+          "width": 256.40625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1350,
+      "boxes": [
+        {
+          "text": "1998",
+          "x": 650,
+          "y": 974,
+          "width": 163.203125,
+          "height": 120
+        },
+        {
+          "text": "DEUX BUTS",
+          "x": 650,
+          "y": 1097,
+          "width": 171.40625,
+          "height": 52
+        },
+        {
+          "text": "EN FINALE",
+          "x": 650,
+          "y": 1152,
+          "width": 160.53125,
+          "height": 52
+        },
+        {
+          "text": "MONDIAL 1998 → EURO 2000",
+          "x": 120,
+          "y": 1282,
+          "width": 476.15625,
+          "height": 55
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "L’ÉLÉGANCE",
+          "x": 120,
+          "y": 379,
+          "width": 256.40625,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1464,
+      "boxes": [
+        {
+          "text": "GLASGOW 2002",
+          "x": 120,
+          "y": 1164,
+          "width": 508.40625,
+          "height": 110
+        },
+        {
+          "text": "UNE VOLÉE. UNE FINALE.",
+          "x": 120,
+          "y": 1287,
+          "width": 369.78125,
+          "height": 50
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "LE GESTE QUI RESTE",
+          "x": 120,
+          "y": 379,
+          "width": 418.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1530,
+      "boxes": [
+        {
+          "text": "GLASGOW 2002",
+          "x": 120,
+          "y": 1164,
+          "width": 508.40625,
+          "height": 110
+        },
+        {
+          "text": "UNE VOLÉE. UNE FINALE.",
+          "x": 120,
+          "y": 1287,
+          "width": 369.78125,
+          "height": 50
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "LE GESTE QUI RESTE",
+          "x": 120,
+          "y": 379,
+          "width": 418.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1635,
+      "boxes": [
+        {
+          "text": "GLASGOW 2002",
+          "x": 120,
+          "y": 1164,
+          "width": 508.40625,
+          "height": 110
+        },
+        {
+          "text": "UNE VOLÉE. UNE FINALE.",
+          "x": 120,
+          "y": 1287,
+          "width": 369.78125,
+          "height": 50
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "LE GESTE QUI RESTE",
+          "x": 120,
+          "y": 379,
+          "width": 418.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1725,
+      "boxes": [
+        {
+          "text": "GLASGOW 2002",
+          "x": 120,
+          "y": 1164,
+          "width": 508.40625,
+          "height": 110
+        },
+        {
+          "text": "UNE VOLÉE. UNE FINALE.",
+          "x": 120,
+          "y": 1287,
+          "width": 369.78125,
+          "height": 50
+        },
+        {
+          "text": "ZIDANE",
+          "x": 120,
+          "y": 211,
+          "width": 362.046875,
+          "height": 168
+        },
+        {
+          "text": "LE GESTE QUI RESTE",
+          "x": 120,
+          "y": 379,
+          "width": 418.21875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1771,
+      "boxes": [
+        {
+          "text": "LE PLAISIR DE TENTER.",
+          "x": 120,
+          "y": 1245,
+          "width": 582.40625,
+          "height": 84
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "LA MAGIE",
+          "x": 120,
+          "y": 379,
+          "width": 197.796875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1773,
+      "boxes": [
+        {
+          "text": "LE PLAISIR DE TENTER.",
+          "x": 120,
+          "y": 1245,
+          "width": 582.40625,
+          "height": 84
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "LA MAGIE",
+          "x": 120,
+          "y": 379,
+          "width": 197.796875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1815,
+      "boxes": [
+        {
+          "text": "LE PLAISIR DE TENTER.",
+          "x": 120,
+          "y": 1245,
+          "width": 582.40625,
+          "height": 84
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "LA MAGIE",
+          "x": 120,
+          "y": 379,
+          "width": 197.796875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1890,
+      "boxes": [
+        {
+          "text": "LE PLAISIR DE TENTER.",
+          "x": 120,
+          "y": 1245,
+          "width": 582.40625,
+          "height": 84
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "LA MAGIE",
+          "x": 120,
+          "y": 379,
+          "width": 197.796875,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2004,
+      "boxes": [
+        {
+          "text": "LE JEU EN LIBERTÉ.",
+          "x": 120,
+          "y": 1225,
+          "width": 564.171875,
+          "height": 96
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "UN JEU LIBRE",
+          "x": 120,
+          "y": 379,
+          "width": 277.09375,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2070,
+      "boxes": [
+        {
+          "text": "LE JEU EN LIBERTÉ.",
+          "x": 120,
+          "y": 1225,
+          "width": 564.171875,
+          "height": 96
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "UN JEU LIBRE",
+          "x": 120,
+          "y": 379,
+          "width": 277.09375,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2175,
+      "boxes": [
+        {
+          "text": "2002",
+          "x": 145,
+          "y": 1286,
+          "width": 117.921875,
+          "height": 78
+        },
+        {
+          "text": "2005",
+          "x": 425,
+          "y": 1286,
+          "width": 117.859375,
+          "height": 78
+        },
+        {
+          "text": "2006",
+          "x": 705,
+          "y": 1286,
+          "width": 117.921875,
+          "height": 78
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "TROIS SOMMETS",
+          "x": 120,
+          "y": 379,
+          "width": 343.828125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2265,
+      "boxes": [
+        {
+          "text": "2002",
+          "x": 145,
+          "y": 1286,
+          "width": 117.921875,
+          "height": 78
+        },
+        {
+          "text": "2005",
+          "x": 425,
+          "y": 1286,
+          "width": 117.859375,
+          "height": 78
+        },
+        {
+          "text": "2006",
+          "x": 705,
+          "y": 1286,
+          "width": 117.921875,
+          "height": 78
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 120,
+          "y": 212,
+          "width": 555.125,
+          "height": 144
+        },
+        {
+          "text": "TROIS SOMMETS",
+          "x": 120,
+          "y": 379,
+          "width": 343.828125,
+          "height": 52
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2311,
+      "boxes": [
+        {
+          "text": "UN SEUL DOIT",
+          "x": 120,
+          "y": 175,
+          "width": 400.90625,
+          "height": 98
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 267,
+          "width": 498.109375,
+          "height": 120
+        },
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 717,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 717,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1097,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1098,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "TON CHOIX ? POURQUOI ?",
+          "x": 120,
+          "y": 1215,
+          "width": 642.6875,
+          "height": 86
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 200,
+          "y": 1327,
+          "width": 229.25,
+          "height": 48
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1327,
+          "width": 214.203125,
+          "height": 48
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2313,
+      "boxes": [
+        {
+          "text": "UN SEUL DOIT",
+          "x": 120,
+          "y": 175,
+          "width": 400.90625,
+          "height": 98
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 267,
+          "width": 498.109375,
+          "height": 120
+        },
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 717,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 717,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1097,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1098,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "TON CHOIX ? POURQUOI ?",
+          "x": 120,
+          "y": 1215,
+          "width": 642.6875,
+          "height": 86
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 200,
+          "y": 1327,
+          "width": 229.25,
+          "height": 48
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1327,
+          "width": 214.203125,
+          "height": 48
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2340,
+      "boxes": [
+        {
+          "text": "UN SEUL DOIT",
+          "x": 120,
+          "y": 175,
+          "width": 400.90625,
+          "height": 98
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 267,
+          "width": 498.109375,
+          "height": 120
+        },
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 702,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 702,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1082,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1083,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "TON CHOIX ? POURQUOI ?",
+          "x": 120,
+          "y": 1215,
+          "width": 642.6875,
+          "height": 86
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 200,
+          "y": 1327,
+          "width": 229.25,
+          "height": 48
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1327,
+          "width": 214.203125,
+          "height": 48
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2430,
+      "boxes": [
+        {
+          "text": "UN SEUL DOIT",
+          "x": 120,
+          "y": 175,
+          "width": 400.90625,
+          "height": 98
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 267,
+          "width": 498.109375,
+          "height": 120
+        },
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 702,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 702,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1082,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1083,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "TON CHOIX ? POURQUOI ?",
+          "x": 120,
+          "y": 1215,
+          "width": 642.6875,
+          "height": 86
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 200,
+          "y": 1327,
+          "width": 229.25,
+          "height": 48
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1327,
+          "width": 214.203125,
+          "height": 48
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2634,
+      "boxes": [
+        {
+          "text": "UN SEUL DOIT",
+          "x": 120,
+          "y": 175,
+          "width": 400.90625,
+          "height": 98
+        },
+        {
+          "text": "DISPARAÎTRE.",
+          "x": 120,
+          "y": 267,
+          "width": 498.109375,
+          "height": 120
+        },
+        {
+          "text": "MESSI",
+          "x": 140,
+          "y": 702,
+          "width": 132.8125,
+          "height": 74
+        },
+        {
+          "text": "RONALDO",
+          "x": 565,
+          "y": 702,
+          "width": 209.9375,
+          "height": 74
+        },
+        {
+          "text": "ZIDANE",
+          "x": 140,
+          "y": 1082,
+          "width": 160.34375,
+          "height": 74
+        },
+        {
+          "text": "RONALDINHO",
+          "x": 565,
+          "y": 1083,
+          "width": 235.9375,
+          "height": 61
+        },
+        {
+          "text": "TON CHOIX ? POURQUOI ?",
+          "x": 120,
+          "y": 1215,
+          "width": 642.6875,
+          "height": 86
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 200,
+          "y": 1327,
+          "width": 229.25,
+          "height": 48
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1327,
+          "width": 214.203125,
+          "height": 48
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px LegendTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px LegendBody",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "subtitleZone": [
+    110,
+    1400,
+    820,
+    200
+  ]
+}

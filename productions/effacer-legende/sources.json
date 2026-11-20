@@ -1,0 +1,75 @@
+{
+  "accessedAt": "2026-11-19",
+  "claims": [
+    {
+      "id": "messi",
+      "claim": "8 Ballons d’Or (2009,2010,2011,2012,2015,2019,2021,2023), champion du monde 2022",
+      "title": "Lionel Messi — Honours and achievements",
+      "url": "https://messi.com/en/honours-and-achievements/",
+      "evidence": "8 Ballon d’Or ; 1 FIFA World Cup 2022",
+      "status": "verified"
+    },
+    {
+      "id": "ronaldo-ucl",
+      "claim": "5 Ligues des champions : 2008,2014,2016,2017,2018",
+      "title": "UEFA — Ronaldo first to win five Champions League titles",
+      "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c5117b83097-712dd4b75ccb-1000--ronaldo-first-to-win-five-champions-league-titles/",
+      "evidence": "Cristiano Ronaldo has become the first player to win the UEFA Champions League five times.",
+      "status": "verified"
+    },
+    {
+      "id": "ronaldo-euro",
+      "claim": "Portugal champion d’Europe 2016",
+      "title": "UEFA — EURO 2016",
+      "url": "https://www.uefa.com/uefaeuro/history/seasons/2016/",
+      "evidence": "Winners Portugal ; Portugal 1-0 France",
+      "status": "verified"
+    },
+    {
+      "id": "ronaldo-ballons",
+      "claim": "5 Ballons d’Or au total",
+      "title": "Cristiano Ronaldo — palmarès individuel",
+      "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "evidence": "2008,2013,2014,2016,2017",
+      "status": "verified"
+    },
+    {
+      "id": "zidane",
+      "claim": "Mondial 1998, Euro 2000, volée en finale de la Ligue des champions 2002",
+      "title": "Real Madrid — Zinédine Zidane",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/zinedine-zidane",
+      "evidence": "1998 World Cup ; 2000 European Championship ; volley in 2002",
+      "status": "verified"
+    },
+    {
+      "id": "zidane-final",
+      "claim": "Deux buts de la tête en finale du Mondial 1998",
+      "title": "Zinédine Zidane — Coupe du monde 1998",
+      "url": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
+      "evidence": "France 3–0 Brazil ; two headed goals",
+      "status": "verified"
+    },
+    {
+      "id": "ronaldinho-club",
+      "claim": "Ballon d’Or 2005, Ligue des champions 2006",
+      "title": "FC Barcelona — Ronaldo de Assis Moreira, Ronaldinho",
+      "url": "https://www.fcbarcelona.com/en/card/648040/ronaldo-de-assis-moreira-ronaldinho",
+      "evidence": "Ballon d’Or (2005) ; Champions League (2005/06)",
+      "status": "verified"
+    },
+    {
+      "id": "ronaldinho-world",
+      "claim": "Champion du monde 2002 avec le Brésil",
+      "title": "Ronaldinho — carrière internationale",
+      "url": "https://en.wikipedia.org/wiki/Ronaldinho",
+      "evidence": "2002 FIFA World Cup",
+      "status": "verified"
+    }
+  ],
+  "editorialNotes": [
+    "Génie, machine, élégance et magie sont des angles éditoriaux, pas des classements objectifs.",
+    "La volée est un schéma original simplifié, sans prétendre retracer les positions mesurées du match.",
+    "Les photographies de trophées sont des illustrations génériques réelles ; elles ne représentent pas chacun des exemplaires remportés par le joueur.",
+    "Les photos de Zidane 2006, Ronaldo Portugal 2013 et Ronaldinho 2007 ne sont pas des archives des finales citées."
+  ]
+}

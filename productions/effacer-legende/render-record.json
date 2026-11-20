@@ -1,0 +1,19 @@
+{
+  "sha256": "bdcb9bfa96045b34e9235080a7a5a08be326193a0f5c7d006ffa8c0f90e0262b",
+  "composition": "EraseLegend",
+  "engine": "Remotion 4.0.544",
+  "generatedAt": "2026-11-20T07:34:16.279Z",
+  "workingVoice": false,
+  "subtitles": false,
+  "audio": "original-instrumental-and-sfx",
+  "sourceHashes": {
+    "src/productions/erase-legend/Bookends.tsx": "6af1d53f9b9e8b2dc117de2dad25c7a09ef589e89909939602b09aaec6a8d082",
+    "src/productions/erase-legend/index.tsx": "15059350502a61fd6d7150ffe79be7cd6422ee90fdb5e9f7721a235ae49dc6be",
+    "src/productions/erase-legend/Design.tsx": "9fe0867471e09c0e4915277aecff043ee0be78e16c094110dfdc81d6d42bdac8",
+    "src/productions/erase-legend/Chapters.tsx": "90b9282c87cae7423cfaccf1c526e44736f22598a9b028f3412db98ed93084e5",
+    "src/productions/erase-legend/Diagrams.tsx": "589ad822510d34b1a3299a32cfe56c91dea4e52128e45cf5bae96f5e64ecb0eb",
+    "src/WorkshopShell.tsx": "e249a3381c506ccda609bb306aa0a857d3a0c48e940d76453c259faca7486f14",
+    "src/productions/zidane/Assets.tsx": "3ffbfa154e6e73ef34b6e86f0dc866465d9d5dece6b9ac00cc3a57eac921bf0c",
+    "productions/effacer-legende/players.json": "d2a5659f9a8a4c6fe26d0f8fc5688c5dec698233edf97679a1ead1a0c80f0a17"
+  }
+}

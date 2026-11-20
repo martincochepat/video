@@ -92,3 +92,9 @@ Composition `ThreePredictions`, 27 s, 1080 × 1920 à30fps. **Maquette non publi
 Composition `FiveScores`, 1080×1920 à30fps, durée mesurée49,17s. Cinq affiches et données de championnat vérifiées sur l’API officielle de Ligue1, dix photographies CC0, logo officiel et voix de travail locale. Voir [les notes et commandes de reprise](productions/cinq-scores-v4/production-notes.md). Rendu : `node productions/cinq-scores-v4/render.mjs render`. Cette production ne remplace pas les précédentes.
 
 Dernière variante de montage : `FiveScoresClean`, sans voix ni sous-titres intégrés, sans la mention « Archives · Pronostics », avec dates et horaires conservés. Bruitages seuls ; commandes et détails dans [clean-notes.md](productions/cinq-scores-v4/clean-notes.md).
+
+## Football Stories — « Tu dois effacer une légende »
+
+Composition `EraseLegend` : Messi, Cristiano Ronaldo, Zidane, Ronaldinho, 88s en1080×1920/30fps. Photos réutilisables, schémas animés et musique instrumentale originale. Sans voix ni sous-titres intégrés ; script séparé et espace réservé pour le futur sous-titrage. Les dates et le palmarès utiles restent affichés.
+
+Dossier de reprise : [productions/effacer-legende](productions/effacer-legende/README.md). Rendu : `node productions/effacer-legende/render.mjs render` ; sondes : `node productions/effacer-legende/render.mjs stills` ; examen du MP4 : `python productions/effacer-legende/verify-episode.py`. Crédits des médias à conserver : [credits.md](productions/effacer-legende/credits.md). Toutes les productions antérieures sont préservées.

@@ -1,0 +1,70 @@
+{
+  "sha256": "bdcb9bfa96045b34e9235080a7a5a08be326193a0f5c7d006ffa8c0f90e0262b",
+  "subtitleStreams": 0,
+  "blackIntervals": [],
+  "audioLevels": {
+    "input_i": "-20.19",
+    "input_tp": "-6.38",
+    "input_lra": "2.30",
+    "input_thresh": "-30.23",
+    "output_i": "-20.00",
+    "output_tp": "-6.33",
+    "output_lra": "2.20",
+    "output_thresh": "-30.02",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.00"
+  },
+  "audioCosineVsOriginalInstrumental": 0.9999830722808838,
+  "voiceGenerated": false,
+  "keyTimes": [
+    0.5,
+    18.5,
+    33,
+    51.2,
+    73,
+    86
+  ],
+  "motionWindows": [
+    [
+      "hook",
+      3.3,
+      4.5
+    ],
+    [
+      "messi",
+      4.8,
+      5.8
+    ],
+    [
+      "vision",
+      10.2,
+      11.4
+    ],
+    [
+      "ronaldo",
+      22.8,
+      23.8
+    ],
+    [
+      "zidane",
+      40.8,
+      41.8
+    ],
+    [
+      "vollee",
+      49.7,
+      51.8
+    ],
+    [
+      "memoire",
+      54.1,
+      55.3
+    ],
+    [
+      "choix",
+      76.8,
+      78
+    ]
+  ],
+  "inspectionMethod": "MP4 décodé : planche de six moments et 8 extraits échantillonnés à10 images/s. Examen visuel image par image, pas lecture perceptive continue ni écoute humaine certifiée."
+}

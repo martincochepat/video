@@ -1,0 +1,77 @@
+{
+  "id": "effacer-legende",
+  "component": "EraseLegend",
+  "status": "rendered-and-reviewed",
+  "profile": "ligue-onze",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationSeconds": 88,
+  "safeArea": {
+    "top": 145,
+    "right": 145,
+    "bottom": 320,
+    "left": 100
+  },
+  "subtitleReservedArea": [
+    110,
+    1400,
+    820,
+    200
+  ],
+  "palette": {
+    "background": "#080B0E",
+    "foreground": "#F6F7F8",
+    "accent": "#C8FF00",
+    "muted": "#ADB8BF"
+  },
+  "voice": null,
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 52,
+    "maxChars": 70
+  },
+  "captions": [],
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 5
+    },
+    {
+      "id": "messi",
+      "startSeconds": 5,
+      "endSeconds": 23
+    },
+    {
+      "id": "ronaldo",
+      "startSeconds": 23,
+      "endSeconds": 41
+    },
+    {
+      "id": "zidane",
+      "startSeconds": 41,
+      "endSeconds": 59
+    },
+    {
+      "id": "ronaldinho",
+      "startSeconds": 59,
+      "endSeconds": 77
+    },
+    {
+      "id": "choice",
+      "startSeconds": 77,
+      "endSeconds": 88
+    }
+  ],
+  "qaFonts": [
+    "800 60px LegendTitle",
+    "600 44px LegendBody"
+  ],
+  "reference": "REF-001",
+  "audio": {
+    "src": "productions/effacer-legende/music-and-sfx.wav",
+    "type": "original-instrumental-and-sfx",
+    "containsVoice": false
+  }
+}

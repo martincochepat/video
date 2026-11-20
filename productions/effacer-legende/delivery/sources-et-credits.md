@@ -1,0 +1,41 @@
+# Sources historiques
+
+Consultées le 19 novembre 2026.
+
+- 8 Ballons d’Or (2009,2010,2011,2012,2015,2019,2021,2023), champion du monde 2022 — [Lionel Messi — Honours and achievements](https://messi.com/en/honours-and-achievements/).
+- 5 Ligues des champions : 2008,2014,2016,2017,2018 — [UEFA — Ronaldo first to win five Champions League titles](https://www.uefa.com/uefachampionsleague/news/0250-0c5117b83097-712dd4b75ccb-1000--ronaldo-first-to-win-five-champions-league-titles/).
+- Portugal champion d’Europe 2016 — [UEFA — EURO 2016](https://www.uefa.com/uefaeuro/history/seasons/2016/).
+- 5 Ballons d’Or au total — [Cristiano Ronaldo — palmarès individuel](https://en.wikipedia.org/wiki/Cristiano_Ronaldo).
+- Mondial 1998, Euro 2000, volée en finale de la Ligue des champions 2002 — [Real Madrid — Zinédine Zidane](https://www.realmadrid.com/en-US/the-club/history/football-legends/zinedine-zidane).
+- Deux buts de la tête en finale du Mondial 1998 — [Zinédine Zidane — Coupe du monde 1998](https://en.wikipedia.org/wiki/Zinedine_Zidane).
+- Ballon d’Or 2005, Ligue des champions 2006 — [FC Barcelona — Ronaldo de Assis Moreira, Ronaldinho](https://www.fcbarcelona.com/en/card/648040/ronaldo-de-assis-moreira-ronaldinho).
+- Champion du monde 2002 avec le Brésil — [Ronaldinho — carrière internationale](https://en.wikipedia.org/wiki/Ronaldinho).
+
+# Crédits — Effacer une légende
+
+Les photos sont recadrées et animées. Les dates ci-dessous désignent les prises de vue, pas nécessairement les événements racontés. Aucune photo générée par IA. Les droits à l’image et de marque restent ceux de leurs titulaires ; la licence photographique ne constitue pas une recommandation des personnes représentées.
+
+- **messi-portrait** : [File:Lionel Messi 2025.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_2025.jpg) — Andy Witchger — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2025-05-10 16:15:51. Recadrage, mise en cadre et animation.
+- **messi-action** : [File:Messi takes it around the defender (1479546160).jpg](https://commons.wikimedia.org/wiki/File:Messi_takes_it_around_the_defender_(1479546160).jpg) — Michael Bryan from Brussels, UK/Belgium — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2007-09-29 23:05. Recadrage, mise en cadre et animation.
+- **messi-barca** : [File:Lionel Messi Joan Gamper Trophy.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_Joan_Gamper_Trophy.jpg) — Tsutomu Takasu — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2009-08-20 06:33:34. Recadrage, mise en cadre et animation.
+- **messi-world** : [File:Lionel Messi WC2022.jpg](https://commons.wikimedia.org/wiki/File:Lionel_Messi_WC2022.jpg) — Hossein Zohrevand — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Date : 2022-12-02 23:45:50. Recadrage, mise en cadre et animation.
+- **ronaldo-portrait** : [File:Cristiano Ronaldo (cropped).jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_(cropped).jpg) — Austin Osuide — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2006-12-09. Recadrage, mise en cadre et animation.
+- **ronaldo-united** : [File:Cristiano Ronaldo ~ Manchester United.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_~_Manchester_United.jpg) — Paolo Camera — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2009-02-21 19:41:11. Recadrage, mise en cadre et animation.
+- **ronaldo-award** : [File:Cristiano Ronaldo - Ballon d'Or.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_-_Ballon_d%27Or.jpg) — Anish Morarji from St Albans, England — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2015-01-15 20:09. Recadrage, mise en cadre et animation.
+- **ronaldo-shot** : [File:Cristiano Ronaldo shoots.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_shoots.jpg) — Amit Bronstein — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2013-03-22 15:24:48. Recadrage, mise en cadre et animation.
+- **ronaldo-portugal** : [File:Cristiano Ronaldo 2013.jpg](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2013.jpg) — Amit Bronstein — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2013-03-22 17:11:06. Recadrage, mise en cadre et animation.
+- **zidane-portrait** : [File:Zinedine zidane wcf 2006-edit.jpg](https://commons.wikimedia.org/wiki/File:Zinedine_zidane_wcf_2006-edit.jpg) — David Ruddell modified by SuperManu — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2006-07-10 04:24. Recadrage, mise en cadre et animation.
+- **zidane-field** : [File:Italy vs France 2006.jpg](https://commons.wikimedia.org/wiki/File:Italy_vs_France_2006.jpg) — David Ruddell — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2006-07-10 02:55:37. Recadrage, mise en cadre et animation.
+- **ronaldinho-portrait** : [File:2019 - Backstage - Day 1 EN1 3604 (49019498091).jpg](https://commons.wikimedia.org/wiki/File:2019_-_Backstage_-_Day_1_EN1_3604_(49019498091).jpg) — Web Summit — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2019-11-05 16:15. Recadrage, mise en cadre et animation.
+- **ronaldinho-freekick** : [File:Barcelona Ronaldinho Free Kick.jpg](https://commons.wikimedia.org/wiki/File:Barcelona_Ronaldinho_Free_Kick.jpg) — John Lindie — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2006-11-12 22:49:13. Recadrage, mise en cadre et animation.
+- **ronaldinho-penalty** : [File:Ronaldinho Barça-Hearts.jpg](https://commons.wikimedia.org/wiki/File:Ronaldinho_Bar%C3%A7a-Hearts.jpg) — Justin Brockie — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2007-07-28. Recadrage, mise en cadre et animation.
+- **world-cup** : [File:FIFA World Cup Trophy photo by Djuradj Vujcic.jpg](https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg) — Djuradj Vujcic — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2026-05-26 18:08:08. Recadrage, mise en cadre et animation.
+- **golden-ball** : [File:FIFA Ballon d'Or 2010 – Barcelona Museum.jpg](https://commons.wikimedia.org/wiki/File:FIFA_Ballon_d%27Or_2010_%E2%80%93_Barcelona_Museum.jpg) — Rafael Curtinaz Severo — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2012-11-12 12:21:08. Recadrage, mise en cadre et animation.
+- **champions-cup** : [File:UEFA Champions LeagueTrophy7612.png](https://commons.wikimedia.org/wiki/File:UEFA_Champions_LeagueTrophy7612.png) — David Flores — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Date : 2010/07/24. Recadrage, mise en cadre et animation.
+- **zidane-face** : [XII Prix Diálogo (18485723248)](https://www.flickr.com/photos/131458192@N02/18485723248/) — power axle — [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Date : 2015-06-09. Recadrage, mise en cadre et animation.
+
+Logo officiel : https://ligueonze.fr/icon-512.png, utilisé pour cette production Ligue Onze.
+Polices : Barlow Condensed (SIL OFL), Figtree (SIL OFL), Bricolage Grotesque (SIL OFL) ; licences dans les dossiers publics des productions sources.
+Musique et bruitages : composition synthétisée originale, code `make-audio.py`. Aucun sample tiers ni voix.
+
+La référence REF-001 inspire les mécanismes de composition et de transformation d’objets. Aucun extrait de cette vidéo n’est incorporé.

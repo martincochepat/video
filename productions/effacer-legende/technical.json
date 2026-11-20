@@ -1,0 +1,17 @@
+{
+  "sha256": "bdcb9bfa96045b34e9235080a7a5a08be326193a0f5c7d006ffa8c0f90e0262b",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 2640,
+  "videoDuration": 88,
+  "containerDuration": 88,
+  "pixelFormat": "yuv420p",
+  "colorRange": "tv",
+  "audio": {
+    "codec": "aac",
+    "sampleRate": "48000",
+    "channels": 2
+  },
+  "fullDecode": true
+}

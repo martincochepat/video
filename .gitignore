@@ -12,3 +12,6 @@ examples/hyperframes-smoke/renders/
 references/motion-library/media/*
 !references/motion-library/media/.gitkeep
 .hyperframes/
+
+# Caches Python des outils de production.
+__pycache__/
