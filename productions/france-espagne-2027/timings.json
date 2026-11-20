@@ -1,0 +1,45 @@
+{
+  "basis": "editorial-silent-reading",
+  "durationSeconds": 90,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 7
+    },
+    {
+      "id": "history",
+      "startSeconds": 7,
+      "endSeconds": 22
+    },
+    {
+      "id": "spain",
+      "startSeconds": 22,
+      "endSeconds": 37
+    },
+    {
+      "id": "france",
+      "startSeconds": 37,
+      "endSeconds": 52
+    },
+    {
+      "id": "calendar",
+      "startSeconds": 52,
+      "endSeconds": 64
+    },
+    {
+      "id": "draw",
+      "startSeconds": 64,
+      "endSeconds": 76
+    },
+    {
+      "id": "debate",
+      "startSeconds": 76,
+      "endSeconds": 90
+    }
+  ],
+  "audio": false,
+  "subtitles": false,
+  "note": "Rythme de lecture des textes éditoriaux, sans narration et sans sous-titre."
+}

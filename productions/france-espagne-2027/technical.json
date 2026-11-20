@@ -1,0 +1,14 @@
+{
+  "sha256": "dc0dc9745e9096865ac97cc53a603550921ae1c15638bd473d0cebe16bed534a",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 2700,
+  "videoDuration": 90,
+  "containerDuration": 90,
+  "pixelFormat": "yuv420p",
+  "colorRange": "tv",
+  "audio": null,
+  "subtitleStreams": 0,
+  "fullDecode": true
+}

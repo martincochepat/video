@@ -102,3 +102,9 @@ Dossier de reprise : [productions/effacer-legende](productions/effacer-legende/R
 ## Trois pronostics — matchs du 21 novembre 2026
 
 Composition `NovemberPredictions`, 35s en1080×1920/30fps, pour publication prévue le20novembre. Nice–Paris SG1–2, Séville–Betis1–2, Newcastle–Arsenal1–1 : pronostics éditoriaux sur des rencontres futures vérifiées. Vidéo de travail sans voix ni sous-titres intégrés, script à enregistrer et SRT provisoire séparés. [Reprise, sources et contrôles](productions/pronos-21-nov/README.md). Les productions précédentes restent intactes.
+
+## France–Espagne : encore eux — tirage des quarts 2026–2027
+
+Composition `FranceSpainNews`, 90s en1080×1920/30fps. Film entièrement silencieux : **aucun flux audio et aucun sous-titre**. Photos d’illustration autorisées, chronologie des résultats officiels, calendrier25/28mars2027 et tableau complet du tirage. Sources et précision sur les incohérences des pages fédérales dans [le dossier de production](productions/france-espagne-2027/README.md).
+
+Rendre : `node productions/france-espagne-2027/render.mjs render`. Contrôles : `node productions/france-espagne-2027/render.mjs stills`, puis `python productions/france-espagne-2027/verify-episode.py`. Textes, données sportives, sources, licences et paramètres d’export sont séparés. Les épisodes précédents restent inchangés.

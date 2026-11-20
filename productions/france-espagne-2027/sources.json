@@ -1,0 +1,94 @@
+{
+  "accessedAt": "2026-11-20",
+  "sources": [
+    {
+      "id": "draw-fff",
+      "claim": "Affiche, tirage du20novembre2026, parcours des équipes, entraîneurs et contexte",
+      "url": "https://www.fff.fr/article/17819-espagne-france-en-quarts.html",
+      "title": "FFF — Espagne-France en quarts",
+      "evidence": "France première du groupeA1 ; Espagne deuxième du groupeA3,15points,5victoires/1défaite,16buts/8encaissés. Yamal4buts,Merino3. Trois victoires espagnoles consécutives face aux Bleus. Zidane sélectionneur France, Luis de la Fuente Espagne.",
+      "status": "verified"
+    },
+    {
+      "id": "draw-rfef",
+      "claim": "Confrontation confirmée, dernier précédent mondial0–2 et ses buteurs",
+      "url": "https://rfef.es/es/noticias/espana-se-medira-francia-en-los-cuartos-de-final-de-la-uefa-nations-league",
+      "title": "RFEF — España se medirá a Francia",
+      "evidence": "Demi-finale du Mondial2026 gagnée2–0 par Espagne ; Oyarzabal et PedroPorro buteurs. Le paragraphe domicile/extérieur est incohérent avec UEFA : non repris.",
+      "status": "verified"
+    },
+    {
+      "id": "first-leg",
+      "claim": "Espagne–France aller25mars2027,20h45Paris",
+      "url": "https://match.uefa.com/v5/matches/2050900",
+      "title": "UEFA — données officielles match2050900",
+      "evidence": "Spain home, France away ;2027-03-25T19:45Z ;1stleg.",
+      "status": "verified"
+    },
+    {
+      "id": "second-leg",
+      "claim": "France–Espagne retour28mars2027,20h45Paris",
+      "url": "https://match.uefa.com/v5/matches/2050897",
+      "title": "UEFA — données officielles match2050897",
+      "evidence": "France home, Spain away ;2027-03-28T18:45Z ;2ndleg. Passage àUTC+2 le28mars.",
+      "status": "verified"
+    },
+    {
+      "id": "euro-2024",
+      "claim": "Demi-finale Euro2024 : Espagne2–1France,9juillet2024",
+      "url": "https://match.uefa.com/v5/matches/2036209",
+      "title": "UEFA — données officielles match2036209",
+      "evidence": "Spain2,France1,09July2024. Résultat terminé.",
+      "status": "verified"
+    },
+    {
+      "id": "nl-2025",
+      "claim": "Demi-finale NationsLeague2025 : Espagne5–4France,5juin2025",
+      "url": "https://match.uefa.com/v5/matches/2043065",
+      "title": "UEFA — données officielles match2043065",
+      "evidence": "Spain5,France4,05June2025, vérifié dans la liste officielle de la saison2025.",
+      "status": "verified"
+    },
+    {
+      "id": "current-france",
+      "claim": "Mbappé pertinent ennovembre2026 ; pressing à améliorer ; victoire2–1contreTurquie",
+      "url": "https://www.fff.fr/article/17789-zinedine-zidane-toujours-des-choses-a-ameliorer-.html",
+      "title": "FFF — conférence deZidane du15novembre2026",
+      "evidence": "Zidane juge Mbappé trèsbon ; la qualification et la première place du groupe sont acquises ; critique du pressing enpremièrepériode.",
+      "status": "verified"
+    },
+    {
+      "id": "current-players",
+      "claim": "Cherki et Rabiot font partie du groupe utilisé ennovembre2026",
+      "url": "https://www.fff.fr/article/17756-italie-france-les-compos.html",
+      "title": "FFF — compositions Italie-France,12novembre2026",
+      "evidence": "Cherki,DaCunha,Rabiot titulaires ; Olise,Doué,Barcola devant. Ne prouve pas les listes demars2027.",
+      "status": "verified"
+    },
+    {
+      "id": "other-quarters",
+      "claim": "Autres quarts : Belgique–Allemagne,Norvège–Angleterre,Pays-Bas–Portugal",
+      "url": "https://match.uefa.com/v5/matches?competitionId=2014&seasonYear=2027&limit=100&offset=0",
+      "title": "UEFA — calendrier officiel NationsLeague2027",
+      "evidence": "Huit matchs normalisés dans fixtures.json ; recoupement avecFFF17819.",
+      "status": "verified"
+    }
+  ],
+  "editorialCorrections": [
+    "Le tableauFFF indique dimanche27mars, tandis que le corps dit troisjours après25mars ; UEFA confirme dimanche28mars.",
+    "RFEF indique28mars avec un mauvais jour de semaine et inverse les pays dans un paragraphe ; l’ordre UEFA est retenu.",
+    "La page générique de tirage UEFA affiche un vieux message de suspension ; les fiches de matchs officielles et les fédérations confirment le résultat du tirage."
+  ],
+  "derivedFacts": [
+    {
+      "claim": "Yamal etMerino ont inscrit7des16buts espagnols enphase de ligues.",
+      "calculation": "4+3=7 ;16-7=9autres",
+      "source": "FFF17819"
+    }
+  ],
+  "limits": [
+    "Photographies de portraits et d’illustration à leurs dates réelles. Aucune photo des trois France–Espagne récents n’a été retenue sous les conditions de réutilisation choisies ; chronologie réalisée graphiquement, sans fausse archive.",
+    "Sélections demars2027 inconnues ; noms cités comme repères actuels, sans prédire une liste ou composition.",
+    "Aucun pronostic de score exact dans cette vidéo."
+  ]
+}

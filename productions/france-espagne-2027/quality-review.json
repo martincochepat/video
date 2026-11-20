@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "finalSha256": "dc0dc9745e9096865ac97cc53a603550921ae1c15638bd473d0cebe16bed534a",
+  "reviewedArtifact": "productions/france-espagne-2027/delivery/france-espagne-encore-eux-sans-audio.mp4",
+  "understanding": "pass",
+  "composition": "pass",
+  "sceneVariety": "pass",
+  "motion": "pass",
+  "pacing": "pass",
+  "consistency": "pass",
+  "checks": {
+    "durationSeconds": 90,
+    "size": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "audioStreams": 0,
+    "subtitleStreams": 0,
+    "fullDecode": true,
+    "blackIntervals": [],
+    "domProbes": 44,
+    "domErrors": 0,
+    "atelierTestsPassed": 9,
+    "typecheck": "pass",
+    "decodedKeyMoments": 26,
+    "nativeCaptures": 14,
+    "motionWindowsExamined": 12,
+    "motionSamplingFps": 15
+  },
+  "visualFindings": [
+    "Cadrages des deux visages corrigés, titres sous le visage à l’ouverture.",
+    "Chronologie et tableau lisibles sur les images examinées ; ordre France/Espagne cohérent avec les scores.",
+    "Dates aller/retour, affiches et signature finale contrôlées.",
+    "Transitions examinées par bandes d’images ; pas de chevauchement de titres persistant constaté."
+  ],
+  "limits": [
+    "Examen de captures et de 12 fenêtres à 15 images/s, sans lecture humaine continue à vitesse réelle.",
+    "Photos d’illustration datées principalement 2018–2025 ; les trois confrontations passées utilisent une chronologie graphique, sans archives photographiques de ces matchs.",
+    "Schéma de passes illustratif, sans données de suivi.",
+    "Listes de joueurs de mars 2027 inconnues ; contexte de novembre 2026 seulement.",
+    "Contrôles DOM et détection de noir ne garantissent pas toute perception de lisibilité sur chaque écran."
+  ]
+}

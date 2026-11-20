@@ -1,0 +1,2351 @@
+{
+  "checks": [
+    {
+      "frame": 0,
+      "boxes": [
+        {
+          "text": "NON…",
+          "x": 120,
+          "y": 1101,
+          "width": 305.375,
+          "height": 162
+        },
+        {
+          "text": "LE TIRAGE EST TOMBÉ.",
+          "x": 120,
+          "y": 1492,
+          "width": 451.859375,
+          "height": 51
+        },
+        {
+          "text": "PHOTOGRAPHIES D’ILLUSTRATION",
+          "x": 120,
+          "y": 1607,
+          "width": 691.6875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "boxes": [
+        {
+          "text": "NON…",
+          "x": 120,
+          "y": 1101,
+          "width": 305.375,
+          "height": 162
+        },
+        {
+          "text": "ENCORE EUX ?",
+          "x": 120,
+          "y": 1274,
+          "width": 520.921875,
+          "height": 122
+        },
+        {
+          "text": "LE TIRAGE EST TOMBÉ.",
+          "x": 120,
+          "y": 1492,
+          "width": 451.859375,
+          "height": 51
+        },
+        {
+          "text": "PHOTOGRAPHIES D’ILLUSTRATION",
+          "x": 120,
+          "y": 1607,
+          "width": 691.6875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "boxes": [
+        {
+          "text": "NON…",
+          "x": 120,
+          "y": 1101,
+          "width": 305.375,
+          "height": 162
+        },
+        {
+          "text": "ENCORE EUX ?",
+          "x": 120,
+          "y": 1274,
+          "width": 520.921875,
+          "height": 122
+        },
+        {
+          "text": "LE TIRAGE EST TOMBÉ.",
+          "x": 120,
+          "y": 1492,
+          "width": 451.859375,
+          "height": 51
+        },
+        {
+          "text": "PHOTOGRAPHIES D’ILLUSTRATION",
+          "x": 120,
+          "y": 1607,
+          "width": 691.6875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "boxes": [
+        {
+          "text": "L’ESPAGNE.",
+          "x": 120,
+          "y": 1230,
+          "width": 641.25,
+          "height": 186
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "boxes": [
+        {
+          "text": "LIGUE DES NATIONS 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.515625,
+          "height": 51
+        },
+        {
+          "text": "FRANCE",
+          "x": 245,
+          "y": 1007,
+          "width": 370.640625,
+          "height": 156
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 245,
+          "y": 1167,
+          "width": 423.03125,
+          "height": 156
+        },
+        {
+          "text": "QUARTS DE FINALE",
+          "x": 120,
+          "y": 1427,
+          "width": 386.046875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 204,
+      "boxes": [
+        {
+          "text": "LIGUE DES NATIONS 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.515625,
+          "height": 51
+        },
+        {
+          "text": "FRANCE",
+          "x": 245,
+          "y": 1007,
+          "width": 370.640625,
+          "height": 156
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 245,
+          "y": 1167,
+          "width": 423.03125,
+          "height": 156
+        },
+        {
+          "text": "QUARTS DE FINALE",
+          "x": 120,
+          "y": 1427,
+          "width": 386.046875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 206,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 215,
+      "boxes": [
+        {
+          "text": "RÉSULTATS OFFICIELS · DEMI-FINALES",
+          "x": 120,
+          "y": 152,
+          "width": 759.75,
+          "height": 51
+        },
+        {
+          "text": "EURO 2024",
+          "x": 120,
+          "y": 283,
+          "width": 414.4375,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 190,
+          "y": 661,
+          "width": 191.03125,
+          "height": 80
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 630,
+          "y": 661,
+          "width": 218.03125,
+          "height": 80
+        },
+        {
+          "text": "1",
+          "x": 230,
+          "y": 775,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "–",
+          "x": 490,
+          "y": 859,
+          "width": 38.3125,
+          "height": 120
+        },
+        {
+          "text": "2",
+          "x": 670,
+          "y": 775,
+          "width": 112.75,
+          "height": 300
+        },
+        {
+          "text": "LA FINALE S’ÉLOIGNE.",
+          "x": 120,
+          "y": 1176,
+          "width": 502.21875,
+          "height": 77
+        },
+        {
+          "text": "9 JUILLET 2024",
+          "x": 120,
+          "y": 1332,
+          "width": 303.125,
+          "height": 51
+        },
+        {
+          "text": "2024",
+          "x": 130,
+          "y": 1546,
+          "width": 111.09375,
+          "height": 56
+        },
+        {
+          "text": "2025",
+          "x": 470,
+          "y": 1546,
+          "width": 108.796875,
+          "height": 56
+        },
+        {
+          "text": "2026",
+          "x": 810,
+          "y": 1546,
+          "width": 108.609375,
+          "height": 56
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 249,
+      "boxes": [
+        {
+          "text": "RÉSULTATS OFFICIELS · DEMI-FINALES",
+          "x": 120,
+          "y": 152,
+          "width": 759.75,
+          "height": 51
+        },
+        {
+          "text": "EURO 2024",
+          "x": 120,
+          "y": 283,
+          "width": 414.4375,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 190,
+          "y": 661,
+          "width": 191.03125,
+          "height": 80
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 630,
+          "y": 661,
+          "width": 218.03125,
+          "height": 80
+        },
+        {
+          "text": "1",
+          "x": 230,
+          "y": 775,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "–",
+          "x": 490,
+          "y": 859,
+          "width": 38.3125,
+          "height": 120
+        },
+        {
+          "text": "2",
+          "x": 670,
+          "y": 775,
+          "width": 112.75,
+          "height": 300
+        },
+        {
+          "text": "LA FINALE S’ÉLOIGNE.",
+          "x": 120,
+          "y": 1176,
+          "width": 502.21875,
+          "height": 77
+        },
+        {
+          "text": "9 JUILLET 2024",
+          "x": 120,
+          "y": 1332,
+          "width": 303.125,
+          "height": 51
+        },
+        {
+          "text": "2024",
+          "x": 130,
+          "y": 1546,
+          "width": 111.09375,
+          "height": 56
+        },
+        {
+          "text": "2025",
+          "x": 470,
+          "y": 1546,
+          "width": 108.796875,
+          "height": 56
+        },
+        {
+          "text": "2026",
+          "x": 810,
+          "y": 1546,
+          "width": 108.609375,
+          "height": 56
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 315,
+      "boxes": [
+        {
+          "text": "RÉSULTATS OFFICIELS · DEMI-FINALES",
+          "x": 120,
+          "y": 152,
+          "width": 759.75,
+          "height": 51
+        },
+        {
+          "text": "EURO 2024",
+          "x": 120,
+          "y": 283,
+          "width": 414.4375,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 190,
+          "y": 661,
+          "width": 191.03125,
+          "height": 80
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 630,
+          "y": 661,
+          "width": 218.03125,
+          "height": 80
+        },
+        {
+          "text": "1",
+          "x": 230,
+          "y": 775,
+          "width": 73.5,
+          "height": 300
+        },
+        {
+          "text": "–",
+          "x": 490,
+          "y": 859,
+          "width": 38.3125,
+          "height": 120
+        },
+        {
+          "text": "2",
+          "x": 670,
+          "y": 775,
+          "width": 112.75,
+          "height": 300
+        },
+        {
+          "text": "LA FINALE S’ÉLOIGNE.",
+          "x": 120,
+          "y": 1176,
+          "width": 502.21875,
+          "height": 77
+        },
+        {
+          "text": "9 JUILLET 2024",
+          "x": 120,
+          "y": 1332,
+          "width": 303.125,
+          "height": 51
+        },
+        {
+          "text": "2024",
+          "x": 130,
+          "y": 1546,
+          "width": 111.09375,
+          "height": 56
+        },
+        {
+          "text": "2025",
+          "x": 470,
+          "y": 1546,
+          "width": 108.796875,
+          "height": 56
+        },
+        {
+          "text": "2026",
+          "x": 810,
+          "y": 1546,
+          "width": 108.609375,
+          "height": 56
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 384,
+      "boxes": [
+        {
+          "text": "RÉSULTATS OFFICIELS · DEMI-FINALES",
+          "x": 120,
+          "y": 152,
+          "width": 759.75,
+          "height": 51
+        },
+        {
+          "text": "LIGUE DES NATIONS",
+          "x": 120,
+          "y": 283,
+          "width": 733.21875,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 190,
+          "y": 661,
+          "width": 191.03125,
+          "height": 80
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 630,
+          "y": 661,
+          "width": 218.03125,
+          "height": 80
+        },
+        {
+          "text": "4",
+          "x": 230,
+          "y": 775,
+          "width": 127,
+          "height": 300
+        },
+        {
+          "text": "–",
+          "x": 490,
+          "y": 859,
+          "width": 38.3125,
+          "height": 120
+        },
+        {
+          "text": "5",
+          "x": 670,
+          "y": 775,
+          "width": 112.5,
+          "height": 300
+        },
+        {
+          "text": "UN MATCH À NEUF BUTS.",
+          "x": 120,
+          "y": 1176,
+          "width": 558.984375,
+          "height": 77
+        },
+        {
+          "text": "5 JUIN 2025",
+          "x": 120,
+          "y": 1332,
+          "width": 240.375,
+          "height": 51
+        },
+        {
+          "text": "2024",
+          "x": 130,
+          "y": 1546,
+          "width": 111.09375,
+          "height": 56
+        },
+        {
+          "text": "2025",
+          "x": 470,
+          "y": 1546,
+          "width": 108.796875,
+          "height": 56
+        },
+        {
+          "text": "2026",
+          "x": 810,
+          "y": 1546,
+          "width": 108.609375,
+          "height": 56
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 486,
+      "boxes": [
+        {
+          "text": "RÉSULTATS OFFICIELS · DEMI-FINALES",
+          "x": 120,
+          "y": 152,
+          "width": 759.75,
+          "height": 51
+        },
+        {
+          "text": "MONDIAL 2026",
+          "x": 120,
+          "y": 283,
+          "width": 548.953125,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 190,
+          "y": 661,
+          "width": 191.03125,
+          "height": 80
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 630,
+          "y": 661,
+          "width": 218.03125,
+          "height": 80
+        },
+        {
+          "text": "0",
+          "x": 230,
+          "y": 775,
+          "width": 114,
+          "height": 300
+        },
+        {
+          "text": "–",
+          "x": 490,
+          "y": 859,
+          "width": 38.3125,
+          "height": 120
+        },
+        {
+          "text": "2",
+          "x": 670,
+          "y": 775,
+          "width": 112.75,
+          "height": 300
+        },
+        {
+          "text": "L’ÉTÉ S’ARRÊTE EN DEMI.",
+          "x": 120,
+          "y": 1176,
+          "width": 573.578125,
+          "height": 77
+        },
+        {
+          "text": "14 JUILLET 2026",
+          "x": 120,
+          "y": 1332,
+          "width": 320.71875,
+          "height": 51
+        },
+        {
+          "text": "2024",
+          "x": 130,
+          "y": 1546,
+          "width": 111.09375,
+          "height": 56
+        },
+        {
+          "text": "2025",
+          "x": 470,
+          "y": 1546,
+          "width": 108.796875,
+          "height": 56
+        },
+        {
+          "text": "2026",
+          "x": 810,
+          "y": 1546,
+          "width": 108.609375,
+          "height": 56
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 615,
+      "boxes": [
+        {
+          "text": "2024 · 2025 · 2026",
+          "x": 120,
+          "y": 152,
+          "width": 362.09375,
+          "height": 51
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 407,
+          "width": 93.671875,
+          "height": 252
+        },
+        {
+          "text": "DEMI-FINALES.",
+          "x": 335,
+          "y": 535,
+          "width": 414.03125,
+          "height": 94
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 787,
+          "width": 93.671875,
+          "height": 252
+        },
+        {
+          "text": "DÉFAITES.",
+          "x": 335,
+          "y": 915,
+          "width": 285.40625,
+          "height": 94
+        },
+        {
+          "text": "LE PASSIF EST LOURD.",
+          "x": 120,
+          "y": 1256,
+          "width": 531.25,
+          "height": 80
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 656,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 665,
+      "boxes": [
+        {
+          "text": "L’ESPAGNE AUJOURD’HUI",
+          "x": 120,
+          "y": 152,
+          "width": 514.546875,
+          "height": 51
+        },
+        {
+          "text": "CHAMPIONNE",
+          "x": 120,
+          "y": 314,
+          "width": 445.75,
+          "height": 114
+        },
+        {
+          "text": "D’EUROPE.",
+          "x": 120,
+          "y": 429,
+          "width": 353.59375,
+          "height": 114
+        },
+        {
+          "text": "ET DU MONDE.",
+          "x": 120,
+          "y": 1144,
+          "width": 475.015625,
+          "height": 114
+        },
+        {
+          "text": "EURO 2024 · MONDIAL 2026",
+          "x": 120,
+          "y": 1427,
+          "width": 559.828125,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 705,
+      "boxes": [
+        {
+          "text": "L’ESPAGNE AUJOURD’HUI",
+          "x": 120,
+          "y": 152,
+          "width": 514.546875,
+          "height": 51
+        },
+        {
+          "text": "CHAMPIONNE",
+          "x": 120,
+          "y": 314,
+          "width": 445.75,
+          "height": 114
+        },
+        {
+          "text": "D’EUROPE.",
+          "x": 120,
+          "y": 429,
+          "width": 353.59375,
+          "height": 114
+        },
+        {
+          "text": "ET DU MONDE.",
+          "x": 120,
+          "y": 1144,
+          "width": 475.015625,
+          "height": 114
+        },
+        {
+          "text": "EURO 2024 · MONDIAL 2026",
+          "x": 120,
+          "y": 1427,
+          "width": 559.828125,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 795,
+      "boxes": [
+        {
+          "text": "PHASE DE LIGUES 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 535.421875,
+          "height": 51
+        },
+        {
+          "text": "YAMAL",
+          "x": 120,
+          "y": 281,
+          "width": 339.921875,
+          "height": 168
+        },
+        {
+          "text": "4",
+          "x": 120,
+          "y": 1086,
+          "width": 116.84375,
+          "height": 276
+        },
+        {
+          "text": "BUTS.",
+          "x": 400,
+          "y": 1249,
+          "width": 202.359375,
+          "height": 114
+        },
+        {
+          "text": "LISTES DE MARS : À VENIR.",
+          "x": 120,
+          "y": 1497,
+          "width": 532.984375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 906,
+      "boxes": [
+        {
+          "text": "PHASE DE LIGUES 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 535.421875,
+          "height": 51
+        },
+        {
+          "text": "MERINO",
+          "x": 120,
+          "y": 282,
+          "width": 353.09375,
+          "height": 156
+        },
+        {
+          "text": "3",
+          "x": 120,
+          "y": 1026,
+          "width": 102.59375,
+          "height": 276
+        },
+        {
+          "text": "BUTS.",
+          "x": 400,
+          "y": 1314,
+          "width": 191.703125,
+          "height": 108
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1014,
+      "boxes": [
+        {
+          "text": "UNE MENACE COLLECTIVE",
+          "x": 120,
+          "y": 152,
+          "width": 537.171875,
+          "height": 51
+        },
+        {
+          "text": "16",
+          "x": 120,
+          "y": 269,
+          "width": 134.109375,
+          "height": 216
+        },
+        {
+          "text": "BUTS",
+          "x": 410,
+          "y": 384,
+          "width": 168.75,
+          "height": 107
+        },
+        {
+          "text": "EN PHASE DE LIGUES",
+          "x": 120,
+          "y": 532,
+          "width": 423.453125,
+          "height": 51
+        },
+        {
+          "text": "YAMAL + MERINO :",
+          "x": 120,
+          "y": 766,
+          "width": 434.09375,
+          "height": 80
+        },
+        {
+          "text": "7 DES 16 BUTS.",
+          "x": 120,
+          "y": 871,
+          "width": 353.171875,
+          "height": 80
+        },
+        {
+          "text": "CIRCULATION ILLUSTRÉE",
+          "x": 120,
+          "y": 1467,
+          "width": 502.4375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1080,
+      "boxes": [
+        {
+          "text": "UNE MENACE COLLECTIVE",
+          "x": 120,
+          "y": 152,
+          "width": 537.171875,
+          "height": 51
+        },
+        {
+          "text": "16",
+          "x": 120,
+          "y": 269,
+          "width": 134.109375,
+          "height": 216
+        },
+        {
+          "text": "BUTS",
+          "x": 410,
+          "y": 384,
+          "width": 168.75,
+          "height": 107
+        },
+        {
+          "text": "EN PHASE DE LIGUES",
+          "x": 120,
+          "y": 532,
+          "width": 423.453125,
+          "height": 51
+        },
+        {
+          "text": "YAMAL + MERINO :",
+          "x": 120,
+          "y": 766,
+          "width": 434.09375,
+          "height": 80
+        },
+        {
+          "text": "7 DES 16 BUTS.",
+          "x": 120,
+          "y": 871,
+          "width": 353.171875,
+          "height": 80
+        },
+        {
+          "text": "CIRCULATION ILLUSTRÉE",
+          "x": 120,
+          "y": 1467,
+          "width": 502.4375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1106,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1115,
+      "boxes": [
+        {
+          "text": "LA FRANCE A DES ARGUMENTS",
+          "x": 120,
+          "y": 152,
+          "width": 628.09375,
+          "height": 51
+        },
+        {
+          "text": "MAIS LES BLEUS",
+          "x": 120,
+          "y": 1074,
+          "width": 525.625,
+          "height": 109
+        },
+        {
+          "text": "ONT DES ARMES.",
+          "x": 120,
+          "y": 1184,
+          "width": 540.1875,
+          "height": 109
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1155,
+      "boxes": [
+        {
+          "text": "LA FRANCE A DES ARGUMENTS",
+          "x": 120,
+          "y": 152,
+          "width": 628.09375,
+          "height": 51
+        },
+        {
+          "text": "MAIS LES BLEUS",
+          "x": 120,
+          "y": 1074,
+          "width": 525.625,
+          "height": 109
+        },
+        {
+          "text": "ONT DES ARMES.",
+          "x": 120,
+          "y": 1184,
+          "width": 540.1875,
+          "height": 109
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1245,
+      "boxes": [
+        {
+          "text": "ZIDANE · CONFÉRENCE DU 15 NOV.",
+          "x": 120,
+          "y": 152,
+          "width": 703.640625,
+          "height": 51
+        },
+        {
+          "text": "MBAPPÉ",
+          "x": 120,
+          "y": 291,
+          "width": 407.828125,
+          "height": 168
+        },
+        {
+          "text": "SALUÉ PAR",
+          "x": 120,
+          "y": 1195,
+          "width": 315.453125,
+          "height": 96
+        },
+        {
+          "text": "ZIDANE.",
+          "x": 120,
+          "y": 1295,
+          "width": 225.6875,
+          "height": 96
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1335,
+      "boxes": [
+        {
+          "text": "REPÈRES DE NOVEMBRE",
+          "x": 120,
+          "y": 152,
+          "width": 485.078125,
+          "height": 51
+        },
+        {
+          "text": "UN GROUPE",
+          "x": 120,
+          "y": 284,
+          "width": 374.234375,
+          "height": 112
+        },
+        {
+          "text": "À CONSTRUIRE.",
+          "x": 120,
+          "y": 1284,
+          "width": 508.53125,
+          "height": 112
+        },
+        {
+          "text": "CHERKI",
+          "x": 120,
+          "y": 1496,
+          "width": 125.484375,
+          "height": 58
+        },
+        {
+          "text": "RABIOT",
+          "x": 545,
+          "y": 1496,
+          "width": 128.03125,
+          "height": 58
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1425,
+      "boxes": [
+        {
+          "text": "LE CYCLE ZIDANE",
+          "x": 120,
+          "y": 152,
+          "width": 355.875,
+          "height": 51
+        },
+        {
+          "text": "1ERS",
+          "x": 120,
+          "y": 336,
+          "width": 384.34375,
+          "height": 276
+        },
+        {
+          "text": "DU GROUPE A1.",
+          "x": 120,
+          "y": 1104,
+          "width": 496.09375,
+          "height": 114
+        },
+        {
+          "text": "UNE PLACE DANS LES QUARTS ACQUISE.",
+          "x": 120,
+          "y": 1407,
+          "width": 818.796875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1515,
+      "boxes": [
+        {
+          "text": "LE RETOUR AU STADE DE FRANCE",
+          "x": 120,
+          "y": 152,
+          "width": 672.65625,
+          "height": 51
+        },
+        {
+          "text": "ET LE RETOUR",
+          "x": 120,
+          "y": 1104,
+          "width": 503.609375,
+          "height": 120
+        },
+        {
+          "text": "À DOMICILE.",
+          "x": 120,
+          "y": 1224,
+          "width": 427.8125,
+          "height": 120
+        },
+        {
+          "text": "28 MARS 2027",
+          "x": 120,
+          "y": 1487,
+          "width": 285.609375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1556,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1565,
+      "boxes": [
+        {
+          "text": "MATCH ALLER · EN ESPAGNE",
+          "x": 120,
+          "y": 152,
+          "width": 575.78125,
+          "height": 51
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 255,
+          "y": 333,
+          "width": 341.671875,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 255,
+          "y": 473,
+          "width": 299.359375,
+          "height": 126
+        },
+        {
+          "text": "25 MARS",
+          "x": 120,
+          "y": 926,
+          "width": 434.421875,
+          "height": 168
+        },
+        {
+          "text": "2027",
+          "x": 120,
+          "y": 1103,
+          "width": 186.90625,
+          "height": 126
+        },
+        {
+          "text": "20 H 45 · HEURE DE PARIS",
+          "x": 120,
+          "y": 1377,
+          "width": 514.71875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1614,
+      "boxes": [
+        {
+          "text": "MATCH ALLER · EN ESPAGNE",
+          "x": 120,
+          "y": 152,
+          "width": 575.78125,
+          "height": 51
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 255,
+          "y": 333,
+          "width": 341.671875,
+          "height": 126
+        },
+        {
+          "text": "FRANCE",
+          "x": 255,
+          "y": 473,
+          "width": 299.359375,
+          "height": 126
+        },
+        {
+          "text": "25 MARS",
+          "x": 120,
+          "y": 926,
+          "width": 434.421875,
+          "height": 168
+        },
+        {
+          "text": "2027",
+          "x": 120,
+          "y": 1103,
+          "width": 186.90625,
+          "height": 126
+        },
+        {
+          "text": "20 H 45 · HEURE DE PARIS",
+          "x": 120,
+          "y": 1377,
+          "width": 514.71875,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1734,
+      "boxes": [
+        {
+          "text": "MATCH RETOUR · EN FRANCE",
+          "x": 120,
+          "y": 152,
+          "width": 590.109375,
+          "height": 51
+        },
+        {
+          "text": "FRANCE",
+          "x": 255,
+          "y": 333,
+          "width": 299.359375,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 255,
+          "y": 473,
+          "width": 341.671875,
+          "height": 126
+        },
+        {
+          "text": "28 MARS",
+          "x": 120,
+          "y": 1031,
+          "width": 433.875,
+          "height": 168
+        },
+        {
+          "text": "2027",
+          "x": 120,
+          "y": 1203,
+          "width": 186.90625,
+          "height": 126
+        },
+        {
+          "text": "20 H 45 · STADE DE FRANCE",
+          "x": 120,
+          "y": 1417,
+          "width": 556.03125,
+          "height": 51
+        },
+        {
+          "text": "VUE DU STADE · PHOTO 2016",
+          "x": 120,
+          "y": 1577,
+          "width": 573.078125,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1854,
+      "boxes": [
+        {
+          "text": "DEUX MATCHS. UN SEUL BILLET.",
+          "x": 120,
+          "y": 152,
+          "width": 641.5,
+          "height": 51
+        },
+        {
+          "text": "25 MARS",
+          "x": 120,
+          "y": 860,
+          "width": 226.53125,
+          "height": 88
+        },
+        {
+          "text": "28 MARS",
+          "x": 640,
+          "y": 860,
+          "width": 226.234375,
+          "height": 88
+        },
+        {
+          "text": "UNE PLACE",
+          "x": 120,
+          "y": 1103,
+          "width": 455.0625,
+          "height": 138
+        },
+        {
+          "text": "EN DEMI-FINALE.",
+          "x": 120,
+          "y": 1244,
+          "width": 601.8125,
+          "height": 120
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1916,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1925,
+      "boxes": [
+        {
+          "text": "QUARTS DE FINALE · 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.390625,
+          "height": 51
+        },
+        {
+          "text": "LES 4 AFFICHES.",
+          "x": 120,
+          "y": 258,
+          "width": 621.390625,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 235,
+          "y": 514,
+          "width": 185.484375,
+          "height": 68
+        },
+        {
+          "text": "FRANCE",
+          "x": 645,
+          "y": 514,
+          "width": 162.515625,
+          "height": 68
+        },
+        {
+          "text": "4 DUELS POUR LE FINAL FOUR.",
+          "x": 120,
+          "y": 1507,
+          "width": 610.859375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 1965,
+      "boxes": [
+        {
+          "text": "QUARTS DE FINALE · 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.390625,
+          "height": 51
+        },
+        {
+          "text": "LES 4 AFFICHES.",
+          "x": 120,
+          "y": 258,
+          "width": 621.390625,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 235,
+          "y": 514,
+          "width": 185.484375,
+          "height": 68
+        },
+        {
+          "text": "FRANCE",
+          "x": 645,
+          "y": 514,
+          "width": 162.515625,
+          "height": 68
+        },
+        {
+          "text": "4 DUELS POUR LE FINAL FOUR.",
+          "x": 120,
+          "y": 1507,
+          "width": 610.859375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2055,
+      "boxes": [
+        {
+          "text": "QUARTS DE FINALE · 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.390625,
+          "height": 51
+        },
+        {
+          "text": "LES 4 AFFICHES.",
+          "x": 120,
+          "y": 258,
+          "width": 621.390625,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 235,
+          "y": 514,
+          "width": 185.484375,
+          "height": 68
+        },
+        {
+          "text": "FRANCE",
+          "x": 645,
+          "y": 514,
+          "width": 162.515625,
+          "height": 68
+        },
+        {
+          "text": "BELGIQUE",
+          "x": 235,
+          "y": 749,
+          "width": 196.265625,
+          "height": 68
+        },
+        {
+          "text": "ALLEMAGNE",
+          "x": 645,
+          "y": 749,
+          "width": 245.328125,
+          "height": 68
+        },
+        {
+          "text": "NORVÈGE",
+          "x": 235,
+          "y": 984,
+          "width": 190.15625,
+          "height": 68
+        },
+        {
+          "text": "ANGLETERRE",
+          "x": 645,
+          "y": 984,
+          "width": 268.484375,
+          "height": 68
+        },
+        {
+          "text": "4 DUELS POUR LE FINAL FOUR.",
+          "x": 120,
+          "y": 1507,
+          "width": 610.859375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2145,
+      "boxes": [
+        {
+          "text": "QUARTS DE FINALE · 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.390625,
+          "height": 51
+        },
+        {
+          "text": "LES 4 AFFICHES.",
+          "x": 120,
+          "y": 258,
+          "width": 621.390625,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 235,
+          "y": 514,
+          "width": 185.484375,
+          "height": 68
+        },
+        {
+          "text": "FRANCE",
+          "x": 645,
+          "y": 514,
+          "width": 162.515625,
+          "height": 68
+        },
+        {
+          "text": "BELGIQUE",
+          "x": 235,
+          "y": 749,
+          "width": 196.265625,
+          "height": 68
+        },
+        {
+          "text": "ALLEMAGNE",
+          "x": 645,
+          "y": 749,
+          "width": 245.328125,
+          "height": 68
+        },
+        {
+          "text": "NORVÈGE",
+          "x": 235,
+          "y": 984,
+          "width": 190.15625,
+          "height": 68
+        },
+        {
+          "text": "ANGLETERRE",
+          "x": 645,
+          "y": 984,
+          "width": 268.484375,
+          "height": 68
+        },
+        {
+          "text": "PAYS-BAS",
+          "x": 235,
+          "y": 1219,
+          "width": 200.984375,
+          "height": 68
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 645,
+          "y": 1219,
+          "width": 216.828125,
+          "height": 68
+        },
+        {
+          "text": "4 DUELS POUR LE FINAL FOUR.",
+          "x": 120,
+          "y": 1507,
+          "width": 610.859375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2235,
+      "boxes": [
+        {
+          "text": "QUARTS DE FINALE · 2026–27",
+          "x": 120,
+          "y": 152,
+          "width": 586.390625,
+          "height": 51
+        },
+        {
+          "text": "LES 4 AFFICHES.",
+          "x": 120,
+          "y": 258,
+          "width": 621.390625,
+          "height": 126
+        },
+        {
+          "text": "ESPAGNE",
+          "x": 235,
+          "y": 514,
+          "width": 185.484375,
+          "height": 68
+        },
+        {
+          "text": "FRANCE",
+          "x": 645,
+          "y": 514,
+          "width": 162.515625,
+          "height": 68
+        },
+        {
+          "text": "BELGIQUE",
+          "x": 235,
+          "y": 749,
+          "width": 196.265625,
+          "height": 68
+        },
+        {
+          "text": "ALLEMAGNE",
+          "x": 645,
+          "y": 749,
+          "width": 245.328125,
+          "height": 68
+        },
+        {
+          "text": "NORVÈGE",
+          "x": 235,
+          "y": 984,
+          "width": 190.15625,
+          "height": 68
+        },
+        {
+          "text": "ANGLETERRE",
+          "x": 645,
+          "y": 984,
+          "width": 268.484375,
+          "height": 68
+        },
+        {
+          "text": "PAYS-BAS",
+          "x": 235,
+          "y": 1219,
+          "width": 200.984375,
+          "height": 68
+        },
+        {
+          "text": "PORTUGAL",
+          "x": 645,
+          "y": 1219,
+          "width": 216.828125,
+          "height": 68
+        },
+        {
+          "text": "4 DUELS POUR LE FINAL FOUR.",
+          "x": 120,
+          "y": 1507,
+          "width": 610.859375,
+          "height": 51
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2276,
+      "boxes": [],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2285,
+      "boxes": [
+        {
+          "text": "FRANCE · ESPAGNE",
+          "x": 120,
+          "y": 152,
+          "width": 390.25,
+          "height": 51
+        },
+        {
+          "text": "LA BÊTE NOIRE",
+          "x": 120,
+          "y": 1104,
+          "width": 535.40625,
+          "height": 120
+        },
+        {
+          "text": "DES BLEUS ?",
+          "x": 120,
+          "y": 1224,
+          "width": 452.5,
+          "height": 120
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2325,
+      "boxes": [
+        {
+          "text": "FRANCE · ESPAGNE",
+          "x": 120,
+          "y": 152,
+          "width": 390.25,
+          "height": 51
+        },
+        {
+          "text": "LA BÊTE NOIRE",
+          "x": 120,
+          "y": 1104,
+          "width": 535.40625,
+          "height": 120
+        },
+        {
+          "text": "DES BLEUS ?",
+          "x": 120,
+          "y": 1224,
+          "width": 452.5,
+          "height": 120
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2463,
+      "boxes": [
+        {
+          "text": "UN AUTRE GROUPE. UN AUTRE DÉFI.",
+          "x": 120,
+          "y": 152,
+          "width": 721.46875,
+          "height": 51
+        },
+        {
+          "text": "OU UN NOUVEAU",
+          "x": 120,
+          "y": 1074,
+          "width": 509.265625,
+          "height": 106
+        },
+        {
+          "text": "CHAPITRE",
+          "x": 120,
+          "y": 1184,
+          "width": 314.78125,
+          "height": 106
+        },
+        {
+          "text": "À ÉCRIRE ?",
+          "x": 120,
+          "y": 1294,
+          "width": 344.875,
+          "height": 106
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2580,
+      "boxes": [
+        {
+          "text": "TU EN PENSES",
+          "x": 120,
+          "y": 1134,
+          "width": 470.40625,
+          "height": 110
+        },
+        {
+          "text": "QUOI ?",
+          "x": 120,
+          "y": 1244,
+          "width": 213.625,
+          "height": 110
+        },
+        {
+          "text": "DIS-LE EN COMMENTAIRE.",
+          "x": 120,
+          "y": 1396,
+          "width": 482.15625,
+          "height": 64
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 210,
+          "y": 1525,
+          "width": 246.4375,
+          "height": 52
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1525,
+          "width": 230.265625,
+          "height": 52
+        },
+        {
+          "text": "Les pronos entre potes",
+          "x": 120,
+          "y": 1607,
+          "width": 458.734375,
+          "height": 53
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "frame": 2694,
+      "boxes": [
+        {
+          "text": "TU EN PENSES",
+          "x": 120,
+          "y": 1134,
+          "width": 470.40625,
+          "height": 110
+        },
+        {
+          "text": "QUOI ?",
+          "x": 120,
+          "y": 1244,
+          "width": 213.625,
+          "height": 110
+        },
+        {
+          "text": "DIS-LE EN COMMENTAIRE.",
+          "x": 120,
+          "y": 1396,
+          "width": 482.15625,
+          "height": 64
+        },
+        {
+          "text": "LIGUE ONZE",
+          "x": 210,
+          "y": 1525,
+          "width": 246.4375,
+          "height": 52
+        },
+        {
+          "text": "ligueonze.fr",
+          "x": 655,
+          "y": 1525,
+          "width": 230.265625,
+          "height": 52
+        },
+        {
+          "text": "Les pronos entre potes",
+          "x": 120,
+          "y": 1607,
+          "width": 458.734375,
+          "height": 53
+        }
+      ],
+      "errors": [],
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "font": "800 60px NewsTitle",
+          "loaded": true
+        },
+        {
+          "font": "600 44px NewsBody",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "subtitles": false
+}

@@ -1,0 +1,103 @@
+{
+  "status": "verified-uefa-match-api",
+  "verifiedAt": "2026-11-20",
+  "source": "https://match.uefa.com/v5/matches?competitionId=2014&seasonYear=2027&limit=100&offset=0",
+  "matches": [
+    {
+      "id": "2050899",
+      "home": "Portugal",
+      "away": "Netherlands",
+      "kickoff": {
+        "date": "2027-03-30",
+        "dateTime": "2027-03-30T18:45:00Z",
+        "utcOffsetInHours": 2
+      },
+      "leg": 2,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050898",
+      "home": "England",
+      "away": "Norway",
+      "kickoff": {
+        "date": "2027-03-30",
+        "dateTime": "2027-03-30T18:45:00Z",
+        "utcOffsetInHours": 2
+      },
+      "leg": 2,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050897",
+      "home": "France",
+      "away": "Spain",
+      "kickoff": {
+        "date": "2027-03-28",
+        "dateTime": "2027-03-28T18:45:00Z",
+        "utcOffsetInHours": 2
+      },
+      "leg": 2,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050896",
+      "home": "Germany",
+      "away": "Belgium",
+      "kickoff": {
+        "date": "2027-03-28",
+        "dateTime": "2027-03-28T18:45:00Z",
+        "utcOffsetInHours": 2
+      },
+      "leg": 2,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050902",
+      "home": "Netherlands",
+      "away": "Portugal",
+      "kickoff": {
+        "date": "2027-03-27",
+        "dateTime": "2027-03-27T19:45:00Z",
+        "utcOffsetInHours": 1
+      },
+      "leg": 1,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050903",
+      "home": "Norway",
+      "away": "England",
+      "kickoff": {
+        "date": "2027-03-27",
+        "dateTime": "2027-03-27T17:00:00Z",
+        "utcOffsetInHours": 1
+      },
+      "leg": 1,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050901",
+      "home": "Belgium",
+      "away": "Germany",
+      "kickoff": {
+        "date": "2027-03-25",
+        "dateTime": "2027-03-25T19:45:00Z",
+        "utcOffsetInHours": 1
+      },
+      "leg": 1,
+      "round": "Quarter-finals"
+    },
+    {
+      "id": "2050900",
+      "home": "Spain",
+      "away": "France",
+      "kickoff": {
+        "date": "2027-03-25",
+        "dateTime": "2027-03-25T19:45:00Z",
+        "utcOffsetInHours": 1
+      },
+      "leg": 1,
+      "round": "Quarter-finals"
+    }
+  ]
+}

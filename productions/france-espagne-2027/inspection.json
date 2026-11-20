@@ -1,0 +1,102 @@
+{
+  "sha256": "dc0dc9745e9096865ac97cc53a603550921ae1c15638bd473d0cebe16bed534a",
+  "duration": 90.0,
+  "audioStreams": 0,
+  "subtitleStreams": 0,
+  "videoStreams": 1,
+  "blackIntervals": [],
+  "fullDecode": true,
+  "keyTimes": [
+    0.8,
+    5.8,
+    8.3,
+    12.8,
+    16.2,
+    20.5,
+    23.5,
+    26.5,
+    30.2,
+    33.8,
+    38.5,
+    41.5,
+    44.5,
+    47.5,
+    50.5,
+    53.8,
+    57.8,
+    61.8,
+    65.5,
+    68.5,
+    71.5,
+    74.5,
+    77.5,
+    82.1,
+    86,
+    89.8
+  ],
+  "nativeCaptureCount": 14,
+  "motionWindows": [
+    [
+      "ouverture",
+      0,
+      1
+    ],
+    [
+      "choc",
+      2.2,
+      3.4
+    ],
+    [
+      "duel",
+      4.3,
+      5.5
+    ],
+    [
+      "histoire",
+      10.9,
+      12.1
+    ],
+    [
+      "espagne",
+      21.8,
+      23
+    ],
+    [
+      "yamal-merino",
+      28.8,
+      30
+    ],
+    [
+      "circulation",
+      32.5,
+      34
+    ],
+    [
+      "france",
+      36.8,
+      38
+    ],
+    [
+      "portraits",
+      42.8,
+      44
+    ],
+    [
+      "calendrier",
+      55.95,
+      57.15
+    ],
+    [
+      "tableau",
+      69.8,
+      71
+    ],
+    [
+      "question",
+      84.5,
+      85.7
+    ]
+  ],
+  "motionSamplingFps": 15,
+  "method": "Examen visuel de captures du MP4 et de12fenêtres échantillonnées image par image. Pas de certification de fluidité par lecture continue àvitesse réelle. Aucun contrôle sonore nécessaire : absence de flux audio prouvée parFFprobe."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "france-espagne-2027",
+  "component": "FranceSpainNews",
+  "status": "rendered-reviewed",
+  "profile": "ligue-onze",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationSeconds": 90,
+  "safeArea": {
+    "top": 130,
+    "right": 140,
+    "bottom": 250,
+    "left": 110
+  },
+  "palette": {
+    "background": "#080B0E",
+    "foreground": "#F6F7F8",
+    "accent": "#C8FF00",
+    "muted": "#AAB6BE"
+  },
+  "subtitles": {
+    "enabled": false,
+    "fontSize": 52,
+    "maxChars": 70
+  },
+  "voice": null,
+  "captions": [],
+  "audio": null,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 7
+    },
+    {
+      "id": "history",
+      "startSeconds": 7,
+      "endSeconds": 22
+    },
+    {
+      "id": "spain",
+      "startSeconds": 22,
+      "endSeconds": 37
+    },
+    {
+      "id": "france",
+      "startSeconds": 37,
+      "endSeconds": 52
+    },
+    {
+      "id": "calendar",
+      "startSeconds": 52,
+      "endSeconds": 64
+    },
+    {
+      "id": "draw",
+      "startSeconds": 64,
+      "endSeconds": 76
+    },
+    {
+      "id": "debate",
+      "startSeconds": 76,
+      "endSeconds": 90
+    }
+  ],
+  "qaFonts": [
+    "800 60px NewsTitle",
+    "600 44px NewsBody"
+  ]
+}

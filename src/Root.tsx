@@ -1,3 +1,4 @@
+import {FranceSpainNews} from './productions/france-spain';
 import {NovemberPredictions} from './productions/pronos-november';
 import {EraseLegend} from './productions/erase-legend';
 import {FiveScores,FiveScoresClean} from './productions/five-scores';
@@ -9,6 +10,7 @@ import {Workshop} from './Workshop';
 import demo from '../productions/espace/manifest.json';
 import zidane from '../productions/zidane-2006/manifest.json';
 export const Root = () => <>
+  <Composition id="FranceSpainNews" component={FranceSpainNews} durationInFrames={2700} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>
   <Composition id="NovemberPredictions" component={NovemberPredictions} durationInFrames={1050} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>
   <Composition id="EraseLegend" component={EraseLegend} durationInFrames={2640} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>
   <Composition id="FiveScoresClean" component={FiveScoresClean} durationInFrames={Math.round(fiveScores.durationSeconds*30)} fps={30} width={1080} height={1920} defaultProps={{qa:false}}/>

@@ -1,0 +1,70 @@
+{
+  "history": [
+    {
+      "year": 2024,
+      "competition": "EURO 2024",
+      "date": "9 JUILLET 2024",
+      "franceGoals": 1,
+      "spainGoals": 2,
+      "headline": "LA FINALE S’ÉLOIGNE."
+    },
+    {
+      "year": 2025,
+      "competition": "LIGUE DES NATIONS",
+      "date": "5 JUIN 2025",
+      "franceGoals": 4,
+      "spainGoals": 5,
+      "headline": "UN MATCH À NEUF BUTS."
+    },
+    {
+      "year": 2026,
+      "competition": "MONDIAL 2026",
+      "date": "14 JUILLET 2026",
+      "franceGoals": 0,
+      "spainGoals": 2,
+      "headline": "L’ÉTÉ S’ARRÊTE EN DEMI."
+    }
+  ],
+  "spain": {
+    "yamalGoals": 4,
+    "merinoGoals": 3,
+    "otherGoals": 9,
+    "totalGoals": 16
+  },
+  "france": {
+    "groupRank": 1,
+    "group": "A1",
+    "coach": "ZINÉDINE ZIDANE"
+  },
+  "calendar": {
+    "firstDate": "25 MARS 2027",
+    "secondDate": "28 MARS 2027",
+    "time": "20 H 45 · PARIS"
+  },
+  "drawPairs": [
+    [
+      "ESP",
+      "FRA",
+      "ESPAGNE",
+      "FRANCE"
+    ],
+    [
+      "BEL",
+      "GER",
+      "BELGIQUE",
+      "ALLEMAGNE"
+    ],
+    [
+      "NOR",
+      "ENG",
+      "NORVÈGE",
+      "ANGLETERRE"
+    ],
+    [
+      "NED",
+      "POR",
+      "PAYS-BAS",
+      "PORTUGAL"
+    ]
+  ]
+}
